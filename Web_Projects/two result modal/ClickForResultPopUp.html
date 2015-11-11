@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>click-for-result pop-up modal demo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> <!-- //Bootstrap CDN css stylesheet -->
+</head>
+<body>
+<div class="container">
+  <h2>click-for-result pop-up modal</h2>
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open pop-up</button>
+  <h3 id = "result"> you haven't clicked any button yet</h3>
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Header of the pop-up goes here</h4>
+        </div>
+        <div class="modal-body">
+          <p>Message goes here</p>
+          <p>Please click the buttons for different results</p>
+        </div>
+        <div class="modal-footer">
+          <button href = "#" type="button" class="btn btn-default" data-dismiss="modal" id = "YesButton">Yes</button>
+          <button href = "#" type="button" class="btn btn-default" data-dismiss="modal" id = "NoButton">No</button>
+        </div>
+      </div>      
+    </div>
+  </div>  
+</div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="clickForResult.js">
+// callback functions for different buttons goes here (or a separate javascript file)
+
+</script>
+
+</body>
+</html>

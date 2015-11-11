@@ -1,0 +1,14 @@
+#mySimplePopUpModal {
+top:20%;
+right:0%;
+outline: none;
+}
+
+ 
+@media screen and (min-width: 768px) {
+	
+	#mySimplePopUpModal .modal-dialog  {
+		width:20%;
+	}
+
+}

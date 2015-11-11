@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>custom form modal demo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> <!-- //Bootstrap CDN css stylesheet -->
+</head>
+<body>
+<div class="container">
+  <h2>custom form modal</h2>
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open pop-up form</button>
+  <h3 id = "result"> You haven't entered any search criteria yet</h3>
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Please enter your search criteria here</h4>
+        </div>
+        <div class="modal-body">
+          <div class="contaier">
+          <ul class = "nav nav-tabs" id = "tabs">
+            <li class = "active" id="default_tab"><a data-toggle = "tab" href = "#tab_one">By name and gender</a></li>
+            <li><a data-toggle ="tab" href="#tab_two">By ID number</a></li>
+          </ul>
+          <div class="tab-content" style="padding:25px">
+            <div id="tab_one" class = "tab-pane fade in active">
+               <div class="row">  
+                  <div class="col-md-12"> 
+                    <form class="form-horizontal"> 
+                      <div class="form-group"> 
+                        <label class="col-md-4 control-label" for="name">Name</label> 
+                        <div class="col-md-4"> 
+                          <input id="name" name="name" type="text" placeholder="Your name" class="form-control input-md"> 
+                          <span class="help-block">Here goes your name</span> 
+                        </div> 
+                      </div> 
+                      <div class="form-group"> 
+                        <label class="col-md-4 control-label" for="sex">Sex</label> 
+                        <div class="col-md-4"> 
+                          <div class="radio"> 
+                            <label for="male">
+                              <input type="radio" name="sex" id="male" value="male" checked="checked"> Male 
+                            </label> 
+                          </div>
+                          <div class="radio"> 
+                            <label for="female"> 
+                              <input type="radio" name="sex" id="female" value="female"> Female 
+                            </label>
+                          </div> 
+                        </div> 
+                      </div>
+                    </form> 
+                  </div>  
+                </div>
+            </div>
+            <div id="tab_two" class="tab-pane fade">
+              <div class="row">  
+                <div class="col-md-12"> 
+                  <form class="form-horizontal"> 
+                    <div class="form-group"> 
+                      <label class="col-md-4 control-label" for="ID">ID</label> 
+                      <div class="col-md-4"> 
+                        <input id="ID" name="ID" type="text" placeholder="Your ID" class="form-control input-md"> 
+                        <span class="help-block">Here goes your ID</span> 
+                      </div> 
+                    </div> 
+                  </form> 
+                </div>  
+              </div>   
+            </div>
+          </div>
+          <p>Message common to differnt tabs can go here</p>
+          <p>Search using the current criteria</p>
+        </div>
+      </div>
+        <div class="modal-footer">
+          <button href = "#" type="button" class="btn btn-default" data-dismiss="modal" id = "search_button">Search</button>
+          <button href = "#" type="button" class="btn btn-default" data-dismiss="modal" id = "cancel_button">Cancel</button>
+        </div>
+      </div>      
+    </div>
+  </div>  
+</div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="customForm.js">
+
+</script>
+
+</body>
+</html>
