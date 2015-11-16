@@ -36,7 +36,7 @@ def get_current_house_representative_data():
                 result['delegate'] = None
                 result['resident_commissioner'] = 'Yes'
             result['state'] = row.find_all('td')[0].contents[-1][-2:]
-            result['congressional_number'] = None
+            result['congressional_district'] = '0'
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
                 if re.search('\w+[.]',str(element)):
@@ -48,8 +48,10 @@ def get_current_house_representative_data():
             result['delegate'] = None
             result['resident_commissioner'] = None
             result['state'] = row.find_all('td')[0].contents[-1][-2:]
-
-            result['congressional_number'] = re.search('([0-9]+(d|st|th)|At Large)',row.find_all('td')[0].contents[-1]).group()
+            if re.search('At Large',row.find_all('td')[0].contents[-1]):
+                result['congressional_district'] = '1'
+            else:
+                result['congressional_district'] = re.search('[0-9]+',row.find_all('td')[0].contents[-1]).group()
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
                 if re.search('\w+[.]',str(element)):
@@ -64,7 +66,7 @@ def get_current_house_representative_data():
             else:
                 result['resident_commissioner'] = 'Yes'
                 result['delegate'] = None
-            result['congressional_number'] = None
+            result['congressional_district'] = '0'
             result['state'] = row.find_all('td')[0].contents[-1][-2:]
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
@@ -82,7 +84,10 @@ def get_current_house_representative_data():
             # remove the trailing comma and space
             result['name'] = unprocessed_name[:-2]
             result['party'] = 'R'
-            result['congressional_number'] = re.search('([0-9]+(th|d|st)|At Large)',string).group()
+            if re.search('At Large',string):
+                result['congressional_district'] = '1'
+            else:
+                result['congressional_district'] = re.search('[0-9]+',string).group()
             result['delegate'] = None
             result['resident_commissioner'] = None
             result['state'] = string[-2:]
