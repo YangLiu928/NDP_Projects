@@ -1,0 +1,5216 @@
+[
+    {
+        "name": "Abraham, Ralph Lee", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "LA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Science", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Adams, Alma S.", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Education", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Aderholt, Robert B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "AL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Aguilar, Pete", 
+        "resident_commissioner": null, 
+        "congressional_number": "31st", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Allen, Rick W.", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Education"
+        ]
+    }, 
+    {
+        "name": "Amash, Justin", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Amodei, Mark E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "NV", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Ashford, Brad", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "NE", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Babin, Brian", 
+        "resident_commissioner": null, 
+        "congressional_number": "36th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Barletta, Lou", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Homeland", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Barr, Andy", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "KY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Barton, Joe", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Bass, Karen", 
+        "resident_commissioner": null, 
+        "congressional_number": "37th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Beatty, Joyce", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Becerra, Xavier", 
+        "resident_commissioner": null, 
+        "congressional_number": "34th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Benishek, Dan", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Natural", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Bera, Ami", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Beyer, Donald S., Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Natural", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Bilirakis, Gus M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Bishop, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Bishop, Rob", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "UT", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Bishop, Sanford D., Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Black, Diane", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Blackburn, Marsha", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Select", 
+            "Budget", 
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Blum, Rod", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "IA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Blumenauer, Earl", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "OR", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Bonamici, Suzanne", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "OR", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Bordallo, Madeleine Z.", 
+        "resident_commissioner": null, 
+        "congressional_number": null, 
+        "state": "GU", 
+        "delegate": "Yes", 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Bost, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Small", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Boustany, Charles W., Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "LA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Boyle, Brendan F.", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Brady, Kevin", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Brady, Robert A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "House"
+        ]
+    }, 
+    {
+        "name": "Brat, Dave", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Education", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Bridenstine, Jim", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "OK", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Brooks, Mo", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "AL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Foreign", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Brooks, Susan W.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "Ethics", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Brown, Corrine", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Transportation", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Brownley, Julia", 
+        "resident_commissioner": null, 
+        "congressional_number": "26th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Transportation", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Buchanan, Vern", 
+        "resident_commissioner": null, 
+        "congressional_number": "16th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Buck, Ken", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "CO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Bucshon, Larry", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Burgess, Michael C.", 
+        "resident_commissioner": null, 
+        "congressional_number": "26th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Bustos, Cheri", 
+        "resident_commissioner": null, 
+        "congressional_number": "17th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Butterfield, G. K.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Byrne, Bradley", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "AL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Education", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Calvert, Ken", 
+        "resident_commissioner": null, 
+        "congressional_number": "42d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Capps, Lois", 
+        "resident_commissioner": null, 
+        "congressional_number": "24th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Capuano, Michael E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ethics", 
+            "Financial", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "C\u00c3\u00a1rdenas, Tony", 
+        "resident_commissioner": null, 
+        "congressional_number": "29th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Carney, John C., Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "At Large", 
+        "state": "DE", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Carson, Andr\u00c3\u00a9", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Transportation", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Carter, Earl L. \"Buddy\"", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Homeland", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Carter, John R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "31st", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Cartwright, Matt", 
+        "resident_commissioner": null, 
+        "congressional_number": "17th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Natural", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Castor, Kathy", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Castro, Joaquin", 
+        "resident_commissioner": null, 
+        "congressional_number": "20th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Chabot, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Small", 
+            "Foreign", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Chaffetz, Jason", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "UT", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Oversight", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Chu, Judy", 
+        "resident_commissioner": null, 
+        "congressional_number": "27th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Cicilline, David N.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "RI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Clark, Katherine M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Clarke, Yvette D.", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Ethics", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Clawson, Curt", 
+        "resident_commissioner": null, 
+        "congressional_number": "19th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Clay, Wm. Lacy", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Natural", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Cleaver, Emanuel", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Clyburn, James E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "SC", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Assistant"
+        ]
+    }, 
+    {
+        "name": "Coffman, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "CO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Cohen, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Cole, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "OK", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Collins, Chris", 
+        "resident_commissioner": null, 
+        "congressional_number": "27th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Collins, Doug", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Comstock, Barbara", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "House", 
+            "Science", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Conaway, K. Michael", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Connolly, Gerald E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Conyers, John, Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Cook, Paul", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Foreign", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Cooper, Jim", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Costa, Jim", 
+        "resident_commissioner": null, 
+        "congressional_number": "16th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Costello, Ryan A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Transportation", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Courtney, Joe", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "CT", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Education"
+        ]
+    }, 
+    {
+        "name": "Cramer, Kevin", 
+        "resident_commissioner": null, 
+        "congressional_number": "At Large", 
+        "state": "ND", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Crawford, Eric A. \"Rick\"", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "AR", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Crenshaw, Ander", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Crowley, Joseph", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Cuellar, Henry", 
+        "resident_commissioner": null, 
+        "congressional_number": "28th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Culberson, John Abney", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Cummings, Elijah E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Oversight", 
+            "Transportation", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Curbelo, Carlos", 
+        "resident_commissioner": null, 
+        "congressional_number": "26th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Small", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Davis, Danny K.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Davis, Rodney", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "House", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Davis, Susan A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "53d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Education"
+        ]
+    }, 
+    {
+        "name": "DeFazio, Peter A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "OR", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "DeGette, Diana", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "CO", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Delaney, John K.", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "DeLauro, Rosa L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "CT", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "DelBene, Suzan K.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Judiciary", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Denham, Jeff", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Natural", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Dent, Charles W.", 
+        "resident_commissioner": null, 
+        "congressional_number": "15th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ethics", 
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "DeSantis, Ron", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Judiciary", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "DeSaulnier, Mark", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "DesJarlais, Scott", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Foreign", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Deutch, Theodore E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "21st", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ethics", 
+            "Foreign", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Diaz-Balart, Mario", 
+        "resident_commissioner": null, 
+        "congressional_number": "25th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ]
+    }, 
+    {
+        "name": "Dingell, Debbie", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Doggett, Lloyd", 
+        "resident_commissioner": null, 
+        "congressional_number": "35th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Dold, Robert J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Donovan, Daniel M., Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Doyle, Michael F.", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Duckworth, Tammy", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Oversight", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Duffy, Sean P.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Duncan, Jeff", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "SC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Homeland", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Duncan, John J., Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Oversight", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Edwards, Donna F.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Ellison, Keith", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Ellmers, Renee L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Emmer, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Engel, Eliot L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "16th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Eshoo, Anna G.", 
+        "resident_commissioner": null, 
+        "congressional_number": "18th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Esty, Elizabeth H.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "CT", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Farenthold, Blake", 
+        "resident_commissioner": null, 
+        "congressional_number": "27th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Oversight", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Farr, Sam", 
+        "resident_commissioner": null, 
+        "congressional_number": "20th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Fattah, Chaka", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Fincher, Stephen Lee", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Fitzpatrick, Michael G.", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Fleischmann, Charles J. \"Chuck\"", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Fleming, John", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "LA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Flores, Bill", 
+        "resident_commissioner": null, 
+        "congressional_number": "17th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Forbes, J. Randy", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Fortenberry, Jeff", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "NE", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Foster, Bill", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Foxx, Virginia", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Frankel, Lois", 
+        "resident_commissioner": null, 
+        "congressional_number": "22d", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Franks, Trent", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Frelinghuysen, Rodney P.", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Fudge, Marcia L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Education"
+        ]
+    }, 
+    {
+        "name": "Gabbard, Tulsi", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "HI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Gallego, Ruben", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Garamendi, John", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Garrett, Scott", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Gibbs, Bob", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Gibson, Christopher P.", 
+        "resident_commissioner": null, 
+        "congressional_number": "19th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Gohmert, Louie", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Goodlatte, Bob", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Agriculture"
+        ]
+    }, 
+    {
+        "name": "Gosar, Paul A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Gowdy, Trey", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "SC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Select", 
+            "Ethics", 
+            "Judiciary", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Graham, Gwen", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Granger, Kay", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Graves, Garret", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "LA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Graves, Sam", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Graves, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Grayson, Alan", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Green, Al", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Green, Gene", 
+        "resident_commissioner": null, 
+        "congressional_number": "29th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Griffith, H. Morgan", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Grijalva, Ra\u00c3\u00bal M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Grothman, Glenn", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Education", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Guinta, Frank C.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "NH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Guthrie, Brett", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "KY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Guti\u00c3\u00a9rrez, Luis V.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Hahn, Janice", 
+        "resident_commissioner": null, 
+        "congressional_number": "44th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Small", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Hanna, Richard L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "22d", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Small", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Hardy, Cresent", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "NV", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Small", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Harper, Gregg", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "MS", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "House"
+        ]
+    }, 
+    {
+        "name": "Harris, Andy", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Hartzler, Vicky", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed", 
+            "Budget", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Hastings, Alcee L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "20th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Heck, Denny", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Heck, Joseph J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "NV", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Education", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Hensarling, Jeb", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Herrera Beutler, Jaime", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Hice, Jody B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Higgins, Brian", 
+        "resident_commissioner": null, 
+        "congressional_number": "26th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Hill, J. French", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "AR", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Himes, James A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "CT", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Hinojosa, Rub\u00c3\u00a9n", 
+        "resident_commissioner": null, 
+        "congressional_number": "15th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Holding, George", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Honda, Michael M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "17th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Hoyer, Steny H.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Democratic"
+        ]
+    }, 
+    {
+        "name": "Hudson, Richard", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Huelskamp, Tim", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "KS", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Small", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Huffman, Jared", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Natural", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Huizenga, Bill", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Hultgren, Randy", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Hunter, Duncan", 
+        "resident_commissioner": null, 
+        "congressional_number": "50th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Education", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Hurd, Will", 
+        "resident_commissioner": null, 
+        "congressional_number": "23d", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Homeland", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Hurt, Robert", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Israel, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Issa, Darrell E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "49th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Jackson Lee, Sheila", 
+        "resident_commissioner": null, 
+        "congressional_number": "18th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Homeland", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Jeffries, Hakeem S.", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Jenkins, Evan H.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "WV", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Jenkins, Lynn", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "KS", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Johnson, Bill", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Johnson, Eddie Bernice", 
+        "resident_commissioner": null, 
+        "congressional_number": "30th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Johnson, Henry C. \"Hank\", Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Johnson, Sam", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Jolly, David W.", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Jones, Walter B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Jordan, Jim", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Oversight", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Joyce, David P.", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Kaptur, Marcy", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Katko, John", 
+        "resident_commissioner": null, 
+        "congressional_number": "24th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Homeland", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Keating, William R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Kelly, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Kelly, Robin L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Kelly, Trent", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "MS", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Kennedy, Joseph P., III", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Kildee, Daniel T.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Kilmer, Derek", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Kind, Ron", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "King, Peter T.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Homeland", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "King, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "IA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Judiciary", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Kinzinger, Adam", 
+        "resident_commissioner": null, 
+        "congressional_number": "16th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Kirkpatrick, Ann", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Kline, John", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Knight, Stephen", 
+        "resident_commissioner": null, 
+        "congressional_number": "25th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Science", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Kuster, Ann M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "NH", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Labrador, Ra\u00c3\u00bal R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "ID", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "LaHood, Darin", 
+        "resident_commissioner": null, 
+        "congressional_number": "18th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "LaMalfa, Doug", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Lamborn, Doug", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "CO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Lance, Leonard", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Langevin, James R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "RI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Larsen, Rick", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Larson, John B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "CT", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ethics", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Latta, Robert E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Lawrence, Brenda L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Oversight", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Lee, Barbara", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ]
+    }, 
+    {
+        "name": "Levin, Sander M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Lewis, John", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Lieu, Ted", 
+        "resident_commissioner": null, 
+        "congressional_number": "33d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Lipinski, Daniel", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "LoBiondo, Frank A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Transportation", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Loebsack, David", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "IA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Lofgren, Zoe", 
+        "resident_commissioner": null, 
+        "congressional_number": "19th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "House", 
+            "Judiciary", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Long, Billy", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Loudermilk, Barry", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Homeland", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Love, Mia B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "UT", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Lowenthal, Alan S.", 
+        "resident_commissioner": null, 
+        "congressional_number": "47th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Lowey, Nita M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "17th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Lucas, Frank D.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "OK", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Financial", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Luetkemeyer, Blaine", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Luj\u00c3\u00a1n, Ben Ray", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "NM", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Lujan Grisham, Michelle", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "NM", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Lummis, Cynthia M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "At Large", 
+        "state": "WY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Lynch, Stephen F.", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "MacArthur, Thomas", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Maloney, Carolyn B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Maloney, Sean Patrick", 
+        "resident_commissioner": null, 
+        "congressional_number": "18th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Marchant, Kenny", 
+        "resident_commissioner": null, 
+        "congressional_number": "24th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ethics", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Marino, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Homeland", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Massie, Thomas", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "KY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Oversight", 
+            "Science", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Matsui, Doris O.", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "McCarthy, Kevin", 
+        "resident_commissioner": null, 
+        "congressional_number": "23d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Majority"
+        ]
+    }, 
+    {
+        "name": "McCaul, Michael T.", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Homeland", 
+            "Foreign", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "McClintock, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "McCollum, Betty", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "McDermott, Jim", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "McGovern, James P.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "McHenry, Patrick T.", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "McKinley, David B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "WV", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "McMorris Rodgers, Cathy", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "McNerney, Jerry", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "McSally, Martha", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Meadows, Mark", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Oversight", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Meehan, Patrick", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ethics", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Meeks, Gregory W.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Meng, Grace", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Messer, Luke", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Mica, John L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Oversight", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Miller, Candice S.", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "House", 
+            "Homeland", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Miller, Jeff", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Veterans", 
+            "Armed", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Moolenaar, John R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Mooney, Alexander X.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "WV", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Moore, Gwen", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Moulton, Seth", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Budget", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Mullin, Markwayne", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "OK", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Mulvaney, Mick", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "SC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Murphy, Patrick", 
+        "resident_commissioner": null, 
+        "congressional_number": "18th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Murphy, Tim", 
+        "resident_commissioner": null, 
+        "congressional_number": "18th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Nadler, Jerrold", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Transportation", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Napolitano, Grace F.", 
+        "resident_commissioner": null, 
+        "congressional_number": "32d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Natural", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Neal, Richard E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Neugebauer, Randy", 
+        "resident_commissioner": null, 
+        "congressional_number": "19th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Financial", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Newhouse, Dan", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Natural", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Noem, Kristi L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "At Large", 
+        "state": "SD", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Nolan, Richard M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Norcross, Donald", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Budget"
+        ]
+    }, 
+    {
+        "name": "Norton, Eleanor Holmes", 
+        "resident_commissioner": null, 
+        "congressional_number": null, 
+        "state": "DC", 
+        "delegate": "Yes", 
+        "party": "D", 
+        "committee_assignments": [
+            "Oversight", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Nugent, Richard B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "House"
+        ]
+    }, 
+    {
+        "name": "Nunes, Devin", 
+        "resident_commissioner": null, 
+        "congressional_number": "22d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Permanent", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Olson, Pete", 
+        "resident_commissioner": null, 
+        "congressional_number": "22d", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "O'Rourke, Beto", 
+        "resident_commissioner": null, 
+        "congressional_number": "16th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Palazzo, Steven M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "MS", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Pallone, Frank, Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Palmer, Gary J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "AL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Oversight", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Pascrell, Bill, Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Paulsen, Erik", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Payne, Donald M., Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Homeland", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Pearce, Stevan", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "NM", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Pelosi, Nancy", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Democratic"
+        ]
+    }, 
+    {
+        "name": "Perlmutter, Ed", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "CO", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Perry, Scott", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Homeland", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Peters, Scott H.", 
+        "resident_commissioner": null, 
+        "congressional_number": "52d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Peterson, Collin C.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture"
+        ]
+    }, 
+    {
+        "name": "Pierluisi, Pedro R.", 
+        "resident_commissioner": "Yes", 
+        "congressional_number": null, 
+        "state": "PR", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Pingree, Chellie", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "ME", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Pittenger, Robert", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Pitts, Joseph R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "16th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Plaskett, Stacey E.", 
+        "resident_commissioner": null, 
+        "congressional_number": null, 
+        "state": "VI", 
+        "delegate": "Yes", 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Pocan, Mark", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Education"
+        ]
+    }, 
+    {
+        "name": "Poe, Ted", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Poliquin, Bruce", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "ME", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Polis, Jared", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "CO", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Natural", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Pompeo, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "KS", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy", 
+            "Permanent", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Posey, Bill", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Price, David E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Price, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Quigley, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Radewagen, Aumua Amata Coleman", 
+        "resident_commissioner": null, 
+        "congressional_number": null, 
+        "state": "AS", 
+        "delegate": "Yes", 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Small", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Rangel, Charles B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Ratcliffe, John", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Homeland", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Reed, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "23d", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Reichert, David G.", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Renacci, James B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "16th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Ribble, Reid J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Rice, Kathleen M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Homeland", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Rice, Tom", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "SC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Richmond, Cedric L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "LA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Homeland", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Rigell, E. Scott", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Roby, Martha", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "AL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Roe, David P.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "TN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Rogers, Harold", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "KY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Rogers, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "AL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Rohrabacher, Dana", 
+        "resident_commissioner": null, 
+        "congressional_number": "48th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Rokita, Todd", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Education", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Rooney, Thomas J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "17th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Roskam, Peter J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Ros-Lehtinen, Ileana", 
+        "resident_commissioner": null, 
+        "congressional_number": "27th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Ross, Dennis A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "15th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Rothfus, Keith J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Rouzer, David", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Roybal-Allard, Lucille", 
+        "resident_commissioner": null, 
+        "congressional_number": "40th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Royce, Edward R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "39th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Ruiz, Raul", 
+        "resident_commissioner": null, 
+        "congressional_number": "36th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Natural", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Ruppersberger, C. A. Dutch", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Rush, Bobby L.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Russell, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "OK", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Education", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Ryan, Paul D.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "The"
+        ]
+    }, 
+    {
+        "name": "Ryan, Tim", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ]
+    }, 
+    {
+        "name": "Sablan, Gregorio Kilili Camacho", 
+        "resident_commissioner": null, 
+        "congressional_number": null, 
+        "state": "MP", 
+        "delegate": "Yes", 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Salmon, Matt", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "S\u00c3\u00a1nchez, Linda T.", 
+        "resident_commissioner": null, 
+        "congressional_number": "38th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ethics", 
+            "Ways", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Sanchez, Loretta", 
+        "resident_commissioner": null, 
+        "congressional_number": "46th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Sanford, Mark", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "SC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Sarbanes, John P.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Scalise, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "LA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Majority", 
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Schakowsky, Janice D.", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Schiff, Adam B.", 
+        "resident_commissioner": null, 
+        "congressional_number": "28th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Permanent", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Schrader, Kurt", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "OR", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Schweikert, David", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Scott, Austin", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Scott, David", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Scott, Robert C. \"Bobby\"", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education"
+        ]
+    }, 
+    {
+        "name": "Sensenbrenner, F. James, Jr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "WI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Serrano, Jos\u00c3\u00a9 E.", 
+        "resident_commissioner": null, 
+        "congressional_number": "15th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Sessions, Pete", 
+        "resident_commissioner": null, 
+        "congressional_number": "32d", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Sewell, Terri A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "AL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Sherman, Brad", 
+        "resident_commissioner": null, 
+        "congressional_number": "30th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Shimkus, John", 
+        "resident_commissioner": null, 
+        "congressional_number": "15th", 
+        "state": "IL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Shuster, Bill", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Transportation", 
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Simpson, Michael K.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "ID", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Sinema, Kyrsten", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "AZ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Sires, Albio", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Foreign", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Slaughter, Louise McIntosh", 
+        "resident_commissioner": null, 
+        "congressional_number": "25th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Smith, Adam", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "WA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Smith, Adrian", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "NE", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Smith, Christopher H.", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Smith, Jason", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Smith, Lamar", 
+        "resident_commissioner": null, 
+        "congressional_number": "21st", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Science", 
+            "Homeland", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Speier, Jackie", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Select", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Stefanik, Elise M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "21st", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Education"
+        ]
+    }, 
+    {
+        "name": "Stewart, Chris", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "UT", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Stivers, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "15th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Rules"
+        ]
+    }, 
+    {
+        "name": "Stutzman, Marlin A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Swalwell, Eric", 
+        "resident_commissioner": null, 
+        "congressional_number": "15th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Science", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Takai, Mark", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "HI", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Takano, Mark", 
+        "resident_commissioner": null, 
+        "congressional_number": "41st", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education", 
+            "Science", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Thompson, Bennie G.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "MS", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Thompson, Glenn", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "PA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Education", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Thompson, Mike", 
+        "resident_commissioner": null, 
+        "congressional_number": "5th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Thornberry, Mac", 
+        "resident_commissioner": null, 
+        "congressional_number": "13th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed"
+        ]
+    }, 
+    {
+        "name": "Tiberi, Patrick J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Tipton, Scott R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "CO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Titus, Dina", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "NV", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Transportation", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Tonko, Paul", 
+        "resident_commissioner": null, 
+        "congressional_number": "20th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Torres, Norma J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "35th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Homeland", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Trott, David A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "11th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Judiciary"
+        ]
+    }, 
+    {
+        "name": "Tsongas, Niki", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "MA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Turner, Michael R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Oversight", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Upton, Fred", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Valadao, David G.", 
+        "resident_commissioner": null, 
+        "congressional_number": "21st", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Van Hollen, Chris", 
+        "resident_commissioner": null, 
+        "congressional_number": "8th", 
+        "state": "MD", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget"
+        ]
+    }, 
+    {
+        "name": "Vargas, Juan", 
+        "resident_commissioner": null, 
+        "congressional_number": "51st", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "House"
+        ]
+    }, 
+    {
+        "name": "Veasey, Marc A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "33d", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Armed", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Vela, Filemon", 
+        "resident_commissioner": null, 
+        "congressional_number": "34th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Homeland"
+        ]
+    }, 
+    {
+        "name": "Vel\u00c3\u00a1zquez, Nydia M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial", 
+            "Small"
+        ]
+    }, 
+    {
+        "name": "Visclosky, Peter J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Wagner, Ann", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "MO", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Walberg, Tim", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "MI", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Education", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Walden, Greg", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "OR", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Walker, Mark", 
+        "resident_commissioner": null, 
+        "congressional_number": "6th", 
+        "state": "NC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Homeland", 
+            "House", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Walorski, Jackie", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Walters, Mimi", 
+        "resident_commissioner": null, 
+        "congressional_number": "45th", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Walz, Timothy J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "MN", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Wasserman Schultz, Debbie", 
+        "resident_commissioner": null, 
+        "congressional_number": "23d", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Waters, Maxine", 
+        "resident_commissioner": null, 
+        "congressional_number": "43d", 
+        "state": "CA", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Watson Coleman, Bonnie", 
+        "resident_commissioner": null, 
+        "congressional_number": "12th", 
+        "state": "NJ", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Homeland", 
+            "Oversight", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Weber, Randy K., Sr.", 
+        "resident_commissioner": null, 
+        "congressional_number": "14th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Webster, Daniel", 
+        "resident_commissioner": null, 
+        "congressional_number": "10th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Welch, Peter", 
+        "resident_commissioner": null, 
+        "congressional_number": "At Large", 
+        "state": "VT", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Energy", 
+            "Oversight"
+        ]
+    }, 
+    {
+        "name": "Wenstrup, Brad R.", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "OH", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Veterans", 
+            "Permanent"
+        ]
+    }, 
+    {
+        "name": "Westerman, Bruce", 
+        "resident_commissioner": null, 
+        "congressional_number": "4th", 
+        "state": "AR", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Natural", 
+            "Science"
+        ]
+    }, 
+    {
+        "name": "Westmoreland, Lynn A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial", 
+            "Permanent", 
+            "Select"
+        ]
+    }, 
+    {
+        "name": "Whitfield, Ed", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "KY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Williams, Roger", 
+        "resident_commissioner": null, 
+        "congressional_number": "25th", 
+        "state": "TX", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Financial"
+        ]
+    }, 
+    {
+        "name": "Wilson, Frederica S.", 
+        "resident_commissioner": null, 
+        "congressional_number": "24th", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Education"
+        ]
+    }, 
+    {
+        "name": "Wilson, Joe", 
+        "resident_commissioner": null, 
+        "congressional_number": "2d", 
+        "state": "SC", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Education", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Wittman, Robert J.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "VA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural"
+        ]
+    }, 
+    {
+        "name": "Womack, Steve", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "AR", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ]
+    }, 
+    {
+        "name": "Woodall, Rob", 
+        "resident_commissioner": null, 
+        "congressional_number": "7th", 
+        "state": "GA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Budget", 
+            "Rules", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Yarmuth, John A.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "KY", 
+        "delegate": null, 
+        "party": "D", 
+        "committee_assignments": [
+            "Budget", 
+            "Energy"
+        ]
+    }, 
+    {
+        "name": "Yoder, Kevin", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "KS", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Yoho, Ted S.", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "FL", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Foreign"
+        ]
+    }, 
+    {
+        "name": "Young, David", 
+        "resident_commissioner": null, 
+        "congressional_number": "3d", 
+        "state": "IA", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    {
+        "name": "Young, Don", 
+        "resident_commissioner": null, 
+        "congressional_number": "At Large", 
+        "state": "AK", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Natural", 
+            "Transportation"
+        ]
+    }, 
+    {
+        "name": "Young, Todd C.", 
+        "resident_commissioner": null, 
+        "congressional_number": "9th", 
+        "state": "IN", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Ways"
+        ]
+    }, 
+    {
+        "name": "Zeldin, Lee M.", 
+        "resident_commissioner": null, 
+        "congressional_number": "1st", 
+        "state": "NY", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Foreign", 
+            "Transportation", 
+            "Veterans"
+        ]
+    }, 
+    {
+        "name": "Zinke, Ryan K.", 
+        "resident_commissioner": null, 
+        "congressional_number": "At Large", 
+        "state": "MT", 
+        "delegate": null, 
+        "party": "R", 
+        "committee_assignments": [
+            "Armed", 
+            "Natural"
+        ]
+    }
+]

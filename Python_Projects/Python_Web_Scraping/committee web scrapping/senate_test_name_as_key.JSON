@@ -1,0 +1,1041 @@
+{
+    "Burr, Richard": {
+        "party": "R", 
+        "state": "NC", 
+        "committees": [
+            "Commission on Security and Cooperation in Europe", 
+            "Select Committee on Intelligence", 
+            "Committee on Finance", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Daines, Steve": {
+        "party": "R", 
+        "state": "MT", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Appropriations", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Energy and Natural Resources"
+        ]
+    }, 
+    "Durbin, Richard J.": {
+        "party": "D", 
+        "state": "IL", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on the Judiciary", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Inhofe, James M.": {
+        "party": "R", 
+        "state": "OK", 
+        "committees": [
+            "Committee on Armed Services", 
+            "Committee on Environment and Public Works"
+        ]
+    }, 
+    "McCain, John": {
+        "party": "R", 
+        "state": "AZ", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Select Committee on Intelligence", 
+            "Committee on Armed Services", 
+            "Committee on Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Portman, Rob": {
+        "party": "R", 
+        "state": "OH", 
+        "committees": [
+            "Committee on the Budget", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Finance", 
+            "Committee on Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Lankford, James": {
+        "party": "R", 
+        "state": "OK", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Select Committee on Intelligence", 
+            "Committee on Appropriations", 
+            "Committee on Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Tillis, Thom": {
+        "party": "R", 
+        "state": "NC", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Armed Services", 
+            "Committee on the Judiciary", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Heinrich, Martin": {
+        "party": "D", 
+        "state": "NM", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Select Committee on Intelligence", 
+            "Committee on Armed Services", 
+            "Committee on Energy and Natural Resources"
+        ]
+    }, 
+    "Toomey, Patrick J.": {
+        "party": "R", 
+        "state": "PA", 
+        "committees": [
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on the Budget", 
+            "Committee on Finance"
+        ]
+    }, 
+    "Brown, Sherrod": {
+        "party": "D", 
+        "state": "OH", 
+        "committees": [
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Finance", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Cardin, Benjamin L.": {
+        "party": "D", 
+        "state": "MD", 
+        "committees": [
+            "Commission on Security and Cooperation in Europe", 
+            "Committee on Environment and Public Works", 
+            "Committee on Finance", 
+            "Committee on Foreign Relations", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Tester, Jon": {
+        "party": "D", 
+        "state": "MT", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Appropriations", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Wyden, Ron": {
+        "party": "D", 
+        "state": "OR", 
+        "committees": [
+            "Joint Committee on Taxation", 
+            "Select Committee on Intelligence", 
+            "Committee on the Budget", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Finance"
+        ]
+    }, 
+    "King, Angus S., Jr.": {
+        "party": "I", 
+        "state": "ME", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Committee on Armed Services", 
+            "Committee on the Budget", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Klobuchar, Amy": {
+        "party": "D", 
+        "state": "MN", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on the Judiciary", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Lee, Mike": {
+        "party": "R", 
+        "state": "UT", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Committee on Armed Services", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Perdue, David": {
+        "party": "R", 
+        "state": "GA", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on the Budget", 
+            "Committee on Foreign Relations", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Murray, Patty": {
+        "party": "D", 
+        "state": "WA", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on the Budget", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Bennet, Michael F.": {
+        "party": "D", 
+        "state": "CO", 
+        "committees": [
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Finance", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Blunt, Roy": {
+        "party": "R", 
+        "state": "MO", 
+        "committees": [
+            "Joint Committee on the Library", 
+            "Joint Committee on Printing", 
+            "Select Committee on Intelligence", 
+            "Committee on Appropriations", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Collins, Susan M.": {
+        "party": "R", 
+        "state": "ME", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Special Committee on Aging", 
+            "Committee on Appropriations", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Ernst, Joni": {
+        "party": "R", 
+        "state": "IA", 
+        "committees": [
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Armed Services", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Schumer, Charles E.": {
+        "party": "D", 
+        "state": "NY", 
+        "committees": [
+            "Joint Committee on the Library", 
+            "Joint Committee on Printing", 
+            "United States Senate Caucus on International Narcotics Control", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Finance", 
+            "Committee on the Judiciary", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "McCaskill, Claire": {
+        "party": "D", 
+        "state": "MO", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Armed Services", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Cruz, Ted": {
+        "party": "R", 
+        "state": "TX", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Committee on Armed Services", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on the Judiciary", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Schatz, Brian": {
+        "party": "D", 
+        "state": "HI", 
+        "committees": [
+            "Select Committee on Ethics", 
+            "Committee on Indian Affairs", 
+            "Committee on Appropriations", 
+            "Committee on Commerce, Science, and Transportation"
+        ]
+    }, 
+    "Feinstein, Dianne": {
+        "party": "D", 
+        "state": "CA", 
+        "committees": [
+            "United States Senate Caucus on International Narcotics Control", 
+            "Select Committee on Intelligence", 
+            "Committee on Appropriations", 
+            "Committee on the Judiciary", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Coats, Daniel": {
+        "party": "R", 
+        "state": "IN", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Select Committee on Intelligence", 
+            "Committee on Finance"
+        ]
+    }, 
+    "Fischer, Deb": {
+        "party": "R", 
+        "state": "NE", 
+        "committees": [
+            "Committee on Armed Services", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Environment and Public Works", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Enzi, Michael B.": {
+        "party": "R", 
+        "state": "WY", 
+        "committees": [
+            "Committee on the Budget", 
+            "Committee on Finance", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Whitehouse, Sheldon": {
+        "party": "D", 
+        "state": "RI", 
+        "committees": [
+            "Commission on Security and Cooperation in Europe", 
+            "United States Senate Caucus on International Narcotics Control", 
+            "Special Committee on Aging", 
+            "Committee on the Budget", 
+            "Committee on Environment and Public Works", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Shelby, Richard C.": {
+        "party": "R", 
+        "state": "AL", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Ayotte, Kelly": {
+        "party": "R", 
+        "state": "NH", 
+        "committees": [
+            "Committee on Armed Services", 
+            "Committee on the Budget", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Kaine, Tim": {
+        "party": "D", 
+        "state": "VA", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Armed Services", 
+            "Committee on the Budget", 
+            "Committee on Foreign Relations"
+        ]
+    }, 
+    "Moran, Jerry": {
+        "party": "R", 
+        "state": "KS", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Appropriations", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Grassley, Chuck": {
+        "party": "R", 
+        "state": "IA", 
+        "committees": [
+            "Joint Committee on Taxation", 
+            "United States Senate Caucus on International Narcotics Control", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on the Budget", 
+            "Committee on Finance", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Baldwin, Tammy": {
+        "party": "D", 
+        "state": "WI", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on the Budget", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Murphy, Christopher": {
+        "party": "D", 
+        "state": "CT", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on Foreign Relations", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Gillibrand, Kirsten E.": {
+        "party": "D", 
+        "state": "NY", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Armed Services", 
+            "Committee on Environment and Public Works"
+        ]
+    }, 
+    "Sullivan, Daniel": {
+        "party": "R", 
+        "state": "AK", 
+        "committees": [
+            "Committee on Armed Services", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Environment and Public Works", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Sanders, Bernard": {
+        "party": "I", 
+        "state": "VT", 
+        "committees": [
+            "Committee on the Budget", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Environment and Public Works", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Hoeven, John": {
+        "party": "R", 
+        "state": "ND", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Appropriations", 
+            "Committee on Energy and Natural Resources"
+        ]
+    }, 
+    "Leahy, Patrick J.": {
+        "party": "D", 
+        "state": "VT", 
+        "committees": [
+            "Joint Committee on the Library", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Appropriations", 
+            "Committee on the Judiciary", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Coons, Christopher A.": {
+        "party": "D", 
+        "state": "DE", 
+        "committees": [
+            "Select Committee on Ethics", 
+            "Committee on Appropriations", 
+            "Committee on Foreign Relations", 
+            "Committee on the Judiciary", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Sessions, Jeff": {
+        "party": "R", 
+        "state": "AL", 
+        "committees": [
+            "United States Senate Caucus on International Narcotics Control", 
+            "Committee on Armed Services", 
+            "Committee on the Budget", 
+            "Committee on Environment and Public Works", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Thune, John": {
+        "party": "R", 
+        "state": "SD", 
+        "committees": [
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Finance"
+        ]
+    }, 
+    "Donnelly, Joe": {
+        "party": "D", 
+        "state": "IN", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Armed Services", 
+            "Committee on Banking, Housing, and Urban Affairs"
+        ]
+    }, 
+    "Hirono, Mazie K.": {
+        "party": "D", 
+        "state": "HI", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Committee on Armed Services", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Small Business and Entrepreneurship", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Manchin, Joe, III": {
+        "party": "D", 
+        "state": "WV", 
+        "committees": [
+            "Committee on Armed Services", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Reed, Jack": {
+        "party": "D", 
+        "state": "RI", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Committee on Appropriations", 
+            "Committee on Armed Services", 
+            "Committee on Banking, Housing, and Urban Affairs"
+        ]
+    }, 
+    "Kirk, Mark": {
+        "party": "R", 
+        "state": "IL", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Appropriations", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Menendez, Robert": {
+        "party": "D", 
+        "state": "NJ", 
+        "committees": [
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Finance", 
+            "Committee on Foreign Relations"
+        ]
+    }, 
+    "Mikulski, Barbara A.": {
+        "party": "D", 
+        "state": "MD", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Committee on Appropriations", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Alexander, Lamar": {
+        "party": "R", 
+        "state": "TN", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Scott, Tim": {
+        "party": "R", 
+        "state": "SC", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Finance", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Hatch, Orrin G.": {
+        "party": "R", 
+        "state": "UT", 
+        "committees": [
+            "Joint Committee on Taxation", 
+            "Special Committee on Aging", 
+            "Committee on Finance", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Cornyn, John": {
+        "party": "R", 
+        "state": "TX", 
+        "committees": [
+            "United States Senate Caucus on International Narcotics Control", 
+            "Committee on Finance", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Booker, Cory A.": {
+        "party": "D", 
+        "state": "NJ", 
+        "committees": [
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Environment and Public Works", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Peters, Gary": {
+        "party": "D", 
+        "state": "MI", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Blumenthal, Richard": {
+        "party": "D", 
+        "state": "CT", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Armed Services", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on the Judiciary", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Markey, Edward J.": {
+        "party": "D", 
+        "state": "MA", 
+        "committees": [
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Environment and Public Works", 
+            "Committee on Foreign Relations", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Cotton, Tom": {
+        "party": "R", 
+        "state": "AR", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Select Committee on Intelligence", 
+            "Special Committee on Aging", 
+            "Committee on Armed Services", 
+            "Committee on Banking, Housing, and Urban Affairs"
+        ]
+    }, 
+    "Rubio, Marco": {
+        "party": "R", 
+        "state": "FL", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Foreign Relations", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Warner, Mark R.": {
+        "party": "D", 
+        "state": "VA", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on the Budget", 
+            "Committee on Finance", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Cochran, Thad": {
+        "party": "R", 
+        "state": "MS", 
+        "committees": [
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Appropriations", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Franken, Al": {
+        "party": "D", 
+        "state": "MN", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Sasse, Ben": {
+        "party": "R", 
+        "state": "NE", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Special Committee on Aging", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Carper, Thomas R.": {
+        "party": "D", 
+        "state": "DE", 
+        "committees": [
+            "Committee on Environment and Public Works", 
+            "Committee on Finance", 
+            "Committee on Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Corker, Bob": {
+        "party": "R", 
+        "state": "TN", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on the Budget", 
+            "Committee on Foreign Relations"
+        ]
+    }, 
+    "Barrasso, John": {
+        "party": "R", 
+        "state": "WY", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Environment and Public Works", 
+            "Committee on Foreign Relations"
+        ]
+    }, 
+    "Flake, Jeff": {
+        "party": "R", 
+        "state": "AZ", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Foreign Relations", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Stabenow, Debbie": {
+        "party": "D", 
+        "state": "MI", 
+        "committees": [
+            "Joint Committee on Taxation", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on the Budget", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Finance"
+        ]
+    }, 
+    "Johnson, Ron": {
+        "party": "R", 
+        "state": "WI", 
+        "committees": [
+            "Committee on the Budget", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Foreign Relations", 
+            "Committee on Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Boozman, John": {
+        "party": "R", 
+        "state": "AR", 
+        "committees": [
+            "Commission on Security and Cooperation in Europe", 
+            "Joint Committee on Printing", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Appropriations", 
+            "Committee on Environment and Public Works", 
+            "Committee on Rules and Administration", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Udall, Tom": {
+        "party": "D", 
+        "state": "NM", 
+        "committees": [
+            "Commission on Security and Cooperation in Europe", 
+            "Joint Committee on Printing", 
+            "Committee on Indian Affairs", 
+            "Committee on Appropriations", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Foreign Relations", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Cassidy, Bill": {
+        "party": "R", 
+        "state": "LA", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Committee on Appropriations", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Roberts, Pat": {
+        "party": "R", 
+        "state": "KS", 
+        "committees": [
+            "Joint Committee on the Library", 
+            "Joint Committee on Printing", 
+            "Select Committee on Ethics", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Finance", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Shaheen, Jeanne": {
+        "party": "D", 
+        "state": "NH", 
+        "committees": [
+            "Commission on Security and Cooperation in Europe", 
+            "Committee on Appropriations", 
+            "Committee on Armed Services", 
+            "Committee on Foreign Relations", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Rounds, Mike": {
+        "party": "R", 
+        "state": "SD", 
+        "committees": [
+            "Committee on Armed Services", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Environment and Public Works", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Vitter, David": {
+        "party": "R", 
+        "state": "LA", 
+        "committees": [
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Environment and Public Works", 
+            "Committee on the Judiciary", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Capito, Shelley Moore": {
+        "party": "R", 
+        "state": "WV", 
+        "committees": [
+            "Joint Committee on the Library", 
+            "Committee on Appropriations", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Environment and Public Works", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Paul, Rand": {
+        "party": "R", 
+        "state": "KY", 
+        "committees": [
+            "Committee on Foreign Relations", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Reid, Harry": {
+        "party": "D", 
+        "state": "NV", 
+        "committees": [
+            "Select Committee on Intelligence"
+        ]
+    }, 
+    "Heller, Dean": {
+        "party": "R", 
+        "state": "NV", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Finance", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Gardner, Cory": {
+        "party": "R", 
+        "state": "CO", 
+        "committees": [
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Foreign Relations", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Warren, Elizabeth": {
+        "party": "D", 
+        "state": "MA", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "McConnell, Mitch": {
+        "party": "R", 
+        "state": "KY", 
+        "committees": [
+            "Select Committee on Intelligence", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Appropriations", 
+            "Committee on Rules and Administration"
+        ]
+    }, 
+    "Isakson, Johnny": {
+        "party": "R", 
+        "state": "GA", 
+        "committees": [
+            "Select Committee on Ethics", 
+            "Committee on Finance", 
+            "Committee on Foreign Relations", 
+            "Committee on Health, Education, Labor, and Pensions", 
+            "Committee on Veterans' Affairs"
+        ]
+    }, 
+    "Casey, Robert P., Jr.": {
+        "party": "D", 
+        "state": "PA", 
+        "committees": [
+            "Joint Economic Committee", 
+            "Special Committee on Aging", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Finance", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Graham, Lindsey": {
+        "party": "R", 
+        "state": "SC", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on Armed Services", 
+            "Committee on the Budget", 
+            "Committee on the Judiciary"
+        ]
+    }, 
+    "Heitkamp, Heidi": {
+        "party": "D", 
+        "state": "ND", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Agriculture, Nutrition, and Forestry", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on Homeland Security and Governmental Affairs", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Murkowski, Lisa": {
+        "party": "R", 
+        "state": "AK", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Appropriations", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Cantwell, Maria": {
+        "party": "D", 
+        "state": "WA", 
+        "committees": [
+            "Committee on Indian Affairs", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Finance", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Crapo, Mike": {
+        "party": "R", 
+        "state": "ID", 
+        "committees": [
+            "Joint Committee on Taxation", 
+            "Committee on Indian Affairs", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on the Budget", 
+            "Committee on Environment and Public Works", 
+            "Committee on Finance"
+        ]
+    }, 
+    "Risch, James E.": {
+        "party": "R", 
+        "state": "ID", 
+        "committees": [
+            "United States Senate Caucus on International Narcotics Control", 
+            "Select Committee on Ethics", 
+            "Select Committee on Intelligence", 
+            "Committee on Energy and Natural Resources", 
+            "Committee on Foreign Relations", 
+            "Committee on Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Boxer, Barbara": {
+        "party": "D", 
+        "state": "CA", 
+        "committees": [
+            "Select Committee on Ethics", 
+            "Committee on Environment and Public Works", 
+            "Committee on Foreign Relations"
+        ]
+    }, 
+    "Merkley, Jeff": {
+        "party": "D", 
+        "state": "OR", 
+        "committees": [
+            "Committee on Appropriations", 
+            "Committee on Banking, Housing, and Urban Affairs", 
+            "Committee on the Budget", 
+            "Committee on Environment and Public Works"
+        ]
+    }, 
+    "Nelson, Bill": {
+        "party": "D", 
+        "state": "FL", 
+        "committees": [
+            "Special Committee on Aging", 
+            "Committee on Armed Services", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Finance"
+        ]
+    }, 
+    "Wicker, Roger F.": {
+        "party": "R", 
+        "state": "MS", 
+        "committees": [
+            "Commission on Security and Cooperation in Europe", 
+            "Committee on Armed Services", 
+            "Committee on the Budget", 
+            "Committee on Commerce, Science, and Transportation", 
+            "Committee on Environment and Public Works", 
+            "Committee on Rules and Administration"
+        ]
+    }
+}
