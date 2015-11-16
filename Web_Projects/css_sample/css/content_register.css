@@ -1,0 +1,82 @@
+/* content style sheet for Register page */
+
+       #leftCol
+        {
+            float: left;
+            width: 490px;   /* total 600  with padding included */
+            padding: 70px 10px 30px 100px;
+    /*     background: #CFEBF7;  */
+                  /*      top: 231px;  
+            display: inline-block;    */
+        }
+
+        #rightCol
+        {
+            float: right;
+            width: 440px; /* total 500 with padding included */
+            padding: 70px 10px 30px 50px;   /* ??why not 100px */
+       /*     background: #FFEBD6;      */ 
+        }
+
+        #submitSectionDiv
+        {
+            padding: 150px 0px 0px 0px;
+        }
+        
+        div.textbox
+        {
+            margin: 0;
+            padding: 5px 0px;
+         /*      background: #CCFFB2;  */
+        }
+        div.textbox label
+        {
+            margin: 0;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            padding: 5px 7px 0px 0px;
+            width: 130px;
+            text-align: right;
+            float: left;
+        }
+        
+        div.textbox input
+        {
+            margin: 0;
+            padding: 0;
+            width: 250px;
+            height: 25px;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+        }
+        
+        div.checkbox
+        {
+            margin: 0;
+            padding: 5px 0px;
+            /*   background: #CCFFB2;       */
+        }
+        
+        div.checkbox label
+        {
+            margin: 0;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            padding: 3px 0px 0px 1px;
+            width: 415px;
+            text-align: left;
+            float: right;
+        }
+        
+        div.checkbox input
+        {
+            margin: 0;
+            padding: 0;
+            width: 15px;
+            height: 15px;
+            display: inline-block;
+        }
+        

@@ -1,0 +1,138 @@
+/* content style sheet for Home page */
+
+#menu_bar
+{
+	position:absolute; 
+	top:190px; 
+	height:40px;
+	width:1100px;
+    border-bottom-style: solid; 
+    border-bottom-width: thin; 
+    border-bottom-color: #C0C0C0;	
+/* background:#00CCFF; */ 
+}
+
+ul.menu_list {
+    list-style-type: none;
+    margin: 0; 
+    padding-top:12px;
+    padding-bottom:12px; 
+    padding-left:80px;
+/* background:green;  */
+}
+
+ul.menu_list li {
+    display: inline;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+ /*  background:red;  */
+}
+
+ul.menu_list li a 
+{
+	font-family:Verdana,Arial,sans-serif;	
+	font-size:15px;
+/*	font-weight: bold; */
+	text-decoration:none;
+}
+
+ul.menu_list li a:link, ul.menu_list li a:visited  
+{
+	color: #82A3E6;                 
+}
+
+ul.menu_list li a:hover
+{
+	text-decoration:underline; 
+	color:#7094B8;
+}
+
+/*********************************/
+#img_hdr_bg
+{
+	position:absolute;
+  	top:0px;
+  	width:1100px;
+ 	height:214px;
+  	opacity:0.64;
+  	filter:alpha(opacity=64); 
+  	z-index:2
+}
+
+#img_pg_title
+{
+  	position:absolute;
+  	top:149px;
+  	left:83px;
+  	width:274px;
+  	height:26px;
+  	z-index:10       
+}
+
+#leftcol 
+{
+	position:absolute; 
+	float:left;         
+	top:214px; 
+	width:600px;
+	padding-left:83px;
+	padding-right:17px; 
+/* background:#00CCFF;  */
+}
+
+#rightcol
+{
+	position:relative;  
+	float:right;          
+	top:214px; 
+	width:310px;
+	padding-left:20px;
+	padding-right:70px;	
+ /* background:#00FFFF; */
+}
+
+ul.homeListLink 
+{
+	list-style-type:circle;  
+	text-align:left;   
+	height:auto;
+	margin:0px;
+ 	padding:0px 0px 0px 13px; 
+	color:#003663;    
+}
+
+ul.homeListLink li 
+{
+	position:relative; 		/* for ie 6 bug */
+        padding-bottom: 5px;    
+}
+
+ul.homeListLink li a 
+{
+	font-family:Verdana,Arial,sans-serif;	
+	font-size:12px;
+	text-decoration:none;
+}
+
+ul.homeListLink li a:link, ul.homeListLink li a:visited  
+{
+	color:#003663;       
+}
+
+ul.homeListLink li a:hover
+{
+	text-decoration:underline; 
+	color:#7094B8;
+}
+
+h3
+{
+	font-family:Verdana,Arial,sans-serif;
+	font-size:14px;
+	color:#3E5424;
+	top:252px; 
+	text-align:left;
+}
+

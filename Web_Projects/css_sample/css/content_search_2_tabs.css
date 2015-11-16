@@ -1,0 +1,214 @@
+/* content style sheet for Search2 page */
+        #leftCol
+        {
+            float: left;
+            /*width: 320px;         /* total width 361 */
+            padding: 20px;
+            border-right-style: solid;
+            border-right-width: 1px;  
+            border-right-color:  #D3D3D3;    
+        }
+        
+        h3
+        {
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 15px;
+            font-weight: bold ;  
+        }  
+             
+        hr
+        {
+            clear:both;
+            height: 1px; 
+            border-width: 0; 
+            color: #D3D3D3;     
+            background-color: #D3D3D3;  
+        }
+
+        div.mainDiv {
+            width: 320px;
+            padding: 0;
+            margin: 0;
+        }
+                        
+        div.ckbox
+        {
+            float: left;
+            width: 200px;    
+            padding: 0px;
+            margin: 0;
+        }
+
+        div.ckbox label
+        {
+            font-family: Verdana,Arial,sans-serif;
+            font-weight: normal;
+            font-size: 12px;  
+        }
+
+        .linkbox
+        {
+            float: right; 
+            width: 110px;         /* total width 120 */
+            padding: 0px 0px 0px 10px;
+            margin: 0; 
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px; 
+            text-align: right;     
+        }
+ 
+         a
+         {
+            text-decoration:none;
+            color:#769BE6;    
+         }
+
+        a:hover
+        {
+            color: #7094B8;
+        }
+                  
+        div.labelBox label
+        {
+            float: left;  
+            width: 50px;
+            padding: 5px 0px 5px 30px;             
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            font-weight: normal;
+        }
+        
+        div.txtBox
+        {
+            margin-left: 80px;   /* equal width of labelBox */
+            padding: 5px 0px;  
+        }
+        
+        div.txtBox input
+        {
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            width: 80px;            
+        }
+   
+        #submitSection
+        {
+            clear:both;
+            padding: 50px 0px 0px 0px;
+        }
+
+        button
+        {
+            width: 100px;
+            height: 28px;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            margin-left:30px;                   
+        }
+
+        p.space
+        {
+            clear:both;
+        }
+        
+        .listSearch
+        {      
+            font-family:Verdana,Arial,sans-serif;    
+            font-size:13px;   
+        }
+
+        .txtItem
+        {
+            margin-left:24px; 
+        }
+
+        .linktxt
+        {
+            text-decoration:none;
+            color:#769BE6; 
+        }
+
+        /* right column section */
+        #rightCol
+        {
+            float: right;
+            /*width: 659px;       */
+            /* total width 739 */
+            padding:20px 40px 15px 0px;
+            /*padding: 20px 40px;  */  
+        }
+        
+/*      h4
+        {
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 13px;  
+        }    */
+
+        #scroll {
+            width: 659px;
+            height: 520px; 
+            overflow: auto;        /* only if needed */
+        }
+/* NEW  tabs in right column ------------------------ */
+ul.tabs
+{
+    padding: 7px 0;
+    margin:0;
+    font-size: 0;
+    list-style-type: none;
+    text-align: left;     
+    padding-left:20px;   /* Offset of the first tab */
+}
+        
+ul.tabs li
+{
+    display: inline;
+    margin: 0;    /* no space between tabs */
+    background: White;
+    margin-left: -4px;
+}
+        
+ul.tabs li a
+{
+    font: normal 12px Verdana;
+    text-decoration: none;
+    position: relative;
+    padding: 7px 22px;
+    color: #000;
+    outline:none;
+    background: #F6F6F9;
+    border:1px solid #CCC;
+    border-right:0;
+}
+
+/*Note: IE8 and earlier doesn't support li:last-child. Need to add another class to the last tab (LI) and specify its border-right as below.*/
+ul.tabs li:last-child a
+{
+    border-right:1px solid #CCC;
+}
+      
+ul.tabs li a:hover
+{
+    color: #000;
+    background: white;
+}
+        
+ul.tabs li.selected a, ul.tabs li.selected a:hover
+{
+    top: 0px;
+    font-weight:normal;
+    background: #FFF;
+    border-bottom: 1px solid #FFF;
+    color: #000;
+}
+        
+ul.tabs li.selected a:hover
+{
+    text-decoration: none;
+}
+
+div.tabcontents
+{
+    border-top: 1px solid #CCC; padding: 30px 10px;
+}
+/* end tabs   */

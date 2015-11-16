@@ -1,0 +1,80 @@
+/* style sheet for login page */
+
+		#mainDiv
+		{
+            width: 400px; /* total 1100  with padding included */
+       /*     padding: 70px 350px;  */
+            padding: 100px 400px 70px 300px;       
+     /*      background: #FFEBD6; */
+		}
+
+		#subDiv
+        {
+            padding: 10px 50px 30px 150px;
+        /*       background: #96FD33;  */
+        }
+
+        #submitSectionDiv
+        {
+        /*	            padding: 100px 50px 20px 70px;  /40px 10px 20px 120px; */
+            margin: 0;  
+            padding: 40px 0px 20px 140px;
+        }
+
+        div.textbox
+        {    	
+            margin: 0;
+            padding: 5px 0px;
+      /*          background: #CCFFB2;  */
+        }
+        
+        div.textbox label
+        {
+            margin: 0;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            padding: 5px 7px 0px 0px;
+            width: 130px;
+            text-align: right;
+            float: left;
+        }
+        
+        div.textbox input
+        {
+            margin: 0;
+            padding: 0;
+            width: 250px;
+            height: 25px;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+        }
+
+        div.checkbox
+        {
+            margin: 0;
+            padding: 5px 0px;
+      /*        background: #CCFFB2;       */
+        }
+
+        div.checkbox label
+        {
+            margin: 0;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            padding: 3px 0px 0px 1px;
+            width: 175px;     
+            text-align: left;
+            float: right;
+        }
+
+        div.checkbox input
+        {
+            margin: 0;
+            padding: 0;
+            width: 15px;
+            height: 15px;
+            display: inline-block;
+        }

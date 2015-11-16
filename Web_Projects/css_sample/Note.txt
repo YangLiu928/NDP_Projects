@@ -1,0 +1,5 @@
+Two modifications made to the original file:
+
+(1) Modified the original "content_search_2_tabs.css" in the css folder for better UI
+
+(2) Changed the style sheet in the html file from the local version of Bootstrap css to the dynamic CDN. Pasting that url into a browser and copying the text into a local css file should also work just fine.

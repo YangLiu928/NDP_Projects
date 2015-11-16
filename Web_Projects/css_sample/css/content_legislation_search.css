@@ -1,0 +1,156 @@
+/* content style sheet for Legislation page */
+
+
+#img_hdr_bg
+{
+	position:absolute;
+  	top:0px;
+  	width:1100px;
+ 	height:214px;
+  	opacity:0.64;
+  	filter:alpha(opacity=64); 
+  	z-index:2
+}
+
+.container div
+{
+	position:relative;
+	top: 300px;
+	display: inline-block;
+/*vertical-align: middle;  */
+/* line-height: 100px;  */
+}
+
+.column-left
+ {
+      	position:absolute; 
+	float: left; width: 32%;
+	font-family: helvetica, arial, sans-serif; 	
+	font-size:12px;
+	top: 300px;
+	padding-left:30px; 
+	/* height:100px; */	
+ /* background:#F0F8FF;  */
+ }
+ 
+.column-right
+{
+	float: right; width: 33%;
+	/* height:100px; */
+ /* background:#FFE4C4;  */
+}
+
+.column-center
+{
+	display: inline-block;
+	width: 32%;
+	/* height:100px; */
+	font-family: helvetica, arial, sans-serif; 	
+	font-size:12px;
+	/* background:#00FFFF;  */
+}
+
+#HomeLinkSection
+{
+	position:absolute; 
+	float:left;         
+	top:214px; 
+	width:600px;
+	padding-left:30px;
+/*	padding-right:17px; 
+ background:#00CCFF;  */
+}
+
+p.titleSection
+{
+/*	font-family:Verdana,Arial,sans-serif;	*/
+	font-family: helvetica, arial, sans-serif; 
+	font-size:12px;		
+}
+
+h3
+{
+/*	font-family:Verdana,Arial,sans-serif; */
+	font-family: helvetica, arial, sans-serif; 
+	font-size:14px;
+	color:#3E5424; 
+	top:252px; 
+	text-align:left;
+}
+
+.inputSelect
+{
+/*	border: 1px solid #CCCCCC; */
+	font-family: helvetica, arial, sans-serif; 
+	font-size: 12px;
+	margin: 0 0 5px;
+	padding: 2px;
+	width: 150px;
+	height: 100px; 
+}
+
+
+/* below not use now ???? ------------------------------------------ */
+#img_pg_title
+{
+  	position:absolute;
+  	top:149px;
+  	left:83px;
+  	width:274px;
+  	height:26px;
+  	z-index:10       
+}
+
+#leftcol 
+{
+	position:absolute; 
+	float:left;         
+	top:214px; 
+	width:600px;
+	padding-left:83px;
+	padding-right:17px; 
+/* background:#00CCFF;  */
+}
+
+#rightcol
+{
+	position:relative;  
+	float:right;          
+	top:214px; 
+	width:310px;
+	padding-left:20px;
+	padding-right:70px;	
+ /* background:#00FFFF; */
+}
+
+/* ------------- end ? not use ----------------------------- */
+
+/* not really work with hover visited????  */
+
+a.titlePage 
+{
+/*	font-family:Verdana,Arial,sans-serif;	
+	font-size:11px; */
+	text-decoration:none;
+}
+
+a.titlePage a:link
+{
+ 
+/*	color:#7D7D7D;  by design */
+	color:#003663;   /*     or this blue or should be the same other links */
+}
+
+a.titlePage a:visited  
+{
+	color:#7D7D7D;  /* by design */
+/*	color:#003663;        or this blue or should be the same other links */
+}
+
+a.titlePage a:hover
+{
+/* 	background-color:#F0F0F0;   -org design */
+	text-decoration:underline; 
+	color:#7094B8;
+}
+

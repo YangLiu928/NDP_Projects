@@ -1,0 +1,11 @@
+#search_modal {
+	text-align: center;
+	top:40%;
+}
+#gear_spinner{
+	font-size: 48px;
+	color:white;
+}
+#waiting_dialog{
+	font-size: 36px;
+}

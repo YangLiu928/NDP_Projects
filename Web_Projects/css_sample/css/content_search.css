@@ -1,0 +1,169 @@
+/* content style sheet for Register page */
+      div.leftCol   /* was id */
+        {
+            float: left;
+            width: 195px;  /* checkbox width=195px, total 550 with L&R padding included */
+            padding: 0px 80px 30px 275px;  
+  /*        background: #F0E0FF;  */
+        }
+
+        #topRightCol
+        {
+            float: right;
+            width: 440px; /* total 550 with padding included */
+			padding: 0px 110px 30px 0px;
+     /*      background: #FFEBD6;     */
+        }
+        
+        div.nextRightCol
+        {
+            float: right;
+            width: 195px; /* total 550 with padding included */
+			padding: 0px 205px 30px 150px;
+      /*     background: #FFEBD6;     */
+        }
+
+        div.nextRightCol_2
+        {
+            float: right;
+            width: 350px; /* 440px; total 550 with padding included */
+			padding: 0px 50px 30px 150px;   
+     /*      background: #FFEBD6;     */
+        }
+                
+        #firstSecTitle
+        {  	
+			padding: 50px 150px 0px 150px;
+        }
+    
+        div.nextSecTitle
+        {
+            clear: both;
+			padding: 0px 150px;            
+       /*     background: #DFE7F2;     */         
+        }
+
+		p.secTitle
+		{
+			padding: 0px 0px 0px 30px; 
+			margin: 0; 
+			font-family: Verdana,Arial,sans-serif;
+			font-size: 15px; 
+			font-weight: bold;
+		}
+
+		hr
+		{
+			height: 1px; 
+			border-width: 0; 
+			color: #C0D1F2; 
+			background-color: #C0D1F2; /* #C0C0C0;  */
+		}
+
+        #submitSection
+        {
+            padding: 80px 0px 0px 0px;
+        /*        background: #DBB8FF;   */
+        }
+
+        /* should be standard format for date box (total width=147px) */        
+        div.dateInput
+        {
+            margin: 0;
+            padding: 5px 0px;
+            display: inline-block;                
+          /*      background: #CCFFB2;    */
+        }
+        div.dateInput label
+        {
+            margin: 0;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            padding: 5px 7px 0px 0px;
+            width: 70px;  
+            text-align: right;
+            float: left;
+         /*       background: #FFC5CD;         */  
+        }
+        
+        div.dateInput input
+        {
+            margin: 0;
+            padding: 0;
+            width: 70px;
+            height: 25px;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+          /*      background: #DBB8FF;  */
+        }
+ 		/* end datebox property */
+ 		
+ 		/* !!!!!!!!!!!!!!!!!!!!! COULD USE FOR ALL APP !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */        
+        /* should be standard format for textbox (total width=427px) */    
+        /* NOT USE TEXTBOX FOR SEARCH PAGE */    
+        div.textbox
+        {
+            margin: 0;
+            padding: 5px 0px;
+            /*    background: #CCFFB2;  */
+        }
+        div.textbox label
+        {
+            margin: 0;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            padding: 5px 7px 0px 0px;
+            width: 170px;  
+            text-align: right;
+            float: left;
+          /*      background: #FFC5CD;         */  
+        }
+        
+        div.textbox input
+        {
+            margin: 0;
+            padding: 0;
+            width: 250px;
+            height: 25px;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+                background: #DBB8FF;  
+        }
+ 		/* end textbox property */
+ 		       
+        /* should be standard format for checkbox (total width=195px) */
+        div.checkbox
+        {
+            margin: 0;
+            padding: 5px 0px;
+       /*       background: #CCFFB2;    */   
+        }
+        
+        div.checkbox label
+        {
+            margin: 0;
+            display: inline-block;
+            font-family: Verdana,Arial,sans-serif;
+            font-size: 12px;
+            padding: 3px 0px 0px 10px;
+            width: 170px;  
+            text-align: left;
+            float: right;
+       /*                   background: #FFFF99;   */
+        }
+        
+        div.checkbox input
+        {
+            margin: 0;
+            padding: 0;
+            width: 15px;
+            height: 15px;
+            display: inline-block;
+      /*                    background: #FFD175;   */
+        }
+		/* end checkbox property */
+ 		/* !!!!!!!!!!!!!!!!!!!!! END -COULD USE FOR ALL APP !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */   	 		
