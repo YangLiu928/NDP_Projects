@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db3bda75-c727-4efd-82da-437e6c78cd81" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping_to_JSON.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping_to_JSON.py" />
     </list>
     <ignored path="NDP_Projects.iws" />
@@ -27,9 +28,13 @@
       <file leaf-file-name="current_and_previous_committee_member_scraping.JSON" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.785714">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-              <folding />
+            <state vertical-scroll-proportion="-12.892858">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <marker date="1447951207652" expanded="true" signature="6:259" placeholder="{&quot;id&quot;: &quot;A000009&quot;...}" />
+                <marker date="1447951207652" expanded="true" signature="1284744:1284754" placeholder="[...]" />
+                <marker date="1447951207652" expanded="true" signature="1284744:1284786" placeholder="{&quot;id&quot;: &quot;Z000004&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -495,9 +500,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.785714">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <marker date="1447951207652" expanded="true" signature="6:259" placeholder="{&quot;id&quot;: &quot;A000009&quot;...}" />
+            <marker date="1447951207652" expanded="true" signature="1284744:1284754" placeholder="[...]" />
+            <marker date="1447951207652" expanded="true" signature="1284744:1284786" placeholder="{&quot;id&quot;: &quot;Z000004&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>

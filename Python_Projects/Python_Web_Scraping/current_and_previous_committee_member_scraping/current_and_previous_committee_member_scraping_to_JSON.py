@@ -34,7 +34,7 @@ def _last_page_reached(soup):
     # this <div> is not displayed if the page contains no result (as described above)
     # and therefore used as a indicator
     if not soup.find(id='main'):
-        # cannot find div with id 'main', the second cases mentioned above
+        # cannot find div with id 'main', the second case mentioned above
         return True
     elif soup.find(id='main').find('div', class_='nav-pag-top').find('div', class_='pagination').find_all('a',
                                                                                                           recursive=False)[
@@ -153,25 +153,43 @@ def _get_member_data(member):
     served_terms = []
     terms = member_profile[-1].td.find_all('li')
     for term in terms:
-        term_object = {}
         where = re.findall('[a-zA-Z]+',term.string)[0] 
         # possible formats:
         # 'House: 1990-1999'
         # 'Senate: 2011-present'
+        # 'House: 1990-1998, 1999-2002'
         # the start date is definitely a number
         # the end date might be the word 'present'
-        # needs appropriate handling for both cases
+        # needs appropriate handling for all these cases
         dates = re.findall('[0-9]+',term.string)
-        start_date = dates[0]
-        if len(dates) == 2:
-            end_date = dates[1]
-        else:
-            end_date = None 
-        term_object['where'] = where
-        term_object['start_date'] = start_date
-        term_object['end_date'] = end_date
-        served_terms.append(term_object)
+        if len(dates) % 2 == 1:
+            # there are odd numbers of year in the string
+            # append an None at the end of the string
+            # this None served as a replacement of the 'present' string
+            # from the original string
+            dates.append(None)
+            # otherwise there are even numbers of year in the string
+            # every two years is a pair, no action needed
+        for i in range (0, len(dates), 2):
+            start_date = dates[i]
+            end_date = dates[i + 1]
+            term_object = {}
+            term_object['where'] = where
+            term_object['start_date'] = start_date
+            term_object['end_date'] = end_date
+            served_terms.append(term_object)
     result['served_terms'] = served_terms
+
+    # get whether the member is a former or current member
+    # present the value to 'former'
+    # examine all the elements in served terms
+    # if any one of those ends with a None (representing 'present')
+    # the value will be set to 'current'
+    current_or_former = 'former'
+    for served_term in served_terms:
+        if not served_term['end_date']:
+            current_or_former = 'current'
+    result['current_or_former'] = current_or_former
 
     # get the district
     if member_profile[1].th.string == 'District:':
