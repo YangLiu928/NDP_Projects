@@ -1,10 +1,9 @@
-import urllib2
-from bs4 import BeautifulSoup
 import json
 import re
-import xmldict
-import lxml
-import pprint
+import urllib2
+
+from bs4 import BeautifulSoup
+
 
 def _get_url(page_number):
     # the number of results on each page can also be specified in the url
@@ -34,10 +33,12 @@ def _last_page_reached(soup):
     # there will be a <div> with id 'main'
     # this <div> is not displayed if the page contains no result (as described above)
     # and therefore used as a indicator
-    if not soup.find(id = 'main'):
+    if not soup.find(id='main'):
         # cannot find div with id 'main', the second cases mentioned above
         return True
-    elif soup.find(id = 'main').find('div', class_ = 'nav-pag-top').find('div', class_ = 'pagination').find_all('a', recursive = False)[-1]['class'][-1] == 'off':
+    elif soup.find(id='main').find('div', class_='nav-pag-top').find('div', class_='pagination').find_all('a',
+                                                                                                          recursive=False)[
+        -1]['class'][-1] == 'off':
         return True
     else:
         return False
@@ -57,20 +58,20 @@ def _get_soup(url):
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
     response = opener.open(url)
-    return BeautifulSoup(response.read(),'lxml')
+    return BeautifulSoup(response.read(), 'lxml')
 
 
 def _get_member_data(member):
     # function takes in a member information as beautiful soup object
     # and returns a dictionary with information parsed
     result = {}
-    
+
     # get the display name
-    display_name = re.search(' .+',str(member.a.string)).group()[1:]
+    display_name = re.search(' .+', str(member.a.string)).group()[1:]
     result['display_name'] = display_name
 
     # further parse the display_name
-    # typical name display scenarioes:
+    # typical name display scenarios:
     # last, first
     # last, first MI.
     # last, first MI., suffix.
@@ -78,13 +79,13 @@ def _get_member_data(member):
     # last, first "nick name"
     # last, first, suffix.
     partials = display_name.split(', ')
-    
+
     # get the last name
     last_name = partials[0]
     result['last_name'] = last_name
 
     # get the first name
-    if len(partials[1].split(' '))==1:
+    if len(partials[1].split(' ')) == 1:
         # case of last, first and last, first, suffix
         first_name = partials[1]
     else:
@@ -93,10 +94,10 @@ def _get_member_data(member):
     result['first_name'] = first_name
 
     # get the middle name
-    if len(partials[1].split(' '))==1:
+    if len(partials[1].split(' ')) == 1:
         # case of last, first and last, first, suffix
         middle_name = None
-    elif len(partials[1].split(' '))==2 and re.match('["]\w+["]',partials[1].split(' ')[1]):
+    elif len(partials[1].split(' ')) == 2 and re.match('["]\w+["]', partials[1].split(' ')[1]):
         # case of last, first "nick name"
         middle_name = None
     else:
@@ -105,28 +106,28 @@ def _get_member_data(member):
     result['middle_name'] = middle_name
 
     # get the suffix
-    if len(partials)==3:
+    if len(partials) == 3:
         suffix = partials[2]
     else:
         suffix = None
     result['suffix'] = suffix
 
     # get the nick name
-    if re.search('["][a-zA-Z]+["]',display_name):
-        nick_name = re.search('["][a-zA-Z]+["]',display_name).group()[1:-1]
+    if re.search('["][a-zA-Z]+["]', display_name):
+        nick_name = re.search('["][a-zA-Z]+["]', display_name).group()[1:-1]
     else:
         nick_name = None
     result['nick_name'] = nick_name
-    
+
     # get the membership
-    if re.search('Representative',member.a.string):
+    if re.search('Representative', member.a.string):
         membership = 'Representative'
-    elif re.search('Senator',member.a.string):
+    elif re.search('Senator', member.a.string):
         membership = 'Senator'
     else:
         membership = None
     result['membership'] = membership
-    
+
     # get the id
     # always last 7 digits in the href of the anchor tag
     id = member.a['href'][-7:]
@@ -135,7 +136,7 @@ def _get_member_data(member):
     # TODO: we can get more detailed information about the member using the url in the anchor tag
 
     # this member_profile is an array of <tr> tags with state/party/district/term information
-    member_profile = member.find('div',class_='memberProfile').find_all('tr')
+    member_profile = member.find('div', class_='memberProfile').find_all('tr')
 
     # get the state
     # the mapping from full state name to abbreviation can also be done
@@ -148,10 +149,28 @@ def _get_member_data(member):
     result['party'] = party
 
     # get the served terms
+    # served_terms is an array of dictionaries or JSON objects
     served_terms = []
     terms = member_profile[-1].td.find_all('li')
     for term in terms:
-        served_terms.append(term.string)
+        term_object = {}
+        where = re.findall('[a-zA-Z]+',term.string)[0] 
+        # possible formats:
+        # 'House: 1990-1999'
+        # 'Senate: 2011-present'
+        # the start date is definitely a number
+        # the end date might be the word 'present'
+        # needs appropriate handling for both cases
+        dates = re.findall('[0-9]+',term.string)
+        start_date = dates[0]
+        if len(dates) == 2:
+            end_date = dates[1]
+        else:
+            end_date = None 
+        term_object['where'] = where
+        term_object['start_date'] = start_date
+        term_object['end_date'] = end_date
+        served_terms.append(term_object)
     result['served_terms'] = served_terms
 
     # get the district
