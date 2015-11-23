@@ -71,3 +71,9 @@ def get_state_abbreviation(state_full):
     else:
         print 'the full name of the state ' + state_full + ' does not exist in our library'
         return None
+
+
+# def get_party_abbreviation(party_full):
+#     if party_full == 'Republican' or 'republican' or 'R' or 'r':
+#         return 'R'
+#     elif party_full == 'Democratics'

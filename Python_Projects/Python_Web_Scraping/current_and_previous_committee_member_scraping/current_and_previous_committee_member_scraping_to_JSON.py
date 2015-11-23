@@ -61,15 +61,8 @@ def _get_soup(url):
     return BeautifulSoup(response.read(), 'lxml')
 
 
-def _get_member_data(member):
-    # function takes in a member information as beautiful soup object
-    # and returns a dictionary with information parsed
-    result = {}
-
-    # get the display name
-    display_name = re.search(' .+', str(member.a.string)).group()[1:]
-    result['display_name'] = display_name
-
+def _parse_display_name(display_name):
+    name_pieces = {}
     # further parse the display_name
     # typical name display scenarios:
     # last, first
@@ -82,7 +75,7 @@ def _get_member_data(member):
 
     # get the last name
     last_name = partials[0]
-    result['last_name'] = last_name
+    name_pieces['last_name'] = last_name
 
     # get the first name
     if len(partials[1].split(' ')) == 1:
@@ -91,7 +84,7 @@ def _get_member_data(member):
     else:
         # all other three cases
         first_name = partials[1].split(' ')[0]
-    result['first_name'] = first_name
+    name_pieces['first_name'] = first_name
 
     # get the middle name
     if len(partials[1].split(' ')) == 1:
@@ -103,21 +96,42 @@ def _get_member_data(member):
     else:
         # all other cases
         middle_name = partials[1].split(' ')[1]
-    result['middle_name'] = middle_name
+    name_pieces['middle_name'] = middle_name
 
     # get the suffix
     if len(partials) == 3:
         suffix = partials[2]
     else:
         suffix = None
-    result['suffix'] = suffix
+    name_pieces['suffix'] = suffix
 
     # get the nick name
     if re.search('["][a-zA-Z]+["]', display_name):
         nick_name = re.search('["][a-zA-Z]+["]', display_name).group()[1:-1]
     else:
         nick_name = None
-    result['nick_name'] = nick_name
+    name_pieces['nick_name'] = nick_name
+
+    return name_pieces
+
+
+def _get_member_data(member):
+    # function takes in a member information as beautiful soup object
+    # and returns a dictionary with information parsed
+    result = {}
+
+    # get the display name
+    display_name = re.search(' .+', str(member.a.string)).group()[1:]
+    result['display_name'] = display_name
+
+    # get the name parsed and extract parsed pieces
+    name_pieces = _parse_display_name(display_name)
+    result['last_name'] = name_pieces['last_name']
+    result['first_name'] = name_pieces['first_name']
+    result['suffix'] = name_pieces['suffix']
+    result['middle_name'] = name_pieces['middle_name']
+    result['nick_name'] = name_pieces['nick_name']
+
 
     # get the membership
     if re.search('Representative', member.a.string):
