@@ -14,6 +14,9 @@ HOUSE_VOTING_WEBSITE_FINGER_PRINT = ''
 HOUSE_REPRESENTATIVE_LIST_URL = 'http://clerk.house.gov/committee_info/oal.aspx'
 
 
+
+
+
 def get_current_house_representative_data():
     results = []
     opener = urllib2.build_opener()
@@ -39,8 +42,13 @@ def get_current_house_representative_data():
             result['congressional_district'] = '0'
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('\w+[.]',str(element)):
-                    result['committee_assignments'].append(re.search('\w+',str(element)).group())                        
+                if re.search('[a-zA-Z, ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                    if re.search('Chairman',unprocessed_committee):
+                        committee = unprocessed_committee[:-10]
+                    else:
+                        committee = unprocessed_committee                    
+                    result['committee_assignments'].append(committee)                     
         elif row.find_all('td')[0].find('em'):
             # this is a democrat but Not a delegate or resident commissioner
             result['name'] = row.find_all('td')[0].find('em').string
@@ -54,8 +62,13 @@ def get_current_house_representative_data():
                 result['congressional_district'] = re.search('[0-9]+',row.find_all('td')[0].contents[-1]).group()
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('\w+[.]',str(element)):
-                    result['committee_assignments'].append(re.search('\w+',str(element)).group())           
+                if re.search('[a-zA-Z, ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                    if re.search('Chairman',unprocessed_committee):
+                        committee = unprocessed_committee[:-10]
+                    else:
+                        committee = unprocessed_committee
+                    result['committee_assignments'].append(committee)            
         elif row.find_all('td')[0].find('strong'):
             # this is a republican as well as delegate or resident commissioner
             result['name'] = row.find_all('td')[0].find('strong').string
@@ -70,8 +83,13 @@ def get_current_house_representative_data():
             result['state'] = row.find_all('td')[0].contents[-1][-2:]
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('\w+[.]',str(element)):
-                    result['committee_assignments'].append(re.search('\w+',str(element)).group())            
+                if re.search('[a-zA-Z, ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                    if re.search('Chairman',unprocessed_committee):
+                        committee = unprocessed_committee[:-10]
+                    else:
+                        committee = unprocessed_committee
+                    result['committee_assignments'].append(committee)              
         else:
             # republican but not delegate or resident commissioner
             string = row.find_all('td')[0].string
@@ -93,8 +111,13 @@ def get_current_house_representative_data():
             result['state'] = string[-2:]
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('\w+[.]',str(element)):
-                    result['committee_assignments'].append(re.search('\w+',str(element)).group())
+                if re.search('[a-zA-Z, ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                    if re.search('Chairman',unprocessed_committee):
+                        committee = unprocessed_committee[:-10]
+                    else:
+                        committee = unprocessed_committee
+                    result['committee_assignments'].append(committee)                   
         results.append(result)
     return results
 

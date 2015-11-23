@@ -8,8 +8,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Science", 
-            "Veterans"
+            "Science, Space, and Technology", 
+            "Affairs"
         ]
     }, 
     {
@@ -21,8 +21,8 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Education", 
-            "Small"
+            "Education and the Workforce", 
+            "Small Business"
         ]
     }, 
     {
@@ -45,7 +45,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed"
+            "Armed Services"
         ]
     }, 
     {
@@ -57,7 +57,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Education"
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -68,7 +68,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -91,7 +91,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed"
+            "Armed Services"
         ]
     }, 
     {
@@ -102,8 +102,8 @@
         "congressional_district": "36", 
         "party": "R", 
         "committee_assignments": [
-            "Science", 
-            "Transportation"
+            "Science, Space, and Technology", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -114,9 +114,9 @@
         "congressional_district": "11", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Homeland", 
-            "Transportation"
+            "Education and the Workforce", 
+            "Homeland Security", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -127,7 +127,7 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -138,7 +138,7 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -149,7 +149,7 @@
         "congressional_district": "37", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
+            "Foreign Affairs", 
             "Judiciary"
         ]
     }, 
@@ -161,7 +161,7 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -172,7 +172,7 @@
         "congressional_district": "34", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -184,8 +184,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Natural", 
-            "Veterans"
+            "Natural Resources", 
+            "Affairs"
         ]
     }, 
     {
@@ -196,8 +196,8 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Science"
+            "Foreign Affairs", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -208,8 +208,8 @@
         "congressional_district": "8", 
         "party": "D", 
         "committee_assignments": [
-            "Natural", 
-            "Science"
+            "Natural Resources", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -220,8 +220,8 @@
         "congressional_district": "12", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
-            "Veterans"
+            "Energy and Commerce", 
+            "Affairs"
         ]
     }, 
     {
@@ -232,7 +232,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
+            "Education and the Workforce", 
             "Judiciary"
         ]
     }, 
@@ -244,8 +244,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Armed"
+            "Natural Resources", 
+            "Armed Services"
         ]
     }, 
     {
@@ -268,8 +268,8 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Ways", 
-            "Select"
+            "Ways and Means", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -280,9 +280,9 @@
         "congressional_district": "7", 
         "party": "R", 
         "committee_assignments": [
-            "Select", 
+            "Select Investigative Panel of the Committee on Energy and Commerce", 
             "Budget", 
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -294,7 +294,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -305,7 +305,7 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -316,8 +316,8 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Science"
+            "Education and the Workforce", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -328,8 +328,8 @@
         "congressional_district": "0", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Natural"
+            "Armed Services", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -341,8 +341,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Small", 
-            "Veterans"
+            "Small Business", 
+            "Affairs"
         ]
     }, 
     {
@@ -353,7 +353,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -364,8 +364,8 @@
         "congressional_district": "13", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Oversight"
+            "Foreign Affairs", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -376,7 +376,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -387,8 +387,8 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "House"
+            "Armed Services", 
+            "House Administration"
         ]
     }, 
     {
@@ -400,8 +400,8 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Education", 
-            "Small"
+            "Education and the Workforce", 
+            "Small Business"
         ]
     }, 
     {
@@ -412,8 +412,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Science"
+            "Armed Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -424,9 +424,9 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Foreign", 
-            "Science"
+            "Armed Services", 
+            "Foreign Affairs", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -437,9 +437,9 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
+            "Energy and Commerce", 
             "Ethics", 
-            "Select"
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -450,8 +450,8 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Transportation", 
-            "Veterans"
+            "Transportation and Infrastructure", 
+            "Affairs"
         ]
     }, 
     {
@@ -462,8 +462,8 @@
         "congressional_district": "26", 
         "party": "D", 
         "committee_assignments": [
-            "Transportation", 
-            "Veterans"
+            "Transportation and Infrastructure", 
+            "Affairs"
         ]
     }, 
     {
@@ -475,7 +475,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -487,7 +487,7 @@
         "party": "R", 
         "committee_assignments": [
             "Judiciary", 
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -498,8 +498,8 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
-            "Select"
+            "Energy and Commerce", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -510,7 +510,7 @@
         "congressional_district": "26", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
+            "Energy and Commerce", 
             "Rules"
         ]
     }, 
@@ -523,7 +523,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -534,7 +534,7 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -545,8 +545,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Education", 
+            "Armed Services", 
+            "Education and the Workforce", 
             "Rules"
         ]
     }, 
@@ -569,8 +569,8 @@
         "congressional_district": "24", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
-            "Natural"
+            "Energy and Commerce", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -582,8 +582,8 @@
         "party": "D", 
         "committee_assignments": [
             "Ethics", 
-            "Financial", 
-            "Transportation"
+            "Financial Services", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -594,7 +594,7 @@
         "congressional_district": "29", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -605,7 +605,7 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -616,8 +616,8 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Transportation", 
-            "Permanent"
+            "Transportation and Infrastructure", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -628,9 +628,9 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Homeland", 
-            "Oversight"
+            "Education and the Workforce", 
+            "Homeland Security", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -652,8 +652,8 @@
         "congressional_district": "17", 
         "party": "D", 
         "committee_assignments": [
-            "Natural", 
-            "Oversight"
+            "Natural Resources", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -665,7 +665,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -676,8 +676,8 @@
         "congressional_district": "20", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Foreign"
+            "Armed Services", 
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -688,8 +688,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Small", 
-            "Foreign", 
+            "Small Business", 
+            "Foreign Affairs", 
             "Judiciary"
         ]
     }, 
@@ -701,7 +701,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Oversight", 
+            "Oversight and Government Reform", 
             "Judiciary"
         ]
     }, 
@@ -714,7 +714,7 @@
         "party": "D", 
         "committee_assignments": [
             "Judiciary", 
-            "Small"
+            "Small Business"
         ]
     }, 
     {
@@ -725,7 +725,7 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
+            "Foreign Affairs", 
             "Judiciary"
         ]
     }, 
@@ -737,8 +737,8 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Science"
+            "Education and the Workforce", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -749,9 +749,9 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
+            "Energy and Commerce", 
             "Ethics", 
-            "Small"
+            "Small Business"
         ]
     }, 
     {
@@ -762,8 +762,8 @@
         "congressional_district": "19", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Homeland"
+            "Foreign Affairs", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -774,9 +774,9 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Natural", 
-            "Oversight"
+            "Financial Services", 
+            "Natural Resources", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -787,7 +787,7 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -798,7 +798,7 @@
         "congressional_district": "6", 
         "party": "D", 
         "committee_assignments": [
-            "Assistant"
+            "Assistant Democratic Leader"
         ]
     }, 
     {
@@ -809,8 +809,8 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Veterans"
+            "Armed Services", 
+            "Affairs"
         ]
     }, 
     {
@@ -822,7 +822,7 @@
         "party": "D", 
         "committee_assignments": [
             "Judiciary", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -846,7 +846,7 @@
         "congressional_district": "27", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -869,9 +869,9 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "House", 
-            "Science", 
-            "Transportation"
+            "House Administration", 
+            "Science, Space, and Technology", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -883,8 +883,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed", 
-            "Permanent"
+            "Armed Services", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -895,8 +895,8 @@
         "congressional_district": "11", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Oversight"
+            "Foreign Affairs", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -918,9 +918,9 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Foreign", 
-            "Natural"
+            "Armed Services", 
+            "Foreign Affairs", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -931,8 +931,8 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Oversight"
+            "Armed Services", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -944,7 +944,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -955,8 +955,8 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Transportation", 
-            "Veterans"
+            "Transportation and Infrastructure", 
+            "Affairs"
         ]
     }, 
     {
@@ -967,8 +967,8 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Education"
+            "Armed Services", 
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -979,7 +979,7 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -991,7 +991,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1013,7 +1013,7 @@
         "congressional_district": "14", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -1046,9 +1046,9 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Oversight", 
-            "Transportation", 
-            "Select"
+            "Oversight and Government Reform", 
+            "Transportation and Infrastructure", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -1059,9 +1059,9 @@
         "congressional_district": "26", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Small", 
-            "Transportation"
+            "Education and the Workforce", 
+            "Small Business", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1072,7 +1072,7 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -1084,8 +1084,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "House", 
-            "Transportation"
+            "House Administration", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1096,8 +1096,8 @@
         "congressional_district": "53", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Education"
+            "Armed Services", 
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -1108,7 +1108,7 @@
         "congressional_district": "4", 
         "party": "D", 
         "committee_assignments": [
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1119,8 +1119,8 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
-            "Select"
+            "Energy and Commerce", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -1131,7 +1131,7 @@
         "congressional_district": "6", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1155,7 +1155,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Judiciary", 
-            "Select"
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -1167,8 +1167,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Natural", 
-            "Transportation"
+            "Natural Resources", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1191,9 +1191,9 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
+            "Foreign Affairs", 
             "Judiciary", 
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -1204,8 +1204,8 @@
         "congressional_district": "11", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Oversight"
+            "Education and the Workforce", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -1217,8 +1217,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Foreign", 
-            "Oversight"
+            "Foreign Affairs", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -1230,7 +1230,7 @@
         "party": "D", 
         "committee_assignments": [
             "Ethics", 
-            "Foreign", 
+            "Foreign Affairs", 
             "Judiciary"
         ]
     }, 
@@ -1255,7 +1255,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -1266,7 +1266,7 @@
         "congressional_district": "35", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -1277,7 +1277,7 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -1288,8 +1288,8 @@
         "congressional_district": "11", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Homeland"
+            "Foreign Affairs", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -1300,7 +1300,7 @@
         "congressional_district": "14", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -1311,9 +1311,9 @@
         "congressional_district": "8", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Oversight", 
-            "Select"
+            "Armed Services", 
+            "Oversight and Government Reform", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -1324,8 +1324,8 @@
         "congressional_district": "7", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Select"
+            "Financial Services", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -1336,9 +1336,9 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Homeland", 
-            "Natural"
+            "Foreign Affairs", 
+            "Homeland Security", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -1349,8 +1349,8 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Oversight", 
-            "Transportation"
+            "Oversight and Government Reform", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1361,8 +1361,8 @@
         "congressional_district": "4", 
         "party": "D", 
         "committee_assignments": [
-            "Science", 
-            "Transportation"
+            "Science, Space, and Technology", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1373,7 +1373,7 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1384,7 +1384,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -1395,7 +1395,7 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1406,8 +1406,8 @@
         "congressional_district": "16", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
-            "Foreign"
+            "Energy and Commerce", 
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -1418,7 +1418,7 @@
         "congressional_district": "18", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -1429,8 +1429,8 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Science", 
-            "Transportation"
+            "Science, Space, and Technology", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1442,8 +1442,8 @@
         "party": "R", 
         "committee_assignments": [
             "Judiciary", 
-            "Oversight", 
-            "Transportation"
+            "Oversight and Government Reform", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1476,7 +1476,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1487,7 +1487,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1509,8 +1509,8 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Natural"
+            "Armed Services", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -1521,7 +1521,7 @@
         "congressional_district": "17", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -1532,7 +1532,7 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
+            "Armed Services", 
             "Judiciary"
         ]
     }, 
@@ -1555,8 +1555,8 @@
         "congressional_district": "11", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Science"
+            "Financial Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -1567,7 +1567,7 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
+            "Education and the Workforce", 
             "Rules"
         ]
     }, 
@@ -1579,8 +1579,8 @@
         "congressional_district": "22", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Transportation"
+            "Foreign Affairs", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1591,7 +1591,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
+            "Armed Services", 
             "Judiciary"
         ]
     }, 
@@ -1615,7 +1615,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Education"
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -1626,8 +1626,8 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Foreign"
+            "Armed Services", 
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -1638,8 +1638,8 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Natural"
+            "Armed Services", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -1650,8 +1650,8 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Transportation"
+            "Armed Services", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1663,7 +1663,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1675,7 +1675,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1687,8 +1687,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed", 
-            "Small"
+            "Armed Services", 
+            "Small Business"
         ]
     }, 
     {
@@ -1700,7 +1700,7 @@
         "party": "R", 
         "committee_assignments": [
             "Judiciary", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -1723,8 +1723,8 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Oversight"
+            "Natural Resources", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -1735,10 +1735,10 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Select", 
+            "Terrorist Attack in Benghazi", 
             "Ethics", 
             "Judiciary", 
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -1750,7 +1750,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed"
+            "Armed Services"
         ]
     }, 
     {
@@ -1772,8 +1772,8 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Transportation"
+            "Natural Resources", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1784,8 +1784,8 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Transportation"
+            "Armed Services", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1807,8 +1807,8 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Science"
+            "Foreign Affairs", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -1819,7 +1819,7 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1830,7 +1830,7 @@
         "congressional_district": "29", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -1841,7 +1841,7 @@
         "congressional_district": "9", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -1852,8 +1852,8 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Natural"
+            "Education and the Workforce", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -1865,8 +1865,8 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Education", 
-            "Oversight"
+            "Education and the Workforce", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -1877,7 +1877,7 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -1888,8 +1888,8 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Energy"
+            "Education and the Workforce", 
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -1901,7 +1901,7 @@
         "party": "D", 
         "committee_assignments": [
             "Judiciary", 
-            "Permanent"
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -1912,8 +1912,8 @@
         "congressional_district": "44", 
         "party": "D", 
         "committee_assignments": [
-            "Small", 
-            "Transportation"
+            "Small Business", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1924,8 +1924,8 @@
         "congressional_district": "22", 
         "party": "R", 
         "committee_assignments": [
-            "Small", 
-            "Transportation"
+            "Small Business", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1936,9 +1936,9 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Small", 
-            "Transportation"
+            "Natural Resources", 
+            "Small Business", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -1949,8 +1949,8 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
-            "House"
+            "Energy and Commerce", 
+            "House Administration"
         ]
     }, 
     {
@@ -1962,7 +1962,7 @@
         "party": "R", 
         "committee_assignments": [
             "Appropriations", 
-            "Select"
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -1974,9 +1974,9 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed", 
+            "Armed Services", 
             "Budget", 
-            "Select"
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -1998,7 +1998,7 @@
         "congressional_district": "10", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -2009,9 +2009,9 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Education", 
-            "Permanent"
+            "Armed Services", 
+            "Education and the Workforce", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -2022,7 +2022,7 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -2044,8 +2044,8 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Oversight"
+            "Natural Resources", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2056,8 +2056,8 @@
         "congressional_district": "26", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Homeland"
+            "Foreign Affairs", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -2068,7 +2068,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -2079,8 +2079,8 @@
         "congressional_district": "4", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Permanent"
+            "Financial Services", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -2091,8 +2091,8 @@
         "congressional_district": "15", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Financial"
+            "Education and the Workforce", 
+            "Financial Services"
         ]
     }, 
     {
@@ -2103,7 +2103,7 @@
         "congressional_district": "13", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2125,7 +2125,7 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Democratic"
+            "Democratic Whip"
         ]
     }, 
     {
@@ -2136,7 +2136,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2147,8 +2147,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Small", 
-            "Veterans"
+            "Small Business", 
+            "Affairs"
         ]
     }, 
     {
@@ -2159,8 +2159,8 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Natural", 
-            "Transportation"
+            "Natural Resources", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2171,7 +2171,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -2182,8 +2182,8 @@
         "congressional_district": "14", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Science"
+            "Financial Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -2194,9 +2194,9 @@
         "congressional_district": "50", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Education", 
-            "Transportation"
+            "Armed Services", 
+            "Education and the Workforce", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2207,8 +2207,8 @@
         "congressional_district": "23", 
         "party": "R", 
         "committee_assignments": [
-            "Homeland", 
-            "Oversight"
+            "Homeland Security", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2219,7 +2219,7 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -2241,7 +2241,7 @@
         "congressional_district": "49", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
+            "Foreign Affairs", 
             "Judiciary"
         ]
     }, 
@@ -2253,7 +2253,7 @@
         "congressional_district": "18", 
         "party": "D", 
         "committee_assignments": [
-            "Homeland", 
+            "Homeland Security", 
             "Judiciary"
         ]
     }, 
@@ -2265,7 +2265,7 @@
         "congressional_district": "8", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
+            "Education and the Workforce", 
             "Judiciary"
         ]
     }, 
@@ -2288,7 +2288,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2299,8 +2299,8 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
-            "Science"
+            "Energy and Commerce", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -2311,8 +2311,8 @@
         "congressional_district": "30", 
         "party": "D", 
         "committee_assignments": [
-            "Science", 
-            "Transportation"
+            "Science, Space, and Technology", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2323,7 +2323,7 @@
         "congressional_district": "4", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
+            "Armed Services", 
             "Judiciary"
         ]
     }, 
@@ -2335,7 +2335,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2357,7 +2357,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Armed"
+            "Armed Services"
         ]
     }, 
     {
@@ -2369,8 +2369,8 @@
         "party": "R", 
         "committee_assignments": [
             "Judiciary", 
-            "Oversight", 
-            "Select"
+            "Oversight and Government Reform", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -2403,8 +2403,8 @@
         "congressional_district": "24", 
         "party": "R", 
         "committee_assignments": [
-            "Homeland", 
-            "Transportation"
+            "Homeland Security", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2415,8 +2415,8 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Homeland"
+            "Foreign Affairs", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -2427,7 +2427,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2438,8 +2438,8 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Oversight"
+            "Foreign Affairs", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2451,7 +2451,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Small"
+            "Small Business"
         ]
     }, 
     {
@@ -2462,7 +2462,7 @@
         "congressional_district": "4", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2473,7 +2473,7 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -2495,7 +2495,7 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2506,9 +2506,9 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Homeland", 
-            "Permanent"
+            "Financial Services", 
+            "Homeland Security", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -2521,7 +2521,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Judiciary", 
-            "Small"
+            "Small Business"
         ]
     }, 
     {
@@ -2532,7 +2532,7 @@
         "congressional_district": "16", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2544,7 +2544,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2555,8 +2555,8 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Armed"
+            "Education and the Workforce", 
+            "Armed Services"
         ]
     }, 
     {
@@ -2567,9 +2567,9 @@
         "congressional_district": "25", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Science", 
-            "Small"
+            "Armed Services", 
+            "Science, Space, and Technology", 
+            "Small Business"
         ]
     }, 
     {
@@ -2581,7 +2581,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Veterans"
+            "Affairs"
         ]
     }, 
     {
@@ -2593,7 +2593,7 @@
         "party": "R", 
         "committee_assignments": [
             "Judiciary", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -2604,8 +2604,8 @@
         "congressional_district": "18", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Science"
+            "Natural Resources", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -2617,7 +2617,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -2628,9 +2628,9 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Natural", 
-            "Veterans"
+            "Armed Services", 
+            "Natural Resources", 
+            "Affairs"
         ]
     }, 
     {
@@ -2641,7 +2641,7 @@
         "congressional_district": "7", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2652,8 +2652,8 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Homeland"
+            "Armed Services", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -2664,8 +2664,8 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Transportation"
+            "Armed Services", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2677,7 +2677,7 @@
         "party": "D", 
         "committee_assignments": [
             "Ethics", 
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2688,7 +2688,7 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2699,8 +2699,8 @@
         "congressional_district": "14", 
         "party": "D", 
         "committee_assignments": [
-            "Oversight", 
-            "Small"
+            "Oversight and Government Reform", 
+            "Small Business"
         ]
     }, 
     {
@@ -2723,7 +2723,7 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2734,7 +2734,7 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2746,7 +2746,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2757,8 +2757,8 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Science", 
-            "Transportation"
+            "Science, Space, and Technology", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2769,9 +2769,9 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Transportation", 
-            "Permanent"
+            "Armed Services", 
+            "Transportation and Infrastructure", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -2782,7 +2782,7 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2793,9 +2793,9 @@
         "congressional_district": "19", 
         "party": "D", 
         "committee_assignments": [
-            "House", 
+            "House Administration", 
             "Judiciary", 
-            "Science"
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -2806,7 +2806,7 @@
         "congressional_district": "7", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2817,8 +2817,8 @@
         "congressional_district": "11", 
         "party": "R", 
         "committee_assignments": [
-            "Homeland", 
-            "Science"
+            "Homeland Security", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -2829,8 +2829,8 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Select"
+            "Financial Services", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -2841,8 +2841,8 @@
         "congressional_district": "47", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Natural"
+            "Foreign Affairs", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -2865,8 +2865,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Financial", 
-            "Science"
+            "Financial Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -2877,8 +2877,8 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Small"
+            "Financial Services", 
+            "Small Business"
         ]
     }, 
     {
@@ -2889,7 +2889,7 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -2902,7 +2902,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Budget", 
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2913,8 +2913,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Oversight"
+            "Natural Resources", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2925,8 +2925,8 @@
         "congressional_district": "8", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Oversight"
+            "Financial Services", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2937,8 +2937,8 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Natural"
+            "Armed Services", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -2949,8 +2949,8 @@
         "congressional_district": "12", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Oversight"
+            "Financial Services", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -2962,7 +2962,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -2974,7 +2974,7 @@
         "party": "R", 
         "committee_assignments": [
             "Ethics", 
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -2985,8 +2985,8 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Homeland", 
+            "Foreign Affairs", 
+            "Homeland Security", 
             "Judiciary"
         ]
     }, 
@@ -2998,9 +2998,9 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Oversight", 
-            "Science", 
-            "Transportation"
+            "Oversight and Government Reform", 
+            "Science, Space, and Technology", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3011,7 +3011,7 @@
         "congressional_district": "6", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -3022,7 +3022,7 @@
         "congressional_district": "23", 
         "party": "R", 
         "committee_assignments": [
-            "Majority"
+            "Majority Leader"
         ]
     }, 
     {
@@ -3033,9 +3033,9 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "Homeland", 
-            "Foreign", 
-            "Science"
+            "Homeland Security", 
+            "Foreign Affairs", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -3047,7 +3047,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -3070,7 +3070,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3093,7 +3093,7 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -3104,7 +3104,7 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -3115,7 +3115,7 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -3126,8 +3126,8 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
-            "Veterans"
+            "Energy and Commerce", 
+            "Affairs"
         ]
     }, 
     {
@@ -3138,8 +3138,8 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Homeland"
+            "Armed Services", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -3150,9 +3150,9 @@
         "congressional_district": "11", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Oversight", 
-            "Transportation"
+            "Foreign Affairs", 
+            "Oversight and Government Reform", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3164,7 +3164,7 @@
         "party": "R", 
         "committee_assignments": [
             "Ethics", 
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3175,8 +3175,8 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Foreign"
+            "Financial Services", 
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -3187,8 +3187,8 @@
         "congressional_district": "6", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Small"
+            "Foreign Affairs", 
+            "Small Business"
         ]
     }, 
     {
@@ -3199,8 +3199,8 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Financial"
+            "Education and the Workforce", 
+            "Financial Services"
         ]
     }, 
     {
@@ -3211,8 +3211,8 @@
         "congressional_district": "7", 
         "party": "R", 
         "committee_assignments": [
-            "Oversight", 
-            "Transportation"
+            "Oversight and Government Reform", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3223,9 +3223,9 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "House", 
-            "Homeland", 
-            "Transportation"
+            "House Administration", 
+            "Homeland Security", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3236,9 +3236,9 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Veterans", 
-            "Armed", 
-            "Permanent"
+            "Affairs", 
+            "Armed Services", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -3251,7 +3251,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Budget", 
-            "Science"
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -3263,7 +3263,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -3275,7 +3275,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -3286,9 +3286,9 @@
         "congressional_district": "6", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
+            "Armed Services", 
             "Budget", 
-            "Small"
+            "Small Business"
         ]
     }, 
     {
@@ -3299,7 +3299,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -3310,8 +3310,8 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Oversight"
+            "Financial Services", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -3322,8 +3322,8 @@
         "congressional_district": "18", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Permanent"
+            "Financial Services", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -3334,7 +3334,7 @@
         "congressional_district": "18", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -3346,8 +3346,8 @@
         "party": "D", 
         "committee_assignments": [
             "Judiciary", 
-            "Transportation", 
-            "Select"
+            "Transportation and Infrastructure", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -3358,8 +3358,8 @@
         "congressional_district": "32", 
         "party": "D", 
         "committee_assignments": [
-            "Natural", 
-            "Transportation"
+            "Natural Resources", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3370,7 +3370,7 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3382,8 +3382,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Financial", 
-            "Science"
+            "Financial Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -3395,7 +3395,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Natural", 
+            "Natural Resources", 
             "Rules"
         ]
     }, 
@@ -3407,7 +3407,7 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3419,7 +3419,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3430,7 +3430,7 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
+            "Armed Services", 
             "Budget"
         ]
     }, 
@@ -3442,8 +3442,8 @@
         "congressional_district": "0", 
         "party": "D", 
         "committee_assignments": [
-            "Oversight", 
-            "Transportation"
+            "Oversight and Government Reform", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3454,8 +3454,8 @@
         "congressional_district": "11", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "House"
+            "Armed Services", 
+            "House Administration"
         ]
     }, 
     {
@@ -3466,8 +3466,8 @@
         "congressional_district": "22", 
         "party": "R", 
         "committee_assignments": [
-            "Permanent", 
-            "Ways"
+            "Permanent Select Committee on Intelligence", 
+            "Ways and Means"
         ]
     }, 
     {
@@ -3478,7 +3478,7 @@
         "congressional_district": "22", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -3489,8 +3489,8 @@
         "congressional_district": "16", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Veterans"
+            "Armed Services", 
+            "Affairs"
         ]
     }, 
     {
@@ -3512,7 +3512,7 @@
         "congressional_district": "6", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -3524,8 +3524,8 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Oversight", 
-            "Science"
+            "Oversight and Government Reform", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -3537,7 +3537,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3548,7 +3548,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3559,8 +3559,8 @@
         "congressional_district": "10", 
         "party": "D", 
         "committee_assignments": [
-            "Homeland", 
-            "Small"
+            "Homeland Security", 
+            "Small Business"
         ]
     }, 
     {
@@ -3571,7 +3571,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -3582,7 +3582,7 @@
         "congressional_district": "12", 
         "party": "D", 
         "committee_assignments": [
-            "Democratic"
+            "Democratic Leader"
         ]
     }, 
     {
@@ -3593,8 +3593,8 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Science"
+            "Financial Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -3605,9 +3605,9 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Homeland", 
-            "Transportation"
+            "Foreign Affairs", 
+            "Homeland Security", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3618,7 +3618,7 @@
         "congressional_district": "52", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
+            "Armed Services", 
             "Judiciary"
         ]
     }, 
@@ -3642,7 +3642,7 @@
         "party": "D", 
         "committee_assignments": [
             "Judiciary", 
-            "Natural"
+            "Natural Resources"
         ]
     }, 
     {
@@ -3664,7 +3664,7 @@
         "congressional_district": "9", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -3675,8 +3675,8 @@
         "congressional_district": "16", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
-            "Select"
+            "Energy and Commerce", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -3688,7 +3688,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Oversight"
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -3700,7 +3700,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Education"
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -3711,7 +3711,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
+            "Foreign Affairs", 
             "Judiciary"
         ]
     }, 
@@ -3723,7 +3723,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -3734,8 +3734,8 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Natural", 
+            "Education and the Workforce", 
+            "Natural Resources", 
             "Rules"
         ]
     }, 
@@ -3747,9 +3747,9 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Energy", 
-            "Permanent", 
-            "Select"
+            "Energy and Commerce", 
+            "Permanent Select Committee on Intelligence", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -3760,8 +3760,8 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Science"
+            "Financial Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -3784,7 +3784,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3796,7 +3796,7 @@
         "party": "D", 
         "committee_assignments": [
             "Appropriations", 
-            "Permanent"
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -3807,9 +3807,9 @@
         "congressional_district": "0", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Small", 
-            "Veterans"
+            "Natural Resources", 
+            "Small Business", 
+            "Affairs"
         ]
     }, 
     {
@@ -3820,7 +3820,7 @@
         "congressional_district": "13", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3831,7 +3831,7 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Homeland", 
+            "Homeland Security", 
             "Judiciary"
         ]
     }, 
@@ -3843,7 +3843,7 @@
         "congressional_district": "23", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3854,7 +3854,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3865,7 +3865,7 @@
         "congressional_district": "16", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3876,8 +3876,8 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Transportation"
+            "Foreign Affairs", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -3888,8 +3888,8 @@
         "congressional_district": "4", 
         "party": "D", 
         "committee_assignments": [
-            "Homeland", 
-            "Veterans"
+            "Homeland Security", 
+            "Affairs"
         ]
     }, 
     {
@@ -3900,7 +3900,7 @@
         "congressional_district": "7", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -3911,7 +3911,7 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Homeland", 
+            "Homeland Security", 
             "Judiciary"
         ]
     }, 
@@ -3935,7 +3935,7 @@
         "party": "R", 
         "committee_assignments": [
             "Appropriations", 
-            "Select"
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -3946,8 +3946,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Veterans"
+            "Education and the Workforce", 
+            "Affairs"
         ]
     }, 
     {
@@ -3970,8 +3970,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed", 
-            "Homeland"
+            "Armed Services", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -3982,8 +3982,8 @@
         "congressional_district": "48", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Science"
+            "Foreign Affairs", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -3995,8 +3995,8 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Education", 
-            "Transportation"
+            "Education and the Workforce", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -4008,7 +4008,7 @@
         "party": "R", 
         "committee_assignments": [
             "Appropriations", 
-            "Permanent"
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -4019,8 +4019,8 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Ways", 
-            "Select"
+            "Ways and Means", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4031,8 +4031,8 @@
         "congressional_district": "27", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Permanent"
+            "Foreign Affairs", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -4043,7 +4043,7 @@
         "congressional_district": "15", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4054,7 +4054,7 @@
         "congressional_district": "12", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4066,7 +4066,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -4088,8 +4088,8 @@
         "congressional_district": "39", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Financial"
+            "Foreign Affairs", 
+            "Financial Services"
         ]
     }, 
     {
@@ -4100,8 +4100,8 @@
         "congressional_district": "36", 
         "party": "D", 
         "committee_assignments": [
-            "Natural", 
-            "Veterans"
+            "Natural Resources", 
+            "Affairs"
         ]
     }, 
     {
@@ -4123,7 +4123,7 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -4134,9 +4134,9 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Education", 
-            "Oversight"
+            "Armed Services", 
+            "Education and the Workforce", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -4147,7 +4147,7 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "The"
+            "The Speaker"
         ]
     }, 
     {
@@ -4170,8 +4170,8 @@
         "congressional_district": "0", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Natural"
+            "Education and the Workforce", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -4182,8 +4182,8 @@
         "congressional_district": "5", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Foreign"
+            "Education and the Workforce", 
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -4195,8 +4195,8 @@
         "party": "D", 
         "committee_assignments": [
             "Ethics", 
-            "Ways", 
-            "Select"
+            "Ways and Means", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4207,8 +4207,8 @@
         "congressional_district": "46", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Homeland"
+            "Armed Services", 
+            "Homeland Security"
         ]
     }, 
     {
@@ -4220,7 +4220,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -4231,7 +4231,7 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -4242,8 +4242,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Majority", 
-            "Energy"
+            "Majority Whip", 
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -4254,8 +4254,8 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
-            "Select"
+            "Energy and Commerce", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -4266,8 +4266,8 @@
         "congressional_district": "28", 
         "party": "D", 
         "committee_assignments": [
-            "Permanent", 
-            "Select"
+            "Permanent Select Committee on Intelligence", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4278,7 +4278,7 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -4289,7 +4289,7 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4301,7 +4301,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed"
+            "Armed Services"
         ]
     }, 
     {
@@ -4313,7 +4313,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4324,7 +4324,7 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Education"
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -4336,7 +4336,7 @@
         "party": "R", 
         "committee_assignments": [
             "Judiciary", 
-            "Science"
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -4369,8 +4369,8 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Permanent"
+            "Financial Services", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -4381,8 +4381,8 @@
         "congressional_district": "30", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Foreign"
+            "Financial Services", 
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -4393,7 +4393,7 @@
         "congressional_district": "15", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -4404,8 +4404,8 @@
         "congressional_district": "9", 
         "party": "R", 
         "committee_assignments": [
-            "Transportation", 
-            "Armed"
+            "Transportation and Infrastructure", 
+            "Armed Services"
         ]
     }, 
     {
@@ -4427,7 +4427,7 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4438,8 +4438,8 @@
         "congressional_district": "8", 
         "party": "D", 
         "committee_assignments": [
-            "Foreign", 
-            "Transportation"
+            "Foreign Affairs", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -4461,8 +4461,8 @@
         "congressional_district": "9", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Select"
+            "Armed Services", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4473,7 +4473,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -4484,7 +4484,7 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign"
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -4495,7 +4495,7 @@
         "congressional_district": "8", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -4506,8 +4506,8 @@
         "congressional_district": "21", 
         "party": "R", 
         "committee_assignments": [
-            "Science", 
-            "Homeland", 
+            "Science, Space, and Technology", 
+            "Homeland Security", 
             "Judiciary"
         ]
     }, 
@@ -4519,9 +4519,9 @@
         "congressional_district": "14", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Select", 
-            "Permanent"
+            "Armed Services", 
+            "Select Investigative Panel of the Committee on Energy and Commerce", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -4532,8 +4532,8 @@
         "congressional_district": "21", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Education"
+            "Armed Services", 
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -4545,7 +4545,7 @@
         "party": "R", 
         "committee_assignments": [
             "Appropriations", 
-            "Permanent"
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -4556,7 +4556,7 @@
         "congressional_district": "15", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
+            "Financial Services", 
             "Rules"
         ]
     }, 
@@ -4569,7 +4569,7 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4580,8 +4580,8 @@
         "congressional_district": "15", 
         "party": "D", 
         "committee_assignments": [
-            "Science", 
-            "Permanent"
+            "Science, Space, and Technology", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -4592,8 +4592,8 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Small"
+            "Armed Services", 
+            "Small Business"
         ]
     }, 
     {
@@ -4604,9 +4604,9 @@
         "congressional_district": "41", 
         "party": "D", 
         "committee_assignments": [
-            "Education", 
-            "Science", 
-            "Veterans"
+            "Education and the Workforce", 
+            "Science, Space, and Technology", 
+            "Affairs"
         ]
     }, 
     {
@@ -4617,7 +4617,7 @@
         "congressional_district": "2", 
         "party": "D", 
         "committee_assignments": [
-            "Homeland"
+            "Homeland Security"
         ]
     }, 
     {
@@ -4629,8 +4629,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Education", 
-            "Natural"
+            "Education and the Workforce", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -4641,7 +4641,7 @@
         "congressional_district": "5", 
         "party": "D", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -4652,7 +4652,7 @@
         "congressional_district": "13", 
         "party": "R", 
         "committee_assignments": [
-            "Armed"
+            "Armed Services"
         ]
     }, 
     {
@@ -4663,7 +4663,7 @@
         "congressional_district": "12", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -4674,7 +4674,7 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4685,8 +4685,8 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Transportation", 
-            "Veterans"
+            "Transportation and Infrastructure", 
+            "Affairs"
         ]
     }, 
     {
@@ -4697,8 +4697,8 @@
         "congressional_district": "20", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
-            "Science"
+            "Energy and Commerce", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -4709,8 +4709,8 @@
         "congressional_district": "35", 
         "party": "D", 
         "committee_assignments": [
-            "Homeland", 
-            "Natural"
+            "Homeland Security", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -4721,7 +4721,7 @@
         "congressional_district": "11", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
+            "Foreign Affairs", 
             "Judiciary"
         ]
     }, 
@@ -4733,8 +4733,8 @@
         "congressional_district": "3", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Natural"
+            "Armed Services", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -4745,9 +4745,9 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Oversight", 
-            "Permanent"
+            "Armed Services", 
+            "Oversight and Government Reform", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -4758,7 +4758,7 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -4791,8 +4791,8 @@
         "congressional_district": "51", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "House"
+            "Financial Services", 
+            "House Administration"
         ]
     }, 
     {
@@ -4803,8 +4803,8 @@
         "congressional_district": "33", 
         "party": "D", 
         "committee_assignments": [
-            "Armed", 
-            "Science"
+            "Armed Services", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -4816,7 +4816,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Homeland"
+            "Homeland Security"
         ]
     }, 
     {
@@ -4827,8 +4827,8 @@
         "congressional_district": "7", 
         "party": "D", 
         "committee_assignments": [
-            "Financial", 
-            "Small"
+            "Financial Services", 
+            "Small Business"
         ]
     }, 
     {
@@ -4850,7 +4850,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4861,8 +4861,8 @@
         "congressional_district": "7", 
         "party": "R", 
         "committee_assignments": [
-            "Education", 
-            "Oversight"
+            "Education and the Workforce", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -4873,7 +4873,7 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -4884,9 +4884,9 @@
         "congressional_district": "6", 
         "party": "R", 
         "committee_assignments": [
-            "Homeland", 
-            "House", 
-            "Oversight"
+            "Homeland Security", 
+            "House Administration", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -4898,8 +4898,8 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed", 
-            "Veterans"
+            "Armed Services", 
+            "Affairs"
         ]
     }, 
     {
@@ -4911,7 +4911,7 @@
         "party": "R", 
         "committee_assignments": [
             "Judiciary", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -4923,8 +4923,8 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Armed", 
-            "Veterans"
+            "Armed Services", 
+            "Affairs"
         ]
     }, 
     {
@@ -4946,7 +4946,7 @@
         "congressional_district": "43", 
         "party": "D", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -4957,9 +4957,9 @@
         "congressional_district": "12", 
         "party": "D", 
         "committee_assignments": [
-            "Homeland", 
-            "Oversight", 
-            "Select"
+            "Homeland Security", 
+            "Oversight and Government Reform", 
+            "Select Investigative Panel of the Committee on Energy and Commerce"
         ]
     }, 
     {
@@ -4970,8 +4970,8 @@
         "congressional_district": "14", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Science"
+            "Foreign Affairs", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -4982,7 +4982,7 @@
         "congressional_district": "10", 
         "party": "R", 
         "committee_assignments": [
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -4993,8 +4993,8 @@
         "congressional_district": "1", 
         "party": "D", 
         "committee_assignments": [
-            "Energy", 
-            "Oversight"
+            "Energy and Commerce", 
+            "Oversight and Government Reform"
         ]
     }, 
     {
@@ -5005,9 +5005,9 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Veterans", 
-            "Permanent"
+            "Armed Services", 
+            "Affairs", 
+            "Permanent Select Committee on Intelligence"
         ]
     }, 
     {
@@ -5019,8 +5019,8 @@
         "party": "R", 
         "committee_assignments": [
             "Budget", 
-            "Natural", 
-            "Science"
+            "Natural Resources", 
+            "Science, Space, and Technology"
         ]
     }, 
     {
@@ -5031,9 +5031,9 @@
         "congressional_district": "3", 
         "party": "R", 
         "committee_assignments": [
-            "Financial", 
-            "Permanent", 
-            "Select"
+            "Financial Services", 
+            "Permanent Select Committee on Intelligence", 
+            "Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -5044,7 +5044,7 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -5055,7 +5055,7 @@
         "congressional_district": "25", 
         "party": "R", 
         "committee_assignments": [
-            "Financial"
+            "Financial Services"
         ]
     }, 
     {
@@ -5066,7 +5066,7 @@
         "congressional_district": "24", 
         "party": "D", 
         "committee_assignments": [
-            "Education"
+            "Education and the Workforce"
         ]
     }, 
     {
@@ -5077,9 +5077,9 @@
         "congressional_district": "2", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Education", 
-            "Foreign"
+            "Armed Services", 
+            "Education and the Workforce", 
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -5090,8 +5090,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Natural"
+            "Armed Services", 
+            "Natural Resources"
         ]
     }, 
     {
@@ -5116,7 +5116,7 @@
         "committee_assignments": [
             "Budget", 
             "Rules", 
-            "Transportation"
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -5128,7 +5128,7 @@
         "party": "D", 
         "committee_assignments": [
             "Budget", 
-            "Energy"
+            "Energy and Commerce"
         ]
     }, 
     {
@@ -5151,7 +5151,7 @@
         "party": "R", 
         "committee_assignments": [
             "Agriculture", 
-            "Foreign"
+            "Foreign Affairs"
         ]
     }, 
     {
@@ -5173,8 +5173,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Natural", 
-            "Transportation"
+            "Natural Resources", 
+            "Transportation and Infrastructure"
         ]
     }, 
     {
@@ -5185,7 +5185,7 @@
         "congressional_district": "9", 
         "party": "R", 
         "committee_assignments": [
-            "Ways"
+            "Ways and Means"
         ]
     }, 
     {
@@ -5196,9 +5196,9 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Foreign", 
-            "Transportation", 
-            "Veterans"
+            "Foreign Affairs", 
+            "Transportation and Infrastructure", 
+            "Affairs"
         ]
     }, 
     {
@@ -5209,8 +5209,8 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Armed", 
-            "Natural"
+            "Armed Services", 
+            "Natural Resources"
         ]
     }
 ]

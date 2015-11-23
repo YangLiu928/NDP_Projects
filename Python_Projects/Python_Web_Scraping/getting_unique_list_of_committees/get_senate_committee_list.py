@@ -16,6 +16,6 @@ for member in memebers:
 # change the data type of result from 'set' to 'list'
 result = list(result)
 
-data_frame = pd.DataFrame(result)
+data_frame = pd.DataFrame(sorted(result))
 data_frame.to_csv('output/senate_committees_list.csv', header = False, index = False)
 
