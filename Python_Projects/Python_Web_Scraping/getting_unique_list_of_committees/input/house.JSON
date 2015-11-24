@@ -9,7 +9,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Science, Space, and Technology", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -185,7 +185,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Natural Resources", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -221,7 +221,7 @@
         "party": "R", 
         "committee_assignments": [
             "Energy and Commerce", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -342,7 +342,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Small Business", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -439,7 +439,7 @@
         "committee_assignments": [
             "Energy and Commerce", 
             "Ethics", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -451,7 +451,7 @@
         "party": "D", 
         "committee_assignments": [
             "Transportation and Infrastructure", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -463,7 +463,7 @@
         "party": "D", 
         "committee_assignments": [
             "Transportation and Infrastructure", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -810,7 +810,7 @@
         "party": "R", 
         "committee_assignments": [
             "Armed Services", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -956,7 +956,7 @@
         "party": "R", 
         "committee_assignments": [
             "Transportation and Infrastructure", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -1048,7 +1048,7 @@
         "committee_assignments": [
             "Oversight and Government Reform", 
             "Transportation and Infrastructure", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -1313,7 +1313,7 @@
         "committee_assignments": [
             "Armed Services", 
             "Oversight and Government Reform", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -1735,7 +1735,7 @@
         "congressional_district": "4", 
         "party": "R", 
         "committee_assignments": [
-            "Terrorist Attack in Benghazi", 
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi", 
             "Ethics", 
             "Judiciary", 
             "Oversight and Government Reform"
@@ -2148,7 +2148,7 @@
         "party": "R", 
         "committee_assignments": [
             "Small Business", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -2370,7 +2370,7 @@
         "committee_assignments": [
             "Judiciary", 
             "Oversight and Government Reform", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -2581,7 +2581,7 @@
         "party": "D", 
         "committee_assignments": [
             "Agriculture", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -2630,7 +2630,7 @@
         "committee_assignments": [
             "Armed Services", 
             "Natural Resources", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -3127,7 +3127,7 @@
         "party": "D", 
         "committee_assignments": [
             "Energy and Commerce", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -3236,7 +3236,7 @@
         "congressional_district": "1", 
         "party": "R", 
         "committee_assignments": [
-            "Affairs", 
+            "Veterans' Affairs", 
             "Armed Services", 
             "Permanent Select Committee on Intelligence"
         ]
@@ -3490,7 +3490,7 @@
         "party": "D", 
         "committee_assignments": [
             "Armed Services", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -3749,7 +3749,7 @@
         "committee_assignments": [
             "Energy and Commerce", 
             "Permanent Select Committee on Intelligence", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -3809,7 +3809,7 @@
         "committee_assignments": [
             "Natural Resources", 
             "Small Business", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -3889,7 +3889,7 @@
         "party": "D", 
         "committee_assignments": [
             "Homeland Security", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -3935,7 +3935,7 @@
         "party": "R", 
         "committee_assignments": [
             "Appropriations", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -3947,7 +3947,7 @@
         "party": "R", 
         "committee_assignments": [
             "Education and the Workforce", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -4020,7 +4020,7 @@
         "party": "R", 
         "committee_assignments": [
             "Ways and Means", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4101,7 +4101,7 @@
         "party": "D", 
         "committee_assignments": [
             "Natural Resources", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -4196,7 +4196,7 @@
         "committee_assignments": [
             "Ethics", 
             "Ways and Means", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4267,7 +4267,7 @@
         "party": "D", 
         "committee_assignments": [
             "Permanent Select Committee on Intelligence", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4462,7 +4462,7 @@
         "party": "D", 
         "committee_assignments": [
             "Armed Services", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -4606,7 +4606,7 @@
         "committee_assignments": [
             "Education and the Workforce", 
             "Science, Space, and Technology", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -4686,7 +4686,7 @@
         "party": "D", 
         "committee_assignments": [
             "Transportation and Infrastructure", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -4899,7 +4899,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Armed Services", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -4924,7 +4924,7 @@
         "committee_assignments": [
             "Agriculture", 
             "Armed Services", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {
@@ -5006,7 +5006,7 @@
         "party": "R", 
         "committee_assignments": [
             "Armed Services", 
-            "Affairs", 
+            "Veterans' Affairs", 
             "Permanent Select Committee on Intelligence"
         ]
     }, 
@@ -5033,7 +5033,7 @@
         "committee_assignments": [
             "Financial Services", 
             "Permanent Select Committee on Intelligence", 
-            "Terrorist Attack in Benghazi"
+            "Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi"
         ]
     }, 
     {
@@ -5198,7 +5198,7 @@
         "committee_assignments": [
             "Foreign Affairs", 
             "Transportation and Infrastructure", 
-            "Affairs"
+            "Veterans' Affairs"
         ]
     }, 
     {

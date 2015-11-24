@@ -42,8 +42,8 @@ def get_current_house_representative_data():
             result['congressional_district'] = '0'
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('[a-zA-Z, ]+[.]',str(element)):
-                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                if re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)).group()[:-1].strip()
                     if re.search('Chairman',unprocessed_committee):
                         committee = unprocessed_committee[:-10]
                     else:
@@ -62,8 +62,8 @@ def get_current_house_representative_data():
                 result['congressional_district'] = re.search('[0-9]+',row.find_all('td')[0].contents[-1]).group()
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('[a-zA-Z, ]+[.]',str(element)):
-                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                if re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)).group()[:-1].strip()
                     if re.search('Chairman',unprocessed_committee):
                         committee = unprocessed_committee[:-10]
                     else:
@@ -83,8 +83,8 @@ def get_current_house_representative_data():
             result['state'] = row.find_all('td')[0].contents[-1][-2:]
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('[a-zA-Z, ]+[.]',str(element)):
-                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                if re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)).group()[:-1].strip()
                     if re.search('Chairman',unprocessed_committee):
                         committee = unprocessed_committee[:-10]
                     else:
@@ -111,8 +111,8 @@ def get_current_house_representative_data():
             result['state'] = string[-2:]
             result['committee_assignments'] = []
             for element in row.find_all('td')[1].contents:
-                if re.search('[a-zA-Z, ]+[.]',str(element)):
-                    unprocessed_committee = re.search('[a-zA-Z, ]+[.]',str(element)).group()[:-1].strip()
+                if re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)):
+                    unprocessed_committee = re.search('[a-zA-Z,\'0-9 ]+[.]',str(element)).group()[:-1].strip()
                     if re.search('Chairman',unprocessed_committee):
                         committee = unprocessed_committee[:-10]
                     else:
