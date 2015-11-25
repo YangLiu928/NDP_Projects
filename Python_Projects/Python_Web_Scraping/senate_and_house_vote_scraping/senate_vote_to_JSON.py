@@ -169,5 +169,5 @@ def _get_bill_internal_id(dictionary):
 if __name__ == '__main__':
     data = get_senate_roll_call_vote(114)
     # print data
-    with open('internal_ids_114.JSON', 'w') as outfile:
+    with open('congress_114_senate_vote_data.JSON', 'w') as outfile:
         json.dump(data, outfile, indent=4)

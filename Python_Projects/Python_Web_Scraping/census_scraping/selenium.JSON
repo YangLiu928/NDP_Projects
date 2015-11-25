@@ -1,0 +1,2198 @@
+{
+    "Alabama": {
+        "Congressional District 3": {
+            "housing": {
+                "Housing Occupancy": {
+                    "Total housing units": "324,122", 
+                    "Rental vacancy rate": "6.9", 
+                    "Homeowner vacancy rate": "3.0", 
+                    "Vacant housing units": "53,151", 
+                    "Occupied housing units": "270,971"
+                }, 
+                "Value": {
+                    "$150,000 to $199,999": "27,502", 
+                    "$500,000 to $999,999": "3,473", 
+                    "Owner-occupied units": "182,454", 
+                    "$50,000 to $99,999": "42,523", 
+                    "$100,000 to $149,999": "33,852", 
+                    "$200,000 to $299,999": "24,907", 
+                    "$1,000,000 or more": "588", 
+                    "Less than $50,000": "36,319", 
+                    "$300,000 to $499,999": "13,290", 
+                    "Median (dollars)": "116,900"
+                }, 
+                "Gross Rent": {
+                    "$300 to $499": "11,757", 
+                    "$500 to $749": "29,426", 
+                    "$1,500 or more": "2,555", 
+                    "$750 to $999": "19,568", 
+                    "Occupied units paying rent": "79,073", 
+                    "$1,000 to $1,499": "9,840", 
+                    "Less than $200": "1,249", 
+                    "$200 to $299": "4,678", 
+                    "No rent paid": "9,444", 
+                    "Median (dollars)": "683"
+                }, 
+                "Year Householder Moved into Unit": {
+                    "Moved in 2010 or later": "105,059", 
+                    "Moved in 2000 to 2009": "78,749", 
+                    "Moved in 1980 to 1989": "23,892", 
+                    "Moved in 1990 to 1999": "38,814", 
+                    "Occupied housing units": "270,971", 
+                    "Moved in 1970 to 1979": "14,281", 
+                    "Moved in 1969 or earlier": "10,176"
+                }, 
+                "Selected Monthly Owner Costs(SMOC)": {
+                    "$300 to $499": "3,426", 
+                    "Housing units without a mortgage": "82,527", 
+                    "$1,500 to $1,999": "12,735", 
+                    "Less than $300": "89", 
+                    "$200 to $299": "21,724", 
+                    "$500 to $699": "10,667", 
+                    "$1,000 to $1,499": "38,345", 
+                    "$300 to $399": "22,712", 
+                    "Housing units with a mortgage": "99,927", 
+                    "$100 to $199": "11,208", 
+                    "$400 or more": "25,473", 
+                    "$2,000 or more": "7,117", 
+                    "Less than $100": "1,410", 
+                    "Median (dollars)": "328", 
+                    "$700 to $999": "27,548"
+                }, 
+                "Housing Tenure": {
+                    "Average household size of owner-occupied unit": "2.54", 
+                    "Renter-occupied": "88,517", 
+                    "Average household size of renter-occupied unit": "2.53", 
+                    "Owner-occupied": "182,454", 
+                    "Occupied housing units": "270,971"
+                }, 
+                "Mortgage Status": {
+                    "Housing units with a mortgage": "99,927", 
+                    "Housing units without a mortgage": "82,527", 
+                    "Owner-occupied units": "182,454"
+                }
+            }, 
+            "economic": {
+                "Health Insurance Coverage": {
+                    "Civilian non-institutionalized population under 18 years": "157,257", 
+                    "Civilian non-institutionalized population": "693,964", 
+                    "With private health insurance": "462,757", 
+                    "With health insurance coverage": "618,793", 
+                    "With public coverage": "251,613", 
+                    "No health insurance coverage": "4,590"
+                }, 
+                "Income and Benefits": {
+                    "$75,000 to $99,999": "27,138", 
+                    "$150,000 to $199,999": "7,799", 
+                    "Less than $10,000": "31,573", 
+                    "$10,000 to $14,999": "21,222", 
+                    "Median household income (dollars)": "40,896", 
+                    "$35,000 to $49,999": "40,804", 
+                    "Mean household income (dollars)": "56,017", 
+                    "$25,000 to $34,999": "32,492", 
+                    "$100,000 to $149,999": "25,111", 
+                    "$15,000 to 24,999": "32,831", 
+                    "$50,000 to $74,999": "46,587", 
+                    "$200,000 or more": "5,414", 
+                    "Total households": "270,971"
+                }, 
+                "Percentage of Families and People whose Income in the Past 12 Months is Below the Poverty Level": {
+                    "Related children 5 to 17 years": "25.1", 
+                    "Families with female householder, no husband present": "39.7", 
+                    "Under 18 years": "27.3", 
+                    "Related children under 18 years": "27.0", 
+                    "18 years and older": "18.7", 
+                    "65 years and older": "11.8", 
+                    "People in families": "16.4", 
+                    "Unrelated individuals 15 years and over": "39.3", 
+                    "All families": "15.5", 
+                    "With related children under 18 years": "50.3", 
+                    "Related children under 5 years": "32.4", 
+                    "Married couple families": "5.9", 
+                    "All people": "20.7", 
+                    "With related children under 5 years only": "42.6"
+                }
+            }, 
+            "jobs": {
+                "Employment Status": {
+                    "Population 16 years and over": "567,056", 
+                    "Civilian labor force": "323,831", 
+                    "Not in labor force": "240,485", 
+                    "Unemployed": "29,524", 
+                    "In labor force": "326,571", 
+                    "Employed": "294,307", 
+                    "Percent Unemployed": "9.1", 
+                    "Armed Forces": "2,740"
+                }, 
+                "Commuting to Work": {
+                    "Other means": "3,155", 
+                    "Worked at home": "7,841", 
+                    "Public transportation (excluding taxicab)": "1,099", 
+                    "Car, truck, or van -- drove alone": "251,188", 
+                    "Walked": "3,426", 
+                    "Mean travel time to work (minutes)": "24.1", 
+                    "Car, truck, or van -- carpooled": "24,346", 
+                    "Workers 16 years and over": "291,055"
+                }, 
+                "Class of Worker": {
+                    "Unpaid family workers": "186", 
+                    "Private wage and salary workers": "230,464", 
+                    "Civilian employed population 16 years and over": "294,307", 
+                    "Government workers": "50,386", 
+                    "Self-employed in own not incorporated business workers": "13,271"
+                }, 
+                "Industry": {
+                    "Information": "4,081", 
+                    "Civilian employed population 16 years and over": "294,307", 
+                    "Public administration": "16,615", 
+                    "Arts, entertainment, and recreation, and accommodation and food services": "21,881", 
+                    "Educational services, and health care and social assistance": "68,873", 
+                    "Other services, except public administration": "15,636", 
+                    "Finance and insurance, and real estate and rental and leasing": "16,957", 
+                    "Retail trade": "39,621", 
+                    "Transportation and warehousing, and utilities": "13,758", 
+                    "Agriculture, forestry, fishing and hunting, and mining": "4,000", 
+                    "Construction": "18,543", 
+                    "Professional, scientific, and management, and administrative and waste management services": "17,758", 
+                    "Manufacturing": "50,890", 
+                    "Wholesale trade": "5,694"
+                }, 
+                "Occupation": {
+                    "Natural resources, construction, and maintenance occupations": "29,551", 
+                    "Civilian employed population 16 years and over": "294,307", 
+                    "Management, business, science, and arts occupations": "90,568", 
+                    "Sales and office occupations": "71,783", 
+                    "Service occupations": "47,977", 
+                    "Production, transportation, and material moving occupations": "54,428"
+                }
+            }, 
+            "education": {
+                "Educational Attainment": {
+                    "Percent high school graduate or higher": "83.5", 
+                    "Population 25 years and over": "467,933", 
+                    "Bachelor's degree": "58,202", 
+                    "Less than 9th grade": "27,049", 
+                    "Some college, no degree": "104,643", 
+                    "9th to 12th grade, no diploma": "50,390", 
+                    "Percent bachelor's degree or higher": "20.4", 
+                    "Associate's degree": "35,923", 
+                    "High school graduate (includes equivalency)": "154,346", 
+                    "Graduate or professional degree": "37,380"
+                }, 
+                "School Enrollment": {
+                    "Nursery school, preschool": "7,562", 
+                    "College or graduate school": "60,356", 
+                    "Population 3 years and over enrolled in school": "186,914", 
+                    "Elementary school (grades 1-8)": "72,368", 
+                    "Kindergarten": "8,370", 
+                    "High school (grades 9-12)": "38,258"
+                }
+            }, 
+            "people": {
+                "Sex and Age": {
+                    "18 years and over": "548,622", 
+                    "5 to 9 years": "41,046", 
+                    "85 years and over": "11,081", 
+                    "Median age (years)": "38.0", 
+                    "20 to 24 years": "56,229", 
+                    "35 to 44 years": "94,170", 
+                    "45 to 54 years": "91,595", 
+                    "65 years and over": "105,875", 
+                    "10 to 14 years": "47,561", 
+                    "Total population": "706,574", 
+                    "Under 5 years": "40,848", 
+                    "55 to 59 years": "44,989", 
+                    "Female": "360,688", 
+                    "25 to 34 years": "86,781", 
+                    "60 to 64 years": "44,523", 
+                    "Male": "345,886", 
+                    "15 to 19 years": "52,957", 
+                    "75 to 84 years": "31,345", 
+                    "65 to 74 years": "63,449"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "50,890", 
+                    "Civilian population 18 years and over": "545,882"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "20,849", 
+                    "Total population": "706,574", 
+                    "State of residence": "467,827", 
+                    "Born in the United States": "678,592", 
+                    "Different state": "210,765", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "7,133", 
+                    "Native": "685,725"
+                }, 
+                "Race": {
+                    "Black or African American": "183,400", 
+                    "Native Hawaiian and Other Pacific Islander": "417", 
+                    "Total population": "706,574", 
+                    "Asian": "9,979", 
+                    "Two or more races": "12,527", 
+                    "White": "492,627", 
+                    "One race": "694,047", 
+                    "American Indian and Alaska Native": "1,988", 
+                    "Some other race": "5,636"
+                }, 
+                "Ancestry": {
+                    "Swedish": "978", 
+                    "French (except Basque)": "11,279", 
+                    "Dutch": "4,947", 
+                    "Danish": "393", 
+                    "Total population": "706,574", 
+                    "Hungarian": "333", 
+                    "Ukrainian": "172", 
+                    "Welsh": "2,224", 
+                    "Lithuanian": "224", 
+                    "Scotch-Irish": "8,035", 
+                    "Arab": "1,550", 
+                    "Norwegian": "1,847", 
+                    "Russian": "1,233", 
+                    "Greek": "921", 
+                    "American": "124,521", 
+                    "English": "47,593", 
+                    "Swiss": "585", 
+                    "Italian": "11,624", 
+                    "Portuguese": "205", 
+                    "Irish": "63,361", 
+                    "German": "44,623", 
+                    "Czech": "320", 
+                    "Slovak": "49", 
+                    "Scottish": "10,849", 
+                    "French Canadian": "1,124", 
+                    "Polish": "2,679", 
+                    "Subsaharan African": "5,356", 
+                    "West Indian (excluding Hispanic origin groups)": "2,522"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "433,535", 
+                    "Total civilian non-institutionalized population": "693,964", 
+                    "With a disability": "42,024", 
+                    "Under 18 years": "157,257", 
+                    "65 years and over": "103,172"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "86", 
+                    "Total population": "706,574", 
+                    "Mexican": "11,066", 
+                    "Not Hispanic or Latino": "685,355", 
+                    "Hispanic or Latino (of any race)": "21,219", 
+                    "Puerto Rican": "4,404", 
+                    "Other Hispanic or Latino": "5,663"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "62,948", 
+                    "Different county": "51,710", 
+                    "Different state": "23,231", 
+                    "Same house": "581,546", 
+                    "Population one year and over": "698,431", 
+                    "Abroad": "2,227", 
+                    "Different house in the U.S.": "114,658", 
+                    "Same state": "28,479"
+                }
+            }
+        }, 
+        "Congressional District 2": {
+            "housing": {
+                "Housing Occupancy": {
+                    "Total housing units": "309,169", 
+                    "Rental vacancy rate": "10.5", 
+                    "Homeowner vacancy rate": "2.5", 
+                    "Vacant housing units": "51,031", 
+                    "Occupied housing units": "258,138"
+                }, 
+                "Value": {
+                    "$150,000 to $199,999": "25,756", 
+                    "$500,000 to $999,999": "2,924", 
+                    "Owner-occupied units": "171,102", 
+                    "$50,000 to $99,999": "42,040", 
+                    "$100,000 to $149,999": "35,271", 
+                    "$200,000 to $299,999": "24,549", 
+                    "$1,000,000 or more": "644", 
+                    "Less than $50,000": "31,190", 
+                    "$300,000 to $499,999": "8,728", 
+                    "Median (dollars)": "117,700"
+                }, 
+                "Gross Rent": {
+                    "$300 to $499": "9,935", 
+                    "$500 to $749": "26,654", 
+                    "$1,500 or more": "3,496", 
+                    "$750 to $999": "20,222", 
+                    "Occupied units paying rent": "77,674", 
+                    "$1,000 to $1,499": "11,713", 
+                    "Less than $200": "1,779", 
+                    "$200 to $299": "3,875", 
+                    "No rent paid": "9,362", 
+                    "Median (dollars)": "720"
+                }, 
+                "Year Householder Moved into Unit": {
+                    "Moved in 2010 or later": "95,429", 
+                    "Moved in 2000 to 2009": "81,374", 
+                    "Moved in 1980 to 1989": "16,951", 
+                    "Moved in 1990 to 1999": "39,607", 
+                    "Occupied housing units": "258,138", 
+                    "Moved in 1970 to 1979": "14,297", 
+                    "Moved in 1969 or earlier": "10,480"
+                }, 
+                "Selected Monthly Owner Costs(SMOC)": {
+                    "$300 to $499": "3,588", 
+                    "Housing units without a mortgage": "73,259", 
+                    "$1,500 to $1,999": "12,275", 
+                    "Less than $300": "439", 
+                    "$200 to $299": "21,807", 
+                    "$500 to $699": "13,105", 
+                    "$1,000 to $1,499": "31,682", 
+                    "$300 to $399": "19,678", 
+                    "Housing units with a mortgage": "97,843", 
+                    "$100 to $199": "9,394", 
+                    "$400 or more": "21,840", 
+                    "$2,000 or more": "5,976", 
+                    "Less than $100": "540", 
+                    "Median (dollars)": "324", 
+                    "$700 to $999": "30,778"
+                }, 
+                "Housing Tenure": {
+                    "Average household size of owner-occupied unit": "2.52", 
+                    "Renter-occupied": "87,036", 
+                    "Average household size of renter-occupied unit": "2.62", 
+                    "Owner-occupied": "171,102", 
+                    "Occupied housing units": "258,138"
+                }, 
+                "Mortgage Status": {
+                    "Housing units with a mortgage": "97,843", 
+                    "Housing units without a mortgage": "73,259", 
+                    "Owner-occupied units": "171,102"
+                }
+            }, 
+            "economic": {
+                "Health Insurance Coverage": {
+                    "Civilian non-institutionalized population under 18 years": "156,783", 
+                    "Civilian non-institutionalized population": "658,351", 
+                    "With private health insurance": "426,900", 
+                    "With health insurance coverage": "580,363", 
+                    "With public coverage": "243,802", 
+                    "No health insurance coverage": "6,456"
+                }, 
+                "Income and Benefits": {
+                    "$75,000 to $99,999": "26,298", 
+                    "$150,000 to $199,999": "7,528", 
+                    "Less than $10,000": "25,446", 
+                    "$10,000 to $14,999": "17,907", 
+                    "Median household income (dollars)": "42,628", 
+                    "$35,000 to $49,999": "39,775", 
+                    "Mean household income (dollars)": "56,516", 
+                    "$25,000 to $34,999": "30,626", 
+                    "$100,000 to $149,999": "25,648", 
+                    "$15,000 to 24,999": "34,693", 
+                    "$50,000 to $74,999": "45,007", 
+                    "$200,000 or more": "5,210", 
+                    "Total households": "258,138"
+                }, 
+                "Percentage of Families and People whose Income in the Past 12 Months is Below the Poverty Level": {
+                    "Related children 5 to 17 years": "28.3", 
+                    "Families with female householder, no husband present": "43.1", 
+                    "Under 18 years": "29.3", 
+                    "Related children under 18 years": "29.3", 
+                    "18 years and older": "17", 
+                    "65 years and older": "10.7", 
+                    "People in families": "17.7", 
+                    "Unrelated individuals 15 years and over": "30.2", 
+                    "All families": "15.7", 
+                    "With related children under 18 years": "55.4", 
+                    "Related children under 5 years": "31.9", 
+                    "Married couple families": "5.7", 
+                    "All people": "19.9", 
+                    "With related children under 5 years only": "55.2"
+                }
+            }, 
+            "jobs": {
+                "Employment Status": {
+                    "Population 16 years and over": "539,419", 
+                    "Civilian labor force": "304,679", 
+                    "Not in labor force": "228,295", 
+                    "Unemployed": "27,955", 
+                    "In labor force": "311,124", 
+                    "Employed": "276,724", 
+                    "Percent Unemployed": "9.2", 
+                    "Armed Forces": "6,445"
+                }, 
+                "Commuting to Work": {
+                    "Other means": "3,489", 
+                    "Worked at home": "8,353", 
+                    "Public transportation (excluding taxicab)": "1,195", 
+                    "Car, truck, or van -- drove alone": "236,243", 
+                    "Walked": "3,471", 
+                    "Mean travel time to work (minutes)": "23", 
+                    "Car, truck, or van -- carpooled": "24,933", 
+                    "Workers 16 years and over": "277,684"
+                }, 
+                "Class of Worker": {
+                    "Unpaid family workers": "487", 
+                    "Private wage and salary workers": "208,172", 
+                    "Civilian employed population 16 years and over": "276,724", 
+                    "Government workers": "51,490", 
+                    "Self-employed in own not incorporated business workers": "16,575"
+                }, 
+                "Industry": {
+                    "Information": "3,222", 
+                    "Civilian employed population 16 years and over": "276,724", 
+                    "Public administration": "26,447", 
+                    "Arts, entertainment, and recreation, and accommodation and food services": "23,879", 
+                    "Educational services, and health care and social assistance": "54,408", 
+                    "Other services, except public administration": "15,767", 
+                    "Finance and insurance, and real estate and rental and leasing": "14,515", 
+                    "Retail trade": "34,186", 
+                    "Transportation and warehousing, and utilities": "15,299", 
+                    "Agriculture, forestry, fishing and hunting, and mining": "6,957", 
+                    "Construction": "17,039", 
+                    "Professional, scientific, and management, and administrative and waste management services": "23,576", 
+                    "Manufacturing": "34,522", 
+                    "Wholesale trade": "6,907"
+                }, 
+                "Occupation": {
+                    "Natural resources, construction, and maintenance occupations": "28,767", 
+                    "Civilian employed population 16 years and over": "276,724", 
+                    "Management, business, science, and arts occupations": "87,505", 
+                    "Sales and office occupations": "68,962", 
+                    "Service occupations": "47,952", 
+                    "Production, transportation, and material moving occupations": "43,538"
+                }
+            }, 
+            "education": {
+                "Educational Attainment": {
+                    "Percent high school graduate or higher": "83.6", 
+                    "Population 25 years and over": "452,170", 
+                    "Bachelor's degree": "59,726", 
+                    "Less than 9th grade": "21,893", 
+                    "Some college, no degree": "95,386", 
+                    "9th to 12th grade, no diploma": "52,434", 
+                    "Percent bachelor's degree or higher": "21.6", 
+                    "Associate's degree": "38,094", 
+                    "High school graduate (includes equivalency)": "146,658", 
+                    "Graduate or professional degree": "37,979"
+                }, 
+                "School Enrollment": {
+                    "Nursery school, preschool": "8,344", 
+                    "College or graduate school": "41,057", 
+                    "Population 3 years and over enrolled in school": "166,147", 
+                    "Elementary school (grades 1-8)": "71,236", 
+                    "Kindergarten": "9,727", 
+                    "High school (grades 9-12)": "35,783"
+                }
+            }, 
+            "people": {
+                "Sex and Age": {
+                    "18 years and over": "521,685", 
+                    "5 to 9 years": "43,453", 
+                    "85 years and over": "11,163", 
+                    "Median age (years)": "38.0", 
+                    "20 to 24 years": "51,670", 
+                    "35 to 44 years": "85,629", 
+                    "45 to 54 years": "88,417", 
+                    "65 years and over": "105,469", 
+                    "10 to 14 years": "44,620", 
+                    "Total population": "678,622", 
+                    "Under 5 years": "41,668", 
+                    "55 to 59 years": "46,104", 
+                    "Female": "347,566", 
+                    "25 to 34 years": "86,601", 
+                    "60 to 64 years": "39,950", 
+                    "Male": "331,056", 
+                    "15 to 19 years": "45,041", 
+                    "75 to 84 years": "33,836", 
+                    "65 to 74 years": "60,470"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "56,821", 
+                    "Civilian population 18 years and over": "515,240"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "17,864", 
+                    "Total population": "678,622", 
+                    "State of residence": "469,027", 
+                    "Born in the United States": "652,616", 
+                    "Different state": "183,589", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "8,142", 
+                    "Native": "660,758"
+                }, 
+                "Race": {
+                    "Black or African American": "209,361", 
+                    "Native Hawaiian and Other Pacific Islander": "58", 
+                    "Total population": "678,622", 
+                    "Asian": "7,684", 
+                    "Two or more races": "8,867", 
+                    "White": "443,780", 
+                    "One race": "669,755", 
+                    "American Indian and Alaska Native": "3,409", 
+                    "Some other race": "5,463"
+                }, 
+                "Ancestry": {
+                    "Swedish": "2,951", 
+                    "French (except Basque)": "8,828", 
+                    "Dutch": "5,887", 
+                    "Danish": "221", 
+                    "Total population": "678,622", 
+                    "Hungarian": "747", 
+                    "Ukrainian": "206", 
+                    "Welsh": "2,184", 
+                    "Lithuanian": "116", 
+                    "Scotch-Irish": "11,369", 
+                    "Arab": "1,128", 
+                    "Norwegian": "1,850", 
+                    "Russian": "771", 
+                    "Greek": "1,052", 
+                    "American": "138,944", 
+                    "English": "51,816", 
+                    "Swiss": "168", 
+                    "Italian": "7,931", 
+                    "Portuguese": "220", 
+                    "Irish": "47,389", 
+                    "German": "35,238", 
+                    "Czech": "342", 
+                    "Slovak": "448", 
+                    "Scottish": "8,757", 
+                    "French Canadian": "1,336", 
+                    "Polish": "2,142", 
+                    "Subsaharan African": "15,172", 
+                    "West Indian (excluding Hispanic origin groups)": "1,111"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "399,537", 
+                    "Total civilian non-institutionalized population": "658,351", 
+                    "With a disability": "44,778", 
+                    "Under 18 years": "156,783", 
+                    "65 years and over": "102,031"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "2,406", 
+                    "Total population": "678,622", 
+                    "Mexican": "12,534", 
+                    "Not Hispanic or Latino": "656,890", 
+                    "Hispanic or Latino (of any race)": "21,732", 
+                    "Puerto Rican": "3,442", 
+                    "Other Hispanic or Latino": "3,350"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "57,764", 
+                    "Different county": "45,610", 
+                    "Different state": "16,672", 
+                    "Same house": "564,093", 
+                    "Population one year and over": "670,227", 
+                    "Abroad": "2,760", 
+                    "Different house in the U.S.": "103,374", 
+                    "Same state": "28,938"
+                }
+            }
+        }, 
+        "Congressional District 1": {
+            "housing": {
+                "Housing Occupancy": {
+                    "Total housing units": "328,532", 
+                    "Rental vacancy rate": "22.8", 
+                    "Homeowner vacancy rate": "4.3", 
+                    "Vacant housing units": "73,229", 
+                    "Occupied housing units": "255,303"
+                }, 
+                "Value": {
+                    "$150,000 to $199,999": "28,341", 
+                    "$500,000 to $999,999": "5,219", 
+                    "Owner-occupied units": "173,595", 
+                    "$50,000 to $99,999": "39,186", 
+                    "$100,000 to $149,999": "38,116", 
+                    "$200,000 to $299,999": "27,431", 
+                    "$1,000,000 or more": "1,051", 
+                    "Less than $50,000": "21,300", 
+                    "$300,000 to $499,999": "12,951", 
+                    "Median (dollars)": "132,300"
+                }, 
+                "Gross Rent": {
+                    "$300 to $499": "7,269", 
+                    "$500 to $749": "21,126", 
+                    "$1,500 or more": "3,068", 
+                    "$750 to $999": "20,335", 
+                    "Occupied units paying rent": "71,315", 
+                    "$1,000 to $1,499": "15,291", 
+                    "Less than $200": "1,191", 
+                    "$200 to $299": "3,035", 
+                    "No rent paid": "10,393", 
+                    "Median (dollars)": "802"
+                }, 
+                "Year Householder Moved into Unit": {
+                    "Moved in 2010 or later": "91,441", 
+                    "Moved in 2000 to 2009": "82,242", 
+                    "Moved in 1980 to 1989": "17,268", 
+                    "Moved in 1990 to 1999": "38,341", 
+                    "Occupied housing units": "255,303", 
+                    "Moved in 1970 to 1979": "15,595", 
+                    "Moved in 1969 or earlier": "10,416"
+                }, 
+                "Selected Monthly Owner Costs(SMOC)": {
+                    "$300 to $499": "2,550", 
+                    "Housing units without a mortgage": "70,420", 
+                    "$1,500 to $1,999": "16,455", 
+                    "Less than $300": "553", 
+                    "$200 to $299": "17,103", 
+                    "$500 to $699": "8,934", 
+                    "$1,000 to $1,499": "36,236", 
+                    "$300 to $399": "16,741", 
+                    "Housing units with a mortgage": "103,175", 
+                    "$100 to $199": "7,884", 
+                    "$400 or more": "27,662", 
+                    "$2,000 or more": "12,021", 
+                    "Less than $100": "1,030", 
+                    "Median (dollars)": "353", 
+                    "$700 to $999": "26,426"
+                }, 
+                "Housing Tenure": {
+                    "Average household size of owner-occupied unit": "2.68", 
+                    "Renter-occupied": "81,708", 
+                    "Average household size of renter-occupied unit": "2.63", 
+                    "Owner-occupied": "173,595", 
+                    "Occupied housing units": "255,303"
+                }, 
+                "Mortgage Status": {
+                    "Housing units with a mortgage": "103,175", 
+                    "Housing units without a mortgage": "70,420", 
+                    "Owner-occupied units": "173,595"
+                }
+            }, 
+            "economic": {
+                "Health Insurance Coverage": {
+                    "Civilian non-institutionalized population under 18 years": "162,873", 
+                    "Civilian non-institutionalized population": "681,793", 
+                    "With private health insurance": "429,785", 
+                    "With health insurance coverage": "588,267", 
+                    "With public coverage": "242,379", 
+                    "No health insurance coverage": "8,072"
+                }, 
+                "Income and Benefits": {
+                    "$75,000 to $99,999": "26,757", 
+                    "$150,000 to $199,999": "7,963", 
+                    "Less than $10,000": "25,070", 
+                    "$10,000 to $14,999": "15,648", 
+                    "Median household income (dollars)": "44,030", 
+                    "$35,000 to $49,999": "38,892", 
+                    "Mean household income (dollars)": "59,231", 
+                    "$25,000 to $34,999": "27,081", 
+                    "$100,000 to $149,999": "27,321", 
+                    "$15,000 to 24,999": "35,393", 
+                    "$50,000 to $74,999": "44,905", 
+                    "$200,000 or more": "6,273", 
+                    "Total households": "255,303"
+                }, 
+                "Percentage of Families and People whose Income in the Past 12 Months is Below the Poverty Level": {
+                    "Related children 5 to 17 years": "25.0", 
+                    "Families with female householder, no husband present": "37.0", 
+                    "Under 18 years": "25.5", 
+                    "Related children under 18 years": "25.3", 
+                    "18 years and older": "15.5", 
+                    "65 years and older": "12", 
+                    "People in families": "15.4", 
+                    "Unrelated individuals 15 years and over": "30.6", 
+                    "All families": "14.0", 
+                    "With related children under 18 years": "47.5", 
+                    "Related children under 5 years": "25.9", 
+                    "Married couple families": "6.4", 
+                    "All people": "17.9", 
+                    "With related children under 5 years only": "38.7"
+                }
+            }, 
+            "jobs": {
+                "Sex and Age": {
+                    "18 years and over": "533,825", 
+                    "5 to 9 years": "44,497", 
+                    "85 years and over": "13,300", 
+                    "Median age (years)": "39.5", 
+                    "20 to 24 years": "44,344", 
+                    "35 to 44 years": "84,764", 
+                    "45 to 54 years": "95,389", 
+                    "65 years and over": "113,016", 
+                    "10 to 14 years": "48,930", 
+                    "Total population": "696,783", 
+                    "Under 5 years": "42,638", 
+                    "55 to 59 years": "49,405", 
+                    "Female": "359,643", 
+                    "25 to 34 years": "85,903", 
+                    "60 to 64 years": "43,471", 
+                    "Male": "337,140", 
+                    "15 to 19 years": "44,426", 
+                    "75 to 84 years": "33,481", 
+                    "65 to 74 years": "66,235"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "52,272", 
+                    "Civilian population 18 years and over": "532,625"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "21,088", 
+                    "Total population": "696,783", 
+                    "State of residence": "477,745", 
+                    "Born in the United States": "668,257", 
+                    "Different state": "190,512", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "7,438", 
+                    "Native": "675,695"
+                }, 
+                "Race": {
+                    "Black or African American": "194,320", 
+                    "Native Hawaiian and Other Pacific Islander": "47", 
+                    "Total population": "696,783", 
+                    "Asian": "9,757", 
+                    "Two or more races": "11,719", 
+                    "White": "468,456", 
+                    "One race": "685,064", 
+                    "American Indian and Alaska Native": "5,293", 
+                    "Some other race": "7,191"
+                }, 
+                "Ancestry": {
+                    "Swedish": "3,789", 
+                    "French (except Basque)": "15,762", 
+                    "Dutch": "4,867", 
+                    "Danish": "1,324", 
+                    "Total population": "696,783", 
+                    "Hungarian": "1,016", 
+                    "Ukrainian": "365", 
+                    "Welsh": "2,227", 
+                    "Lithuanian": "310", 
+                    "Scotch-Irish": "9,727", 
+                    "Arab": "3,263", 
+                    "Norwegian": "3,169", 
+                    "Russian": "880", 
+                    "Greek": "1,230", 
+                    "American": "135,588", 
+                    "English": "49,873", 
+                    "Swiss": "475", 
+                    "Italian": "14,461", 
+                    "Portuguese": "668", 
+                    "Irish": "58,052", 
+                    "German": "50,529", 
+                    "Czech": "833", 
+                    "Slovak": "64", 
+                    "Scottish": "13,328", 
+                    "French Canadian": "1,119", 
+                    "Polish": "4,186", 
+                    "Subsaharan African": "1,615", 
+                    "West Indian (excluding Hispanic origin groups)": "839"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "408,227", 
+                    "Total civilian non-institutionalized population": "681,793", 
+                    "With a disability": "42,170", 
+                    "Under 18 years": "162,873", 
+                    "65 years and over": "110,693"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "1,870", 
+                    "Total population": "696,783", 
+                    "Mexican": "9,650", 
+                    "Not Hispanic or Latino": "675,223", 
+                    "Hispanic or Latino (of any race)": "21,560", 
+                    "Puerto Rican": "2,767", 
+                    "Other Hispanic or Latino": "7,273"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "57,792", 
+                    "Different county": "25,720", 
+                    "Different state": "13,722", 
+                    "Same house": "602,678", 
+                    "Population one year and over": "687,144", 
+                    "Abroad": "954", 
+                    "Different house in the U.S.": "83,512", 
+                    "Same state": "11,998"
+                }
+            }, 
+            "education": {
+                "Educational Attainment": {
+                    "Percent high school graduate or higher": "86.5", 
+                    "Population 25 years and over": "471,948", 
+                    "Bachelor's degree": "71,101", 
+                    "Less than 9th grade": "19,579", 
+                    "Some college, no degree": "105,516", 
+                    "9th to 12th grade, no diploma": "44,368", 
+                    "Percent bachelor's degree or higher": "23.1", 
+                    "Associate's degree": "39,196", 
+                    "High school graduate (includes equivalency)": "154,423", 
+                    "Graduate or professional degree": "37,765"
+                }, 
+                "School Enrollment": {
+                    "Nursery school, preschool": "8,031", 
+                    "College or graduate school": "36,872", 
+                    "Population 3 years and over enrolled in school": "164,033", 
+                    "Elementary school (grades 1-8)": "75,070", 
+                    "Kindergarten": "9,167", 
+                    "High school (grades 9-12)": "34,893"
+                }
+            }, 
+            "people": {
+                "Sex and Age": {
+                    "18 years and over": "533,825", 
+                    "5 to 9 years": "44,497", 
+                    "85 years and over": "13,300", 
+                    "Median age (years)": "39.5", 
+                    "20 to 24 years": "44,344", 
+                    "35 to 44 years": "84,764", 
+                    "45 to 54 years": "95,389", 
+                    "65 years and over": "113,016", 
+                    "10 to 14 years": "48,930", 
+                    "Total population": "696,783", 
+                    "Under 5 years": "42,638", 
+                    "55 to 59 years": "49,405", 
+                    "Female": "359,643", 
+                    "25 to 34 years": "85,903", 
+                    "60 to 64 years": "43,471", 
+                    "Male": "337,140", 
+                    "15 to 19 years": "44,426", 
+                    "75 to 84 years": "33,481", 
+                    "65 to 74 years": "66,235"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "52,272", 
+                    "Civilian population 18 years and over": "532,625"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "21,088", 
+                    "Total population": "696,783", 
+                    "State of residence": "477,745", 
+                    "Born in the United States": "668,257", 
+                    "Different state": "190,512", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "7,438", 
+                    "Native": "675,695"
+                }, 
+                "Race": {
+                    "Black or African American": "194,320", 
+                    "Native Hawaiian and Other Pacific Islander": "47", 
+                    "Total population": "696,783", 
+                    "Asian": "9,757", 
+                    "Two or more races": "11,719", 
+                    "White": "468,456", 
+                    "One race": "685,064", 
+                    "American Indian and Alaska Native": "5,293", 
+                    "Some other race": "7,191"
+                }, 
+                "Ancestry": {
+                    "Swedish": "3,789", 
+                    "French (except Basque)": "15,762", 
+                    "Dutch": "4,867", 
+                    "Danish": "1,324", 
+                    "Total population": "696,783", 
+                    "Hungarian": "1,016", 
+                    "Ukrainian": "365", 
+                    "Welsh": "2,227", 
+                    "Lithuanian": "310", 
+                    "Scotch-Irish": "9,727", 
+                    "Arab": "3,263", 
+                    "Norwegian": "3,169", 
+                    "Russian": "880", 
+                    "Greek": "1,230", 
+                    "American": "135,588", 
+                    "English": "49,873", 
+                    "Swiss": "475", 
+                    "Italian": "14,461", 
+                    "Portuguese": "668", 
+                    "Irish": "58,052", 
+                    "German": "50,529", 
+                    "Czech": "833", 
+                    "Slovak": "64", 
+                    "Scottish": "13,328", 
+                    "French Canadian": "1,119", 
+                    "Polish": "4,186", 
+                    "Subsaharan African": "1,615", 
+                    "West Indian (excluding Hispanic origin groups)": "839"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "408,227", 
+                    "Total civilian non-institutionalized population": "681,793", 
+                    "With a disability": "42,170", 
+                    "Under 18 years": "162,873", 
+                    "65 years and over": "110,693"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "1,870", 
+                    "Total population": "696,783", 
+                    "Mexican": "9,650", 
+                    "Not Hispanic or Latino": "675,223", 
+                    "Hispanic or Latino (of any race)": "21,560", 
+                    "Puerto Rican": "2,767", 
+                    "Other Hispanic or Latino": "7,273"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "57,792", 
+                    "Different county": "25,720", 
+                    "Different state": "13,722", 
+                    "Same house": "602,678", 
+                    "Population one year and over": "687,144", 
+                    "Abroad": "954", 
+                    "Different house in the U.S.": "83,512", 
+                    "Same state": "11,998"
+                }
+            }
+        }, 
+        "Congressional District 7": {
+            "housing": {
+                "Housing Occupancy": {
+                    "Total housing units": "326,144", 
+                    "Rental vacancy rate": "8.0", 
+                    "Homeowner vacancy rate": "1.9", 
+                    "Vacant housing units": "68,669", 
+                    "Occupied housing units": "257,475"
+                }, 
+                "Value": {
+                    "$150,000 to $199,999": "18,914", 
+                    "$500,000 to $999,999": "1,502", 
+                    "Owner-occupied units": "148,218", 
+                    "$50,000 to $99,999": "45,646", 
+                    "$100,000 to $149,999": "26,854", 
+                    "$200,000 to $299,999": "15,559", 
+                    "$1,000,000 or more": "693", 
+                    "Less than $50,000": "34,457", 
+                    "$300,000 to $499,999": "4,593", 
+                    "Median (dollars)": "90,800"
+                }, 
+                "Gross Rent": {
+                    "$300 to $499": "12,597", 
+                    "$500 to $749": "34,778", 
+                    "$1,500 or more": "1,618", 
+                    "$750 to $999": "26,281", 
+                    "Occupied units paying rent": "97,532", 
+                    "$1,000 to $1,499": "15,127", 
+                    "Less than $200": "2,122", 
+                    "$200 to $299": "5,009", 
+                    "No rent paid": "11,725", 
+                    "Median (dollars)": "714"
+                }, 
+                "Year Householder Moved into Unit": {
+                    "Moved in 2010 or later": "96,124", 
+                    "Moved in 2000 to 2009": "74,263", 
+                    "Moved in 1980 to 1989": "20,814", 
+                    "Moved in 1990 to 1999": "34,879", 
+                    "Occupied housing units": "257,475", 
+                    "Moved in 1970 to 1979": "17,474", 
+                    "Moved in 1969 or earlier": "13,921"
+                }, 
+                "Selected Monthly Owner Costs(SMOC)": {
+                    "$300 to $499": "2,501", 
+                    "Housing units without a mortgage": "67,683", 
+                    "$1,500 to $1,999": "10,291", 
+                    "Less than $300": "430", 
+                    "$200 to $299": "14,955", 
+                    "$500 to $699": "9,335", 
+                    "$1,000 to $1,499": "29,732", 
+                    "$300 to $399": "16,538", 
+                    "Housing units with a mortgage": "80,535", 
+                    "$100 to $199": "8,498", 
+                    "$400 or more": "26,557", 
+                    "$2,000 or more": "4,052", 
+                    "Less than $100": "1,135", 
+                    "Median (dollars)": "357", 
+                    "$700 to $999": "24,194"
+                }, 
+                "Housing Tenure": {
+                    "Average household size of owner-occupied unit": "2.6", 
+                    "Renter-occupied": "109,257", 
+                    "Average household size of renter-occupied unit": "2.46", 
+                    "Owner-occupied": "148,218", 
+                    "Occupied housing units": "257,475"
+                }, 
+                "Mortgage Status": {
+                    "Housing units with a mortgage": "80,535", 
+                    "Housing units without a mortgage": "67,683", 
+                    "Owner-occupied units": "148,218"
+                }
+            }, 
+            "economic": {
+                "Health Insurance Coverage": {
+                    "Civilian non-institutionalized population under 18 years": "150,988", 
+                    "Civilian non-institutionalized population": "673,357", 
+                    "With private health insurance": "371,934", 
+                    "With health insurance coverage": "580,191", 
+                    "With public coverage": "287,145", 
+                    "No health insurance coverage": "4,409"
+                }, 
+                "Income and Benefits": {
+                    "$75,000 to $99,999": "22,116", 
+                    "$150,000 to $199,999": "3,826", 
+                    "Less than $10,000": "41,919", 
+                    "$10,000 to $14,999": "22,858", 
+                    "Median household income (dollars)": "31,563", 
+                    "$35,000 to $49,999": "37,491", 
+                    "Mean household income (dollars)": "45,419", 
+                    "$25,000 to $34,999": "33,203", 
+                    "$100,000 to $149,999": "16,261", 
+                    "$15,000 to 24,999": "41,142", 
+                    "$50,000 to $74,999": "35,511", 
+                    "$200,000 or more": "3,148", 
+                    "Total households": "257,475"
+                }, 
+                "Percentage of Families and People whose Income in the Past 12 Months is Below the Poverty Level": {
+                    "Related children 5 to 17 years": "42.2", 
+                    "Families with female householder, no husband present": "44.8", 
+                    "Under 18 years": "44", 
+                    "Related children under 18 years": "43.9", 
+                    "18 years and older": "24.6", 
+                    "65 years and older": "14.7", 
+                    "People in families": "26.9", 
+                    "Unrelated individuals 15 years and over": "37.6", 
+                    "All families": "24.8", 
+                    "With related children under 18 years": "56.2", 
+                    "Related children under 5 years": "47.9", 
+                    "Married couple families": "9.3", 
+                    "All people": "29", 
+                    "With related children under 5 years only": "59.9"
+                }
+            }, 
+            "jobs": {
+                "Employment Status": {
+                    "Population 16 years and over": "546,844", 
+                    "Civilian labor force": "300,045", 
+                    "Not in labor force": "246,524", 
+                    "Unemployed": "37,149", 
+                    "In labor force": "300,320", 
+                    "Employed": "262,896", 
+                    "Percent Unemployed": "12.4", 
+                    "Armed Forces": "275"
+                }, 
+                "Commuting to Work": {
+                    "Other means": "4,639", 
+                    "Worked at home": "4,712", 
+                    "Public transportation (excluding taxicab)": "2,590", 
+                    "Car, truck, or van -- drove alone": "211,498", 
+                    "Walked": "5,077", 
+                    "Mean travel time to work (minutes)": "22.7", 
+                    "Car, truck, or van -- carpooled": "29,556", 
+                    "Workers 16 years and over": "258,072"
+                }, 
+                "Class of Worker": {
+                    "Unpaid family workers": "960", 
+                    "Private wage and salary workers": "211,373", 
+                    "Civilian employed population 16 years and over": "262,896", 
+                    "Government workers": "39,273", 
+                    "Self-employed in own not incorporated business workers": "11,290"
+                }, 
+                "Industry": {
+                    "Information": "4,102", 
+                    "Civilian employed population 16 years and over": "262,896", 
+                    "Public administration": "12,340", 
+                    "Arts, entertainment, and recreation, and accommodation and food services": "30,221", 
+                    "Educational services, and health care and social assistance": "66,916", 
+                    "Other services, except public administration": "15,228", 
+                    "Finance and insurance, and real estate and rental and leasing": "13,389", 
+                    "Retail trade": "27,373", 
+                    "Transportation and warehousing, and utilities": "13,724", 
+                    "Agriculture, forestry, fishing and hunting, and mining": "4,183", 
+                    "Construction": "13,862", 
+                    "Professional, scientific, and management, and administrative and waste management services": "18,677", 
+                    "Manufacturing": "35,840", 
+                    "Wholesale trade": "7,041"
+                }, 
+                "Occupation": {
+                    "Natural resources, construction, and maintenance occupations": "21,468", 
+                    "Civilian employed population 16 years and over": "262,896", 
+                    "Management, business, science, and arts occupations": "70,615", 
+                    "Sales and office occupations": "58,177", 
+                    "Service occupations": "60,433", 
+                    "Production, transportation, and material moving occupations": "52,203"
+                }
+            }, 
+            "education": {
+                "Educational Attainment": {
+                    "Percent high school graduate or higher": "83.4", 
+                    "Population 25 years and over": "437,387", 
+                    "Bachelor's degree": "52,196", 
+                    "Less than 9th grade": "21,172", 
+                    "Some college, no degree": "97,558", 
+                    "9th to 12th grade, no diploma": "51,253", 
+                    "Percent bachelor's degree or higher": "17.9", 
+                    "Associate's degree": "34,267", 
+                    "High school graduate (includes equivalency)": "154,699", 
+                    "Graduate or professional degree": "26,242"
+                }, 
+                "School Enrollment": {
+                    "Nursery school, preschool": "9,071", 
+                    "College or graduate school": "56,440", 
+                    "Population 3 years and over enrolled in school": "175,863", 
+                    "Elementary school (grades 1-8)": "63,950", 
+                    "Kindergarten": "9,850", 
+                    "High school (grades 9-12)": "36,552"
+                }
+            }, 
+            "people": {
+                "Sex and Age": {
+                    "18 years and over": "529,638", 
+                    "5 to 9 years": "42,354", 
+                    "85 years and over": "12,251", 
+                    "Median age (years)": "35.2", 
+                    "20 to 24 years": "63,860", 
+                    "35 to 44 years": "79,968", 
+                    "45 to 54 years": "82,980", 
+                    "65 years and over": "92,222", 
+                    "10 to 14 years": "39,094", 
+                    "Total population": "680,865", 
+                    "Under 5 years": "44,490", 
+                    "55 to 59 years": "46,176", 
+                    "Female": "365,236", 
+                    "25 to 34 years": "95,379", 
+                    "60 to 64 years": "40,662", 
+                    "Male": "315,629", 
+                    "15 to 19 years": "53,680", 
+                    "75 to 84 years": "27,576", 
+                    "65 to 74 years": "52,395"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "37,891", 
+                    "Civilian population 18 years and over": "529,363"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "14,235", 
+                    "Total population": "680,865", 
+                    "State of residence": "551,796", 
+                    "Born in the United States": "662,637", 
+                    "Different state": "110,841", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "3,993", 
+                    "Native": "666,630"
+                }, 
+                "Race": {
+                    "Black or African American": "435,307", 
+                    "Native Hawaiian and Other Pacific Islander": "23", 
+                    "Total population": "680,865", 
+                    "Asian": "4,177", 
+                    "Two or more races": "8,223", 
+                    "White": "223,987", 
+                    "One race": "672,642", 
+                    "American Indian and Alaska Native": "938", 
+                    "Some other race": "8,210"
+                }, 
+                "Ancestry": {
+                    "Swedish": "883", 
+                    "French (except Basque)": "4,765", 
+                    "Dutch": "2,445", 
+                    "Danish": "229", 
+                    "Total population": "680,865", 
+                    "Hungarian": "290", 
+                    "Ukrainian": "51", 
+                    "Welsh": "1,223", 
+                    "Lithuanian": "0", 
+                    "Scotch-Irish": "4,632", 
+                    "Arab": "829", 
+                    "Norwegian": "932", 
+                    "Russian": "1,164", 
+                    "Greek": "769", 
+                    "American": "67,694", 
+                    "English": "21,264", 
+                    "Swiss": "769", 
+                    "Italian": "5,124", 
+                    "Portuguese": "333", 
+                    "Irish": "23,129", 
+                    "German": "17,960", 
+                    "Czech": "182", 
+                    "Slovak": "26", 
+                    "Scottish": "6,190", 
+                    "French Canadian": "171", 
+                    "Polish": "1,605", 
+                    "Subsaharan African": "15,690", 
+                    "West Indian (excluding Hispanic origin groups)": "868"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "433,636", 
+                    "Total civilian non-institutionalized population": "673,357", 
+                    "With a disability": "40,172", 
+                    "Under 18 years": "150,988", 
+                    "65 years and over": "88,733"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "263", 
+                    "Total population": "680,865", 
+                    "Mexican": "11,493", 
+                    "Not Hispanic or Latino": "663,092", 
+                    "Hispanic or Latino (of any race)": "17,773", 
+                    "Puerto Rican": "1,699", 
+                    "Other Hispanic or Latino": "4,318"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "74,186", 
+                    "Different county": "33,947", 
+                    "Different state": "13,611", 
+                    "Same house": "561,661", 
+                    "Population one year and over": "671,367", 
+                    "Abroad": "1,573", 
+                    "Different house in the U.S.": "108,133", 
+                    "Same state": "20,336"
+                }
+            }
+        }, 
+        "Congressional District 6": {
+            "housing": {
+                "Housing Occupancy": {
+                    "Total housing units": "298,431", 
+                    "Rental vacancy rate": "6.2", 
+                    "Homeowner vacancy rate": "2.2", 
+                    "Vacant housing units": "33,431", 
+                    "Occupied housing units": "265,000"
+                }, 
+                "Value": {
+                    "$150,000 to $199,999": "33,216", 
+                    "$500,000 to $999,999": "11,452", 
+                    "Owner-occupied units": "195,203", 
+                    "$50,000 to $99,999": "26,909", 
+                    "$100,000 to $149,999": "33,946", 
+                    "$200,000 to $299,999": "39,658", 
+                    "$1,000,000 or more": "1,819", 
+                    "Less than $50,000": "20,165", 
+                    "$300,000 to $499,999": "28,038", 
+                    "Median (dollars)": "171,100"
+                }, 
+                "Gross Rent": {
+                    "$300 to $499": "4,046", 
+                    "$500 to $749": "14,081", 
+                    "$1,500 or more": "5,494", 
+                    "$750 to $999": "20,372", 
+                    "Occupied units paying rent": "64,649", 
+                    "$1,000 to $1,499": "18,395", 
+                    "Less than $200": "686", 
+                    "$200 to $299": "1,575", 
+                    "No rent paid": "5,148", 
+                    "Median (dollars)": "900"
+                }, 
+                "Year Householder Moved into Unit": {
+                    "Moved in 2010 or later": "93,127", 
+                    "Moved in 2000 to 2009": "90,323", 
+                    "Moved in 1980 to 1989": "19,528", 
+                    "Moved in 1990 to 1999": "39,188", 
+                    "Occupied housing units": "265,000", 
+                    "Moved in 1970 to 1979": "12,710", 
+                    "Moved in 1969 or earlier": "10,124"
+                }, 
+                "Selected Monthly Owner Costs(SMOC)": {
+                    "$300 to $499": "2,573", 
+                    "Housing units without a mortgage": "69,169", 
+                    "$1,500 to $1,999": "24,345", 
+                    "Less than $300": "482", 
+                    "$200 to $299": "15,792", 
+                    "$500 to $699": "8,848", 
+                    "$1,000 to $1,499": "42,114", 
+                    "$300 to $399": "15,765", 
+                    "Housing units with a mortgage": "126,034", 
+                    "$100 to $199": "4,373", 
+                    "$400 or more": "32,174", 
+                    "$2,000 or more": "25,181", 
+                    "Less than $100": "1,065", 
+                    "Median (dollars)": "384", 
+                    "$700 to $999": "22,491"
+                }, 
+                "Housing Tenure": {
+                    "Average household size of owner-occupied unit": "2.62", 
+                    "Renter-occupied": "69,797", 
+                    "Average household size of renter-occupied unit": "2.47", 
+                    "Owner-occupied": "195,203", 
+                    "Occupied housing units": "265,000"
+                }, 
+                "Mortgage Status": {
+                    "Housing units with a mortgage": "126,034", 
+                    "Housing units without a mortgage": "69,169", 
+                    "Owner-occupied units": "195,203"
+                }
+            }, 
+            "economic": {
+                "Health Insurance Coverage": {
+                    "Civilian non-institutionalized population under 18 years": "161,799", 
+                    "Civilian non-institutionalized population": "687,774", 
+                    "With private health insurance": "519,485", 
+                    "With health insurance coverage": "623,559", 
+                    "With public coverage": "191,913", 
+                    "No health insurance coverage": "6,360"
+                }, 
+                "Income and Benefits": {
+                    "$75,000 to $99,999": "34,651", 
+                    "$150,000 to $199,999": "15,986", 
+                    "Less than $10,000": "15,336", 
+                    "$10,000 to $14,999": "11,532", 
+                    "Median household income (dollars)": "58,073", 
+                    "$35,000 to $49,999": "32,303", 
+                    "Mean household income (dollars)": "76,881", 
+                    "$25,000 to $34,999": "28,910", 
+                    "$100,000 to $149,999": "37,817", 
+                    "$15,000 to 24,999": "27,212", 
+                    "$50,000 to $74,999": "48,510", 
+                    "$200,000 or more": "12,743", 
+                    "Total households": "265,000"
+                }, 
+                "Percentage of Families and People whose Income in the Past 12 Months is Below the Poverty Level": {
+                    "Related children 5 to 17 years": "15.8", 
+                    "Families with female householder, no husband present": "29.8", 
+                    "Under 18 years": "15.9", 
+                    "Related children under 18 years": "15.8", 
+                    "18 years and older": "10.9", 
+                    "65 years and older": "8.8", 
+                    "People in families": "10.3", 
+                    "Unrelated individuals 15 years and over": "21.6", 
+                    "All families": "9.5", 
+                    "With related children under 18 years": "41.3", 
+                    "Related children under 5 years": "15.5", 
+                    "Married couple families": "5.1", 
+                    "All people": "12.1", 
+                    "With related children under 5 years only": "50.6"
+                }
+            }, 
+            "jobs": {
+                "Sex and Age": {
+                    "18 years and over": "534,807", 
+                    "5 to 9 years": "46,843", 
+                    "85 years and over": "11,608", 
+                    "Median age (years)": "39.3", 
+                    "20 to 24 years": "38,797", 
+                    "35 to 44 years": "95,191", 
+                    "45 to 54 years": "93,407", 
+                    "65 years and over": "106,530", 
+                    "10 to 14 years": "46,019", 
+                    "Total population": "696,788", 
+                    "Under 5 years": "41,594", 
+                    "55 to 59 years": "49,276", 
+                    "Female": "357,567", 
+                    "25 to 34 years": "92,692", 
+                    "60 to 64 years": "42,671", 
+                    "Male": "339,221", 
+                    "15 to 19 years": "43,768", 
+                    "75 to 84 years": "32,426", 
+                    "65 to 74 years": "62,496"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "41,966", 
+                    "Civilian population 18 years and over": "534,416"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "30,328", 
+                    "Total population": "696,788", 
+                    "State of residence": "495,766", 
+                    "Born in the United States": "660,932", 
+                    "Different state": "165,166", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "5,528", 
+                    "Native": "666,460"
+                }, 
+                "Race": {
+                    "Black or African American": "100,977", 
+                    "Native Hawaiian and Other Pacific Islander": "261", 
+                    "Total population": "696,788", 
+                    "Asian": "13,185", 
+                    "Two or more races": "9,117", 
+                    "White": "552,743", 
+                    "One race": "687,671", 
+                    "American Indian and Alaska Native": "1,815", 
+                    "Some other race": "18,690"
+                }, 
+                "Ancestry": {
+                    "Swedish": "2,418", 
+                    "French (except Basque)": "14,026", 
+                    "Dutch": "5,532", 
+                    "Danish": "824", 
+                    "Total population": "696,788", 
+                    "Hungarian": "620", 
+                    "Ukrainian": "1,060", 
+                    "Welsh": "4,167", 
+                    "Lithuanian": "118", 
+                    "Scotch-Irish": "13,744", 
+                    "Arab": "2,744", 
+                    "Norwegian": "2,828", 
+                    "Russian": "1,754", 
+                    "Greek": "1,289", 
+                    "American": "121,815", 
+                    "English": "70,520", 
+                    "Swiss": "837", 
+                    "Italian": "19,666", 
+                    "Portuguese": "446", 
+                    "Irish": "82,629", 
+                    "German": "56,055", 
+                    "Czech": "1,066", 
+                    "Slovak": "446", 
+                    "Scottish": "16,691", 
+                    "French Canadian": "1,361", 
+                    "Polish": "5,285", 
+                    "Subsaharan African": "5,370", 
+                    "West Indian (excluding Hispanic origin groups)": "1,100"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "422,017", 
+                    "Total civilian non-institutionalized population": "687,774", 
+                    "With a disability": "36,633", 
+                    "Under 18 years": "161,799", 
+                    "65 years and over": "103,958"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "1,000", 
+                    "Total population": "696,788", 
+                    "Mexican": "25,500", 
+                    "Not Hispanic or Latino": "662,575", 
+                    "Hispanic or Latino (of any race)": "34,213", 
+                    "Puerto Rican": "1,491", 
+                    "Other Hispanic or Latino": "6,222"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "54,980", 
+                    "Different county": "40,523", 
+                    "Different state": "17,675", 
+                    "Same house": "591,403", 
+                    "Population one year and over": "689,567", 
+                    "Abroad": "2,661", 
+                    "Different house in the U.S.": "95,503", 
+                    "Same state": "22,848"
+                }
+            }, 
+            "education": {
+                "Educational Attainment": {
+                    "Percent high school graduate or higher": "89", 
+                    "Population 25 years and over": "479,767", 
+                    "Bachelor's degree": "100,772", 
+                    "Less than 9th grade": "18,483", 
+                    "Some college, no degree": "100,046", 
+                    "9th to 12th grade, no diploma": "34,102", 
+                    "Percent bachelor's degree or higher": "34.6", 
+                    "Associate's degree": "34,719", 
+                    "High school graduate (includes equivalency)": "126,435", 
+                    "Graduate or professional degree": "65,210"
+                }, 
+                "School Enrollment": {
+                    "Nursery school, preschool": "10,750", 
+                    "College or graduate school": "38,689", 
+                    "Population 3 years and over enrolled in school": "168,462", 
+                    "Elementary school (grades 1-8)": "73,119", 
+                    "Kindergarten": "8,902", 
+                    "High school (grades 9-12)": "37,002"
+                }
+            }, 
+            "people": {
+                "Sex and Age": {
+                    "18 years and over": "534,807", 
+                    "5 to 9 years": "46,843", 
+                    "85 years and over": "11,608", 
+                    "Median age (years)": "39.3", 
+                    "20 to 24 years": "38,797", 
+                    "35 to 44 years": "95,191", 
+                    "45 to 54 years": "93,407", 
+                    "65 years and over": "106,530", 
+                    "10 to 14 years": "46,019", 
+                    "Total population": "696,788", 
+                    "Under 5 years": "41,594", 
+                    "55 to 59 years": "49,276", 
+                    "Female": "357,567", 
+                    "25 to 34 years": "92,692", 
+                    "60 to 64 years": "42,671", 
+                    "Male": "339,221", 
+                    "15 to 19 years": "43,768", 
+                    "75 to 84 years": "32,426", 
+                    "65 to 74 years": "62,496"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "41,966", 
+                    "Civilian population 18 years and over": "534,416"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "30,328", 
+                    "Total population": "696,788", 
+                    "State of residence": "495,766", 
+                    "Born in the United States": "660,932", 
+                    "Different state": "165,166", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "5,528", 
+                    "Native": "666,460"
+                }, 
+                "Race": {
+                    "Black or African American": "100,977", 
+                    "Native Hawaiian and Other Pacific Islander": "261", 
+                    "Total population": "696,788", 
+                    "Asian": "13,185", 
+                    "Two or more races": "9,117", 
+                    "White": "552,743", 
+                    "One race": "687,671", 
+                    "American Indian and Alaska Native": "1,815", 
+                    "Some other race": "18,690"
+                }, 
+                "Ancestry": {
+                    "Swedish": "2,418", 
+                    "French (except Basque)": "14,026", 
+                    "Dutch": "5,532", 
+                    "Danish": "824", 
+                    "Total population": "696,788", 
+                    "Hungarian": "620", 
+                    "Ukrainian": "1,060", 
+                    "Welsh": "4,167", 
+                    "Lithuanian": "118", 
+                    "Scotch-Irish": "13,744", 
+                    "Arab": "2,744", 
+                    "Norwegian": "2,828", 
+                    "Russian": "1,754", 
+                    "Greek": "1,289", 
+                    "American": "121,815", 
+                    "English": "70,520", 
+                    "Swiss": "837", 
+                    "Italian": "19,666", 
+                    "Portuguese": "446", 
+                    "Irish": "82,629", 
+                    "German": "56,055", 
+                    "Czech": "1,066", 
+                    "Slovak": "446", 
+                    "Scottish": "16,691", 
+                    "French Canadian": "1,361", 
+                    "Polish": "5,285", 
+                    "Subsaharan African": "5,370", 
+                    "West Indian (excluding Hispanic origin groups)": "1,100"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "422,017", 
+                    "Total civilian non-institutionalized population": "687,774", 
+                    "With a disability": "36,633", 
+                    "Under 18 years": "161,799", 
+                    "65 years and over": "103,958"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "1,000", 
+                    "Total population": "696,788", 
+                    "Mexican": "25,500", 
+                    "Not Hispanic or Latino": "662,575", 
+                    "Hispanic or Latino (of any race)": "34,213", 
+                    "Puerto Rican": "1,491", 
+                    "Other Hispanic or Latino": "6,222"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "54,980", 
+                    "Different county": "40,523", 
+                    "Different state": "17,675", 
+                    "Same house": "591,403", 
+                    "Population one year and over": "689,567", 
+                    "Abroad": "2,661", 
+                    "Different house in the U.S.": "95,503", 
+                    "Same state": "22,848"
+                }
+            }
+        }, 
+        "Congressional District 5": {
+            "housing": {
+                "Housing Occupancy": {
+                    "Total housing units": "310,432", 
+                    "Rental vacancy rate": "7.8", 
+                    "Homeowner vacancy rate": "2.3", 
+                    "Vacant housing units": "35,541", 
+                    "Occupied housing units": "274,891"
+                }, 
+                "Value": {
+                    "$150,000 to $199,999": "30,542", 
+                    "$500,000 to $999,999": "3,701", 
+                    "Owner-occupied units": "189,972", 
+                    "$50,000 to $99,999": "37,351", 
+                    "$100,000 to $149,999": "38,560", 
+                    "$200,000 to $299,999": "37,804", 
+                    "$1,000,000 or more": "785", 
+                    "Less than $50,000": "20,717", 
+                    "$300,000 to $499,999": "20,512", 
+                    "Median (dollars)": "147,700"
+                }, 
+                "Gross Rent": {
+                    "$300 to $499": "10,257", 
+                    "$500 to $749": "30,247", 
+                    "$1,500 or more": "2,858", 
+                    "$750 to $999": "17,913", 
+                    "Occupied units paying rent": "77,245", 
+                    "$1,000 to $1,499": "10,796", 
+                    "Less than $200": "1,260", 
+                    "$200 to $299": "3,914", 
+                    "No rent paid": "7,674", 
+                    "Median (dollars)": "674"
+                }, 
+                "Year Householder Moved into Unit": {
+                    "Moved in 2010 or later": "98,242", 
+                    "Moved in 2000 to 2009": "89,040", 
+                    "Moved in 1980 to 1989": "19,415", 
+                    "Moved in 1990 to 1999": "44,165", 
+                    "Occupied housing units": "274,891", 
+                    "Moved in 1970 to 1979": "13,602", 
+                    "Moved in 1969 or earlier": "10,427"
+                }, 
+                "Selected Monthly Owner Costs(SMOC)": {
+                    "$300 to $499": "2,932", 
+                    "Housing units without a mortgage": "74,759", 
+                    "$1,500 to $1,999": "20,458", 
+                    "Less than $300": "142", 
+                    "$200 to $299": "18,843", 
+                    "$500 to $699": "10,913", 
+                    "$1,000 to $1,499": "38,676", 
+                    "$300 to $399": "20,055", 
+                    "Housing units with a mortgage": "115,213", 
+                    "$100 to $199": "7,668", 
+                    "$400 or more": "26,991", 
+                    "$2,000 or more": "12,639", 
+                    "Less than $100": "1,202", 
+                    "Median (dollars)": "347", 
+                    "$700 to $999": "29,453"
+                }, 
+                "Housing Tenure": {
+                    "Average household size of owner-occupied unit": "2.58", 
+                    "Renter-occupied": "84,919", 
+                    "Average household size of renter-occupied unit": "2.36", 
+                    "Owner-occupied": "189,972", 
+                    "Occupied housing units": "274,891"
+                }, 
+                "Mortgage Status": {
+                    "Housing units with a mortgage": "115,213", 
+                    "Housing units without a mortgage": "74,759", 
+                    "Owner-occupied units": "189,972"
+                }
+            }, 
+            "economic": {
+                "Health Insurance Coverage": {
+                    "Civilian non-institutionalized population under 18 years": "158,779", 
+                    "Civilian non-institutionalized population": "695,252", 
+                    "With private health insurance": "493,575", 
+                    "With health insurance coverage": "611,996", 
+                    "With public coverage": "217,393", 
+                    "No health insurance coverage": "4,642"
+                }, 
+                "Income and Benefits": {
+                    "$75,000 to $99,999": "31,563", 
+                    "$150,000 to $199,999": "13,118", 
+                    "Less than $10,000": "23,770", 
+                    "$10,000 to $14,999": "16,881", 
+                    "Median household income (dollars)": "49,202", 
+                    "$35,000 to $49,999": "38,193", 
+                    "Mean household income (dollars)": "68,903", 
+                    "$25,000 to $34,999": "30,108", 
+                    "$100,000 to $149,999": "35,589", 
+                    "$15,000 to 24,999": "30,217", 
+                    "$50,000 to $74,999": "44,914", 
+                    "$200,000 or more": "10,538", 
+                    "Total households": "274,891"
+                }, 
+                "Percentage of Families and People whose Income in the Past 12 Months is Below the Poverty Level": {
+                    "Related children 5 to 17 years": "21.1", 
+                    "Families with female householder, no husband present": "36.9", 
+                    "Under 18 years": "22.6", 
+                    "Related children under 18 years": "22.4", 
+                    "18 years and older": "13.8", 
+                    "65 years and older": "10.1", 
+                    "People in families": "13.2", 
+                    "Unrelated individuals 15 years and over": "28.6", 
+                    "All families": "12.0", 
+                    "With related children under 18 years": "49.3", 
+                    "Related children under 5 years": "26.1", 
+                    "Married couple families": "5.1", 
+                    "All people": "15.8", 
+                    "With related children under 5 years only": "47.7"
+                }
+            }, 
+            "jobs": {
+                "Employment Status": {
+                    "Population 16 years and over": "564,903", 
+                    "Civilian labor force": "343,484", 
+                    "Not in labor force": "220,076", 
+                    "Unemployed": "26,057", 
+                    "In labor force": "344,827", 
+                    "Employed": "317,427", 
+                    "Percent Unemployed": "7.6", 
+                    "Armed Forces": "1,343"
+                }, 
+                "Commuting to Work": {
+                    "Other means": "4,215", 
+                    "Worked at home": "9,054", 
+                    "Public transportation (excluding taxicab)": "1,126", 
+                    "Car, truck, or van -- drove alone": "274,326", 
+                    "Walked": "4,179", 
+                    "Mean travel time to work (minutes)": "22.6", 
+                    "Car, truck, or van -- carpooled": "21,665", 
+                    "Workers 16 years and over": "314,565"
+                }, 
+                "Class of Worker": {
+                    "Unpaid family workers": "782", 
+                    "Private wage and salary workers": "245,077", 
+                    "Civilian employed population 16 years and over": "317,427", 
+                    "Government workers": "55,139", 
+                    "Self-employed in own not incorporated business workers": "16,429"
+                }, 
+                "Industry": {
+                    "Information": "7,128", 
+                    "Civilian employed population 16 years and over": "317,427", 
+                    "Public administration": "23,302", 
+                    "Arts, entertainment, and recreation, and accommodation and food services": "26,636", 
+                    "Educational services, and health care and social assistance": "63,278", 
+                    "Other services, except public administration": "13,515", 
+                    "Finance and insurance, and real estate and rental and leasing": "11,001", 
+                    "Retail trade": "37,843", 
+                    "Transportation and warehousing, and utilities": "10,655", 
+                    "Agriculture, forestry, fishing and hunting, and mining": "3,205", 
+                    "Construction": "19,633", 
+                    "Professional, scientific, and management, and administrative and waste management services": "46,170", 
+                    "Manufacturing": "48,149", 
+                    "Wholesale trade": "6,912"
+                }, 
+                "Occupation": {
+                    "Natural resources, construction, and maintenance occupations": "28,929", 
+                    "Civilian employed population 16 years and over": "317,427", 
+                    "Management, business, science, and arts occupations": "122,036", 
+                    "Sales and office occupations": "71,558", 
+                    "Service occupations": "50,949", 
+                    "Production, transportation, and material moving occupations": "43,955"
+                }
+            }, 
+            "education": {
+                "Educational Attainment": {
+                    "Percent high school graduate or higher": "86", 
+                    "Population 25 years and over": "481,062", 
+                    "Bachelor's degree": "89,911", 
+                    "Less than 9th grade": "23,969", 
+                    "Some college, no degree": "105,421", 
+                    "9th to 12th grade, no diploma": "43,317", 
+                    "Percent bachelor's degree or higher": "29.5", 
+                    "Associate's degree": "38,435", 
+                    "High school graduate (includes equivalency)": "128,197", 
+                    "Graduate or professional degree": "51,812"
+                }, 
+                "School Enrollment": {
+                    "Nursery school, preschool": "8,871", 
+                    "College or graduate school": "47,450", 
+                    "Population 3 years and over enrolled in school": "173,665", 
+                    "Elementary school (grades 1-8)": "74,715", 
+                    "Kindergarten": "8,248", 
+                    "High school (grades 9-12)": "34,381"
+                }
+            }, 
+            "people": {
+                "Sex and Age": {
+                    "18 years and over": "547,312", 
+                    "5 to 9 years": "43,480", 
+                    "85 years and over": "11,626", 
+                    "Median age (years)": "39.4", 
+                    "20 to 24 years": "48,743", 
+                    "35 to 44 years": "87,104", 
+                    "45 to 54 years": "104,652", 
+                    "65 years and over": "106,010", 
+                    "10 to 14 years": "48,191", 
+                    "Total population": "706,373", 
+                    "Under 5 years": "40,381", 
+                    "55 to 59 years": "48,230", 
+                    "Female": "363,045", 
+                    "25 to 34 years": "91,539", 
+                    "60 to 64 years": "43,527", 
+                    "Male": "343,328", 
+                    "15 to 19 years": "44,516", 
+                    "75 to 84 years": "33,820", 
+                    "65 to 74 years": "60,564"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "59,044", 
+                    "Civilian population 18 years and over": "545,969"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "29,902", 
+                    "Total population": "706,373", 
+                    "State of residence": "428,222", 
+                    "Born in the United States": "666,858", 
+                    "Different state": "238,636", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "9,613", 
+                    "Native": "676,471"
+                }, 
+                "Race": {
+                    "Black or African American": "121,562", 
+                    "Native Hawaiian and Other Pacific Islander": "501", 
+                    "Total population": "706,373", 
+                    "Asian": "10,138", 
+                    "Two or more races": "20,695", 
+                    "White": "542,208", 
+                    "One race": "685,678", 
+                    "American Indian and Alaska Native": "4,100", 
+                    "Some other race": "7,169"
+                }, 
+                "Ancestry": {
+                    "Swedish": "3,181", 
+                    "French (except Basque)": "9,205", 
+                    "Dutch": "7,370", 
+                    "Danish": "1,293", 
+                    "Total population": "706,373", 
+                    "Hungarian": "1,003", 
+                    "Ukrainian": "888", 
+                    "Welsh": "2,415", 
+                    "Lithuanian": "479", 
+                    "Scotch-Irish": "12,632", 
+                    "Arab": "565", 
+                    "Norwegian": "4,153", 
+                    "Russian": "3,720", 
+                    "Greek": "975", 
+                    "American": "91,206", 
+                    "English": "77,439", 
+                    "Swiss": "774", 
+                    "Italian": "15,391", 
+                    "Portuguese": "1,042", 
+                    "Irish": "79,858", 
+                    "German": "68,391", 
+                    "Czech": "1,191", 
+                    "Slovak": "475", 
+                    "Scottish": "13,545", 
+                    "French Canadian": "1,966", 
+                    "Polish": "5,254", 
+                    "Subsaharan African": "4,362", 
+                    "West Indian (excluding Hispanic origin groups)": "2,238"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "433,436", 
+                    "Total civilian non-institutionalized population": "695,252", 
+                    "With a disability": "42,779", 
+                    "Under 18 years": "158,779", 
+                    "65 years and over": "103,037"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "1,036", 
+                    "Total population": "706,373", 
+                    "Mexican": "22,332", 
+                    "Not Hispanic or Latino": "671,380", 
+                    "Hispanic or Latino (of any race)": "34,993", 
+                    "Puerto Rican": "4,073", 
+                    "Other Hispanic or Latino": "7,552"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "71,783", 
+                    "Different county": "32,285", 
+                    "Different state": "14,364", 
+                    "Same house": "592,775", 
+                    "Population one year and over": "698,286", 
+                    "Abroad": "1,443", 
+                    "Different house in the U.S.": "104,068", 
+                    "Same state": "17,921"
+                }
+            }
+        }, 
+        "Congressional District 4": {
+            "housing": {
+                "Housing Occupancy": {
+                    "Total housing units": "311,200", 
+                    "Rental vacancy rate": "8.3", 
+                    "Homeowner vacancy rate": "1.6", 
+                    "Vacant housing units": "51,761", 
+                    "Occupied housing units": "259,439"
+                }, 
+                "Value": {
+                    "$150,000 to $199,999": "23,907", 
+                    "$500,000 to $999,999": "3,291", 
+                    "Owner-occupied units": "185,536", 
+                    "$50,000 to $99,999": "52,483", 
+                    "$100,000 to $149,999": "30,100", 
+                    "$200,000 to $299,999": "21,297", 
+                    "$1,000,000 or more": "1,306", 
+                    "Less than $50,000": "42,918", 
+                    "$300,000 to $499,999": "10,234", 
+                    "Median (dollars)": "97,300"
+                }, 
+                "Gross Rent": {
+                    "$300 to $499": "14,954", 
+                    "$500 to $749": "24,087", 
+                    "$1,500 or more": "721", 
+                    "$750 to $999": "9,780", 
+                    "Occupied units paying rent": "62,820", 
+                    "$1,000 to $1,499": "6,353", 
+                    "Less than $200": "1,452", 
+                    "$200 to $299": "5,473", 
+                    "No rent paid": "11,083", 
+                    "Median (dollars)": "599"
+                }, 
+                "Year Householder Moved into Unit": {
+                    "Moved in 2010 or later": "80,756", 
+                    "Moved in 2000 to 2009": "81,431", 
+                    "Moved in 1980 to 1989": "22,287", 
+                    "Moved in 1990 to 1999": "44,835", 
+                    "Occupied housing units": "259,439", 
+                    "Moved in 1970 to 1979": "17,764", 
+                    "Moved in 1969 or earlier": "12,366"
+                }, 
+                "Selected Monthly Owner Costs(SMOC)": {
+                    "$300 to $499": "5,602", 
+                    "Housing units without a mortgage": "93,576", 
+                    "$1,500 to $1,999": "10,764", 
+                    "Less than $300": "159", 
+                    "$200 to $299": "24,351", 
+                    "$500 to $699": "14,016", 
+                    "$1,000 to $1,499": "27,481", 
+                    "$300 to $399": "23,516", 
+                    "Housing units with a mortgage": "91,960", 
+                    "$100 to $199": "12,128", 
+                    "$400 or more": "32,884", 
+                    "$2,000 or more": "6,303", 
+                    "Less than $100": "697", 
+                    "Median (dollars)": "337", 
+                    "$700 to $999": "27,635"
+                }, 
+                "Housing Tenure": {
+                    "Average household size of owner-occupied unit": "2.62", 
+                    "Renter-occupied": "73,903", 
+                    "Average household size of renter-occupied unit": "2.57", 
+                    "Owner-occupied": "185,536", 
+                    "Occupied housing units": "259,439"
+                }, 
+                "Mortgage Status": {
+                    "Housing units with a mortgage": "91,960", 
+                    "Housing units without a mortgage": "93,576", 
+                    "Owner-occupied units": "185,536"
+                }
+            }, 
+            "economic": {
+                "Health Insurance Coverage": {
+                    "Civilian non-institutionalized population under 18 years": "158,368", 
+                    "Civilian non-institutionalized population": "676,892", 
+                    "With private health insurance": "428,012", 
+                    "With health insurance coverage": "585,045", 
+                    "With public coverage": "259,452", 
+                    "No health insurance coverage": "7,893"
+                }, 
+                "Income and Benefits": {
+                    "$75,000 to $99,999": "25,039", 
+                    "$150,000 to $199,999": "5,941", 
+                    "Less than $10,000": "23,595", 
+                    "$10,000 to $14,999": "21,633", 
+                    "Median household income (dollars)": "39,246", 
+                    "$35,000 to $49,999": "37,951", 
+                    "Mean household income (dollars)": "52,373", 
+                    "$25,000 to $34,999": "31,700", 
+                    "$100,000 to $149,999": "21,329", 
+                    "$15,000 to 24,999": "41,627", 
+                    "$50,000 to $74,999": "46,747", 
+                    "$200,000 or more": "3,877", 
+                    "Total households": "259,439"
+                }, 
+                "Percentage of Families and People whose Income in the Past 12 Months is Below the Poverty Level": {
+                    "Related children 5 to 17 years": "27.9", 
+                    "Families with female householder, no husband present": "37.8", 
+                    "Under 18 years": "30.4", 
+                    "Related children under 18 years": "30.2", 
+                    "18 years and older": "16.7", 
+                    "65 years and older": "10.7", 
+                    "People in families": "17.6", 
+                    "Unrelated individuals 15 years and over": "32.8", 
+                    "All families": "14.8", 
+                    "With related children under 18 years": "50.3", 
+                    "Related children under 5 years": "37.3", 
+                    "Married couple families": "8.7", 
+                    "All people": "19.9", 
+                    "With related children under 5 years only": "59.0"
+                }
+            }, 
+            "jobs": {
+                "Sex and Age": {
+                    "18 years and over": "524,888", 
+                    "5 to 9 years": "42,781", 
+                    "85 years and over": "12,520", 
+                    "Median age (years)": "40.9", 
+                    "20 to 24 years": "41,932", 
+                    "35 to 44 years": "86,408", 
+                    "45 to 54 years": "94,764", 
+                    "65 years and over": "117,390", 
+                    "10 to 14 years": "47,382", 
+                    "Total population": "683,372", 
+                    "Under 5 years": "39,541", 
+                    "55 to 59 years": "48,066", 
+                    "Female": "347,663", 
+                    "25 to 34 years": "77,053", 
+                    "60 to 64 years": "42,818", 
+                    "Male": "335,709", 
+                    "15 to 19 years": "45,237", 
+                    "75 to 84 years": "36,235", 
+                    "65 to 74 years": "68,635"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "45,420", 
+                    "Civilian population 18 years and over": "524,534"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "23,090", 
+                    "Total population": "683,372", 
+                    "State of residence": "518,847", 
+                    "Born in the United States": "658,057", 
+                    "Different state": "139,210", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "2,225", 
+                    "Native": "660,282"
+                }, 
+                "Race": {
+                    "Black or African American": "46,899", 
+                    "Native Hawaiian and Other Pacific Islander": "139", 
+                    "Total population": "683,372", 
+                    "Asian": "3,536", 
+                    "Two or more races": "13,816", 
+                    "White": "596,472", 
+                    "One race": "669,556", 
+                    "American Indian and Alaska Native": "5,010", 
+                    "Some other race": "17,500"
+                }, 
+                "Ancestry": {
+                    "Swedish": "1,241", 
+                    "French (except Basque)": "8,407", 
+                    "Dutch": "6,868", 
+                    "Danish": "254", 
+                    "Total population": "683,372", 
+                    "Hungarian": "1,570", 
+                    "Ukrainian": "117", 
+                    "Welsh": "1,602", 
+                    "Lithuanian": "646", 
+                    "Scotch-Irish": "10,787", 
+                    "Arab": "696", 
+                    "Norwegian": "1,581", 
+                    "Russian": "545", 
+                    "Greek": "493", 
+                    "American": "128,137", 
+                    "English": "50,339", 
+                    "Swiss": "532", 
+                    "Italian": "7,835", 
+                    "Portuguese": "343", 
+                    "Irish": "84,605", 
+                    "German": "52,174", 
+                    "Czech": "10", 
+                    "Slovak": "72", 
+                    "Scottish": "12,247", 
+                    "French Canadian": "702", 
+                    "Polish": "3,410", 
+                    "Subsaharan African": "1,696", 
+                    "West Indian (excluding Hispanic origin groups)": "1,073"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "404,979", 
+                    "Total civilian non-institutionalized population": "676,892", 
+                    "With a disability": "54,890", 
+                    "Under 18 years": "158,368", 
+                    "65 years and over": "113,545"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "2,173", 
+                    "Total population": "683,372", 
+                    "Mexican": "23,178", 
+                    "Not Hispanic or Latino": "642,449", 
+                    "Hispanic or Latino (of any race)": "40,923", 
+                    "Puerto Rican": "1,443", 
+                    "Other Hispanic or Latino": "14,129"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "54,141", 
+                    "Different county": "33,741", 
+                    "Different state": "8,644", 
+                    "Same house": "587,366", 
+                    "Population one year and over": "676,909", 
+                    "Abroad": "1,661", 
+                    "Different house in the U.S.": "87,882", 
+                    "Same state": "25,097"
+                }
+            }, 
+            "education": {
+                "Educational Attainment": {
+                    "Percent high school graduate or higher": "80.8", 
+                    "Population 25 years and over": "466,499", 
+                    "Bachelor's degree": "46,150", 
+                    "Less than 9th grade": "32,603", 
+                    "Some college, no degree": "100,588", 
+                    "9th to 12th grade, no diploma": "57,147", 
+                    "Percent bachelor's degree or higher": "16.3", 
+                    "Associate's degree": "36,143", 
+                    "High school graduate (includes equivalency)": "163,907", 
+                    "Graduate or professional degree": "29,961"
+                }, 
+                "School Enrollment": {
+                    "Nursery school, preschool": "7,108", 
+                    "College or graduate school": "28,457", 
+                    "Population 3 years and over enrolled in school": "155,496", 
+                    "Elementary school (grades 1-8)": "74,083", 
+                    "Kindergarten": "8,130", 
+                    "High school (grades 9-12)": "37,718"
+                }
+            }, 
+            "people": {
+                "Sex and Age": {
+                    "18 years and over": "524,888", 
+                    "5 to 9 years": "42,781", 
+                    "85 years and over": "12,520", 
+                    "Median age (years)": "40.9", 
+                    "20 to 24 years": "41,932", 
+                    "35 to 44 years": "86,408", 
+                    "45 to 54 years": "94,764", 
+                    "65 years and over": "117,390", 
+                    "10 to 14 years": "47,382", 
+                    "Total population": "683,372", 
+                    "Under 5 years": "39,541", 
+                    "55 to 59 years": "48,066", 
+                    "Female": "347,663", 
+                    "25 to 34 years": "77,053", 
+                    "60 to 64 years": "42,818", 
+                    "Male": "335,709", 
+                    "15 to 19 years": "45,237", 
+                    "75 to 84 years": "36,235", 
+                    "65 to 74 years": "68,635"
+                }, 
+                "Veteran Status": {
+                    "Civilian veterans": "45,420", 
+                    "Civilian population 18 years and over": "524,534"
+                }, 
+                "Place of Birth": {
+                    "Foreign born": "23,090", 
+                    "Total population": "683,372", 
+                    "State of residence": "518,847", 
+                    "Born in the United States": "658,057", 
+                    "Different state": "139,210", 
+                    "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)": "2,225", 
+                    "Native": "660,282"
+                }, 
+                "Race": {
+                    "Black or African American": "46,899", 
+                    "Native Hawaiian and Other Pacific Islander": "139", 
+                    "Total population": "683,372", 
+                    "Asian": "3,536", 
+                    "Two or more races": "13,816", 
+                    "White": "596,472", 
+                    "One race": "669,556", 
+                    "American Indian and Alaska Native": "5,010", 
+                    "Some other race": "17,500"
+                }, 
+                "Ancestry": {
+                    "Swedish": "1,241", 
+                    "French (except Basque)": "8,407", 
+                    "Dutch": "6,868", 
+                    "Danish": "254", 
+                    "Total population": "683,372", 
+                    "Hungarian": "1,570", 
+                    "Ukrainian": "117", 
+                    "Welsh": "1,602", 
+                    "Lithuanian": "646", 
+                    "Scotch-Irish": "10,787", 
+                    "Arab": "696", 
+                    "Norwegian": "1,581", 
+                    "Russian": "545", 
+                    "Greek": "493", 
+                    "American": "128,137", 
+                    "English": "50,339", 
+                    "Swiss": "532", 
+                    "Italian": "7,835", 
+                    "Portuguese": "343", 
+                    "Irish": "84,605", 
+                    "German": "52,174", 
+                    "Czech": "10", 
+                    "Slovak": "72", 
+                    "Scottish": "12,247", 
+                    "French Canadian": "702", 
+                    "Polish": "3,410", 
+                    "Subsaharan African": "1,696", 
+                    "West Indian (excluding Hispanic origin groups)": "1,073"
+                }, 
+                "Disability Status of the Civilian Non-Institutionalized Population": {
+                    "18 to 64 years": "404,979", 
+                    "Total civilian non-institutionalized population": "676,892", 
+                    "With a disability": "54,890", 
+                    "Under 18 years": "158,368", 
+                    "65 years and over": "113,545"
+                }, 
+                "Hispanic or Latino Origin by Type": {
+                    "Cuban": "2,173", 
+                    "Total population": "683,372", 
+                    "Mexican": "23,178", 
+                    "Not Hispanic or Latino": "642,449", 
+                    "Hispanic or Latino (of any race)": "40,923", 
+                    "Puerto Rican": "1,443", 
+                    "Other Hispanic or Latino": "14,129"
+                }, 
+                "Residence 1 Year Ago": {
+                    "Same county": "54,141", 
+                    "Different county": "33,741", 
+                    "Different state": "8,644", 
+                    "Same house": "587,366", 
+                    "Population one year and over": "676,909", 
+                    "Abroad": "1,661", 
+                    "Different house in the U.S.": "87,882", 
+                    "Same state": "25,097"
+                }
+            }
+        }
+    }
+}

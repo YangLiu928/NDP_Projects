@@ -99,7 +99,7 @@ def get_house_roll_call_vote_data(congress_number):
     session_number = 1
     while session_number < 3:
         roll_number = 1
-        while roll_number < 3:
+        while True:
             try:
                 url = _get_house_roll_call_vote_data_url(congress_number, session_number, roll_number)
                 response = opener.open(url)
@@ -144,6 +144,6 @@ def _get_formatted_vote_data(data):
 
 
 if __name__ == '__main__':
-    data = get_house_roll_call_vote_data(112)
-    with open('house_scraping_roll_call_vote_data_main_entry_point.JSON', 'w') as outfile:
+    data = get_house_roll_call_vote_data(114)
+    with open('congress_114_house_vote_data_.JSON', 'w') as outfile:
         json.dump(data, outfile, indent=4)
