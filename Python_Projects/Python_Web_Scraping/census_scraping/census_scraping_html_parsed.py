@@ -149,10 +149,12 @@ def _parse_data(html, html_id):
 def _reset(driver, url, states, state_index):
 	driver.get(url)
 	state_drop_down = driver.find_element_by_id('ddl_state')
+	time.sleep(2)
 	states = state_drop_down.find_elements_by_tag_name('option')[1:]
 	state = states[state_index]
 	state.click()
-	district_drop_down = driver.find_element_by_id('ddl_geo_level_2')	
+	district_drop_down = driver.find_element_by_id('ddl_geo_level_2')
+	time.sleep(2)	
 	districts = district_drop_down.find_elements_by_tag_name('option')[1:]
 	result = []
 	result.append(driver)
