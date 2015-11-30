@@ -57,28 +57,28 @@ def get_employment_census_data():
 	# this list is retrieved by looking up the census.gov api reference list (http://api.census.gov/data/2014/acs1/variables.html)
 	# and mimic the fields in the my congressional district tool (http://www.census.gov/mycd/)
 	employment_occupation_field_list = [\
-	'B24011_001E',\
-	'B24011_002E',\
-	'B24011_018E',\
-	'B24011_026E',\
-	'B24011_029E',\
-	'B24011_033E']
+	'B24050_001E',\
+	'B24050_028E',\
+	'B24050_055E',\
+	'B24050_082E',\
+	'B24050_109E',\
+	'B24050_136E']
 
 	employment_industry_field_list=[\
-	'B24031_001E',\
-	'B24031_002E',\
-	'B24031_005E',\
-	'B24031_006E',\
-	'B24031_007E',\
-	'B24031_008E',\
-	'B24031_009E',\
-	'B24031_012E',\
-	'B24031_013E',\
-	'B24031_016E',\
-	'B24031_020E',\
-	'B24031_023E',\
-	'B24031_026E',\
-	'B24031_027E']
+	'B24050_001E',\
+	'B24050_002E',\
+	'B24050_005E',\
+	'B24050_006E',\
+	'B24050_007E',\
+	'B24050_008E',\
+	'B24050_009E',\
+	'B24050_012E',\
+	'B24050_013E',\
+	'B24050_016E',\
+	'B24050_020E',\
+	'B24050_023E',\
+	'B24050_026E',\
+	'B24050_027E']
 
 	employment_occupation_field_name_list= [\
 	'Total',\
