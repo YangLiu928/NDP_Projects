@@ -1,0 +1,1 @@
+DROP DATABASE `lr_v1`;

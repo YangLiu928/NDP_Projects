@@ -84,8 +84,7 @@ def insert_values(db):
 
         # This is a date value that will represent when the data in
         # the row became valid. For now, you can just use the current date/time.
-        today = date.today()
-        valid_from_dt = process_string_value('{2}-{0}-{1}'.format(today.month, today.day, today.year))
+        valid_from_dt = 'NOW'
 
         # This is a date value that represents when the data in the
         # row is superseded by new data. For your purposes, this value will always
@@ -93,9 +92,8 @@ def insert_values(db):
         valid_to_dt = 'NULL'
 
         # this is the current date/time
-        today = date.today()
-        insert_dt = process_string_value('{2}-{0}-{1}'.format(today.month, today.day, today.year))
-
+        # use the SQL NOW() function
+        insert_dt = 'NOW()'
         # this should be null.  It will be populated when the data is
         # updated in the future
         update_dt = 'NULL'

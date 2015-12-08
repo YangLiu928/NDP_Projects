@@ -78,8 +78,8 @@ def get_sql_statement(input,output):
                 served_to_dt = process_string_value(served_to_dt_raw + '-12-31')
 
             # this is the current date/time
-            today = date.today()
-            insert_dt = process_string_value('{2}-{0}-{1}'.format(today.month, today.day, today.year))
+            # use the NOW function of SQL
+            insert_dt = 'NOW()'
 
             # this should be null.  It will be populated when the data is
             # updated in the future

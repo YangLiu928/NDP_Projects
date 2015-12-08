@@ -129,7 +129,7 @@ def insert_values(db):
 
             # this is the current date/time
             today = date.today()
-            insert_dt = process_string_value('{2}-{0}-{1}'.format(today.month, today.day, today.year))
+            insert_dt = 'NOW()'
 
             # this should be null.  It will be populated when the data is
             # updated in the future
