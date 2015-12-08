@@ -1,6 +1,7 @@
 import json
 import re
 import urllib2
+import utility
 
 from bs4 import BeautifulSoup
 
@@ -70,6 +71,7 @@ def _parse_display_name(display_name):
     # last, first MI., suffix.
     # last, first MI. "nick name"
     # last, first "nick name"
+    # last, first (nick name)
     # last, first, suffix.
     partials = display_name.split(', ')
 
@@ -108,6 +110,8 @@ def _parse_display_name(display_name):
     # get the nick name
     if re.search('["][a-zA-Z]+["]', display_name):
         nick_name = re.search('["][a-zA-Z]+["]', display_name).group()[1:-1]
+    elif re.search('[(][a-zA-Z]+[)]', display_name):
+        nick_name = re.search('[(][a-zA-Z]+[)]', display_name).group()[1:-1]
     else:
         nick_name = None
     name_pieces['nick_name'] = nick_name
@@ -116,6 +120,7 @@ def _parse_display_name(display_name):
 
 
 def _get_member_data(member):
+    print re.search(' .+', str(member.a.string)).group()[1:] + '\'s data has been fetched'
     # function takes in a member information as beautiful soup object
     # and returns a dictionary with information parsed
     result = {}
@@ -148,15 +153,37 @@ def _get_member_data(member):
     result['id'] = id
 
     # TODO: we can get more detailed information about the member using the url in the anchor tag
+    anchor_href = member.find('h2').find('a')['href']
+    
+    # counter counts how many times the url has been accessed
+    # we try at most three times, and if the connection fails 
+    # continuously, we still fail
+
+    counter = 1
+    while True:
+        try:
+            member_detail_page_soup = _get_soup(anchor_href)
+            break
+        except:
+            counter+=1
+            print '************************* we failed to connect to '+ anchor_href +" for the "+str(counter) + " time ************************"
+            continue
+
+    member_profile = member_detail_page_soup.find('div',class_='member_profile').find_all('table')[1]
+    if member_profile.find('a'):
+        web_url = member_profile.find('a')['href']
+    else:
+        web_url = None
+    result['web_url'] = web_url
 
     # this member_profile is an array of <tr> tags with state/party/district/term information
     member_profile = member.find('div', class_='memberProfile').find_all('tr')
 
     # get the state
     # the mapping from full state name to abbreviation can also be done
-    state = member_profile[0].td.string
-    # state= _get_state_abbreviation(state)
-    result['state'] = state
+    state_full = member_profile[0].td.string
+    state_abbrev = utility.get_state_abbreviation(state_full)
+    result['state'] = state_abbrev
 
     # get the party
     party = member_profile[-2].td.string
@@ -249,5 +276,5 @@ def get_committee_data():
 
 if __name__ == '__main__':
     data = get_committee_data()
-    with open('current_and_previous_committee_member_scraping.JSON', 'w') as outfile:
+    with open('current_and_previous_committee_member_scraping_with_web_url_and_state_abbreviation.JSON', 'w') as outfile:
         json.dump(data, outfile, indent=4)
