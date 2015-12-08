@@ -88,9 +88,8 @@ def get_sql_statement(input,output):
             # this should be null
             update_by = 'NULL'
 
-            insert_query = """
-            INSERT INTO `lr_v1`.`lrt_legislator_served`(`legislator_id`,`branch_cd`,`state_cd`,`district_cd`,`party_cd`,`served_from_dt`,`served_to_dt`,`insert_dt`,`update_dt`,`update_by`)
-            VALUES ({0},{1},{2},{3},{4},{5},{6},{7},{8},{9});""".format(
+            insert_query = """INSERT INTO `lr_v1`.`lrt_legislator_served`(`legislator_id`,`branch_cd`,`state_cd`,`district_cd`,`party_cd`,`served_from_dt`,`served_to_dt`,`insert_dt`,`update_dt`,`update_by`)
+VALUES ({0},{1},{2},{3},{4},{5},{6},{7},{8},{9});\n""".format(
                 legislator_id,
                 branch_cd,
                 state_cd,
