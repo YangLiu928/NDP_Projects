@@ -68,40 +68,92 @@ def _get_blocks(doc):
             block = ''
     return blocks
 
+def _get_member_data(member):
+    
+    result = {}
+    member = member.strip()
+
+    if re.search(', Delegate ',member):
+        display_name = member.split(', Delegate ')[0]
+        state = member.split(', Delegate ')[1]
+        congressional_district = 'Delegate'
+    elif re.search(', Resident Commissioner ',member):
+        display_name = member.split(', Resident Commissioner ')[0]
+        state = member.split(', Resident Commissioner ')[1]
+        congressional_district = 'Resident Commissioner'
+    elif re.search(', At Large ',member):
+        display_name = member.split(', At Large ')[0]
+        state = member.split(', At Large ')[1]
+        congressional_district = 'At Large'
+    elif re.search(', [0-9]+(rd|th|st|nd) ',member):
+        splitter = re.search(', [0-9]+(rd|th|st|nd) ',member).group()
+        display_name = member.split(splitter)[0]
+        state = member.split(splitter)[1]
+        congressional_district = re.search('[0-9]+',splitter).group()
+    else:
+        print 'cannot process the following string'
+        print member + '\n'
+
+    result['display_name'] = display_name
+    result['state'] = state
+    result['congressional_district'] = congressional_district
+
+    return result
+
+def _get_committee_assignments(assignment):
+    result = []
+    assignment_list = assignment.split('.')
+    for assignment_element in assignment_list:
+        if assignment_element.strip()!='':
+            result.append(assignment_element.strip())
+
+    return result
+
 
 if __name__ == '__main__':
-    doc = _convert_pdf_to_txt('102.pdf')
-    # print doc
 
-    member_queue = deque()
-    assignments_queue = deque()
+    doc = _convert_pdf_to_txt('input/106.pdf')
+    members = []
+    assignments = []
 
     blocks = _get_blocks(doc)
+
     for block in blocks:
         block_type = _get_block_type(block)
         if block_type == 'member':
-            member_queue.append(block)
+            members.append(block)
         elif block_type == 'assignments':
-            assignments_queue.append(block)
+            assignments.append(block)
         else:
             print 'the following block has a unknown blcok type'
-            # print block
-    min_length = min(len(assignments_queue),len(member_queue))
-    # for member in member_queue:
-    #     print member
-    # for assignments in assignments_queue:
-    #     print assignments
-    print len(member_queue)
-    print len(assignments_queue)
+            print block
 
-# list = doc.split('\n')
-# for line in list:
-#     print line
-#     # _get_line_type(line)
-    # member_queue = list(member_queue)[6:]
 
-    fake_result = []
-    for index in range(0,min_length):
-        fake_result.append(member_queue[index] + '\t\t' + assignments_queue[index])
-with open('fake.JSON', 'w') as outfile:
-    json.dump(fake_result, outfile, indent=4)
+    min_length = min(len(assignments),len(members))
+    print len(members)
+    print len(assignments)
+    # members has 437 results, and assignments has 437 results
+    # the number matches exactly, but still should be careful on whether the result is accurate
+    # result = []
+    # for index in range (0,min_length):
+    #     line = members[index] + '           ' + assignments[index]
+    #     result.append(line)
+
+
+
+    member_index = 0
+    assignment_index = 0
+
+    outputs = []
+    while assignment_index < min_length:
+        output = {}
+        member = members[member_index]
+        assignment = assignments[assignment_index]
+        output.update(_get_member_data(member))
+        output['committee_assignments'] = _get_committee_assignments(assignment)
+        member_index += 1
+        assignment_index += 1
+        outputs.append(output)
+
+    with open('output/106_raw_but_looks_fine.JSON', 'w') as outfile:
+        json.dump(outputs, outfile, indent=4)

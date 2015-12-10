@@ -1,0 +1,61 @@
+    {
+        "state": "PR", 
+        "display_name": "Acevedo-Vil\u00e1, An\u00edbal", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Small Business", 
+            "Resources"
+        ], 
+        "congressional_district": "Resident Commissioner"
+    },
+    {
+        "state": "ID", 
+        "display_name": "Otter, C. L. ``Butch''", 
+        "committee_assignments": [
+            "Energy and Commerce"
+        ], 
+        "congressional_district": "1"
+    },
+    {
+        "state": "GU",
+        "display_name": "Bordallo, Madeleine Z.",
+        "committee_assignments": [
+            "Armed Services",
+            "Resources",
+            "Small Business"
+        ],
+        "congressional_district": "Delegate"
+    },
+    {
+        "state": "VI",
+        "display_name": "Christensen, Donna M.",
+        "committee_assignments": [
+            "Small Business",
+            "Resources",
+            "Homeland Security"
+        ],
+        "congressional_district": "Delegate"
+    },
+    {
+        "state": "AS",
+        "display_name": "Faleomavaega, Eni F. H.",
+        "committee_assignments": [
+            "Small Business",
+            "International Relations",
+            "Resources"
+        ],
+        "congressional_district": "Delegate",
+    },
+    {
+        "state": "DC",
+        "display_name": "Norton, Eleanor Holmes",
+        "committee_assignments": [
+            "Government Reform",
+            "Homeland Security",
+            "Transportation and Infrastructure"
+        ],
+        "congressional_district": "Delegate"
+    }
+
+
+

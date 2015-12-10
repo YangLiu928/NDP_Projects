@@ -1,0 +1,3903 @@
+[
+    {
+        "state": "HI", 
+        "display_name": "Abercrombie, Neil", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Ackerman, Gary L.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "AL", 
+        "display_name": "Aderholt, Robert B.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "ME", 
+        "display_name": "Allen, Thomas H.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Andrews, Robert E.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Archer, Bill", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Armey, Richard K.", 
+        "committee_assignments": [
+            "Inaugural Ceremonies", 
+            "Majority Leader"
+        ], 
+        "congressional_district": "26"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Baca, Joe", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Science"
+        ], 
+        "congressional_district": "42"
+    }, 
+    {
+        "state": "AL", 
+        "display_name": "Bachus, Spencer", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Judiciary", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Baird, Brian", 
+        "committee_assignments": [
+            "Science", 
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "LA", 
+        "display_name": "Baker, Richard H.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "ME", 
+        "display_name": "Baldacci, John Elias", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Baldwin, Tammy", 
+        "committee_assignments": [
+            "Budget", 
+            "Judiciary"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Ballenger, Cass", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "International Relations"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Barcia, James A.", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Barr, Bob", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform", 
+            "Judiciary"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "NE", 
+        "display_name": "Barrett, Bill", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Barrett, Thomas M.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Bartlett, Roscoe G.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Science", 
+            "Small Business"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Barton, Joe", 
+        "committee_assignments": [
+            "Commerce", 
+            "Science"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "NH", 
+        "display_name": "Bass, Charles F.", 
+        "committee_assignments": [
+            "Budget", 
+            "Intelligence", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Becerra, Xavier", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "30"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Bentsen, Ken", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Budget"
+        ], 
+        "congressional_district": "25"
+    }, 
+    {
+        "state": "NE", 
+        "display_name": "Bereuter, Doug", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "NV", 
+        "display_name": "Berkley, Shelley", 
+        "committee_assignments": [
+            "Small Business", 
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Berman, Howard L.", 
+        "committee_assignments": [
+            "International Relations", 
+            "Judiciary", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "26"
+    }, 
+    {
+        "state": "AR", 
+        "display_name": "Berry, Marion", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Biggert, Judy", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform", 
+            "Science"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Bilbray, Brian P.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "49"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Bilirakis, Michael", 
+        "committee_assignments": [
+            "Commerce", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Bishop, Sanford D. Jr.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Intelligence"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Blagojevich, Rod R.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Bliley, Tom", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "OR", 
+        "display_name": "Blumenauer, Earl", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Blunt, Roy", 
+        "committee_assignments": [
+            "Chief Deputy Majority Whip", 
+            "Commerce"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Boehlert, Sherwood L.", 
+        "committee_assignments": [
+            "Intelligence", 
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "23"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Boehner, John A.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Education and the Workforce", 
+            "House Administration"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Bonilla, Henry", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "23"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Bonior, David E.", 
+        "committee_assignments": [
+            "Minority Whip"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Bono, Mary", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Judiciary", 
+            "Small Business"
+        ], 
+        "congressional_district": "44"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Borski, Robert A.", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "IA", 
+        "display_name": "Boswell, Leonard L.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Boucher, Rick", 
+        "committee_assignments": [
+            "Commerce", 
+            "Judiciary"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Boyd, Allen", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Brady, Kevin", 
+        "committee_assignments": [
+            "International Relations", 
+            "Resources", 
+            "Science"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Brady, Robert A.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Small Business"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Brown, Sherrod", 
+        "committee_assignments": [
+            "Commerce", 
+            "International Relations"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Brown, Corrine", 
+        "committee_assignments": [
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Bryant, Ed", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Burr, Richard", 
+        "committee_assignments": [
+            "Commerce", 
+            "International Relations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Burton, Dan", 
+        "committee_assignments": [
+            "Government Reform", 
+            "International Relations"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Buyer, Steve", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "AL", 
+        "display_name": "Callahan, Sonny", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Calvert, Ken", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Resources", 
+            "Science"
+        ], 
+        "congressional_district": "43"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Camp, Dave", 
+        "committee_assignments": [
+            "Standards of Official Conduct", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Campbell, Tom", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Canady, Charles T.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Judiciary"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "UT", 
+        "display_name": "Cannon, Chris", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Resources", 
+            "Science"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Capps, Lois", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "22"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Capuano, Michael E.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Science"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Cardin, Benjamin L.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Carson, Julia", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "DE", 
+        "display_name": "Castle, Michael N.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Education and the Workforce", 
+            "Intelligence"
+        ], 
+        "congressional_district": "At Large"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Chabot, Steve", 
+        "committee_assignments": [
+            "International Relations", 
+            "Judiciary", 
+            "Small Business"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Chambliss, Saxby", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services", 
+            "Budget"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "ID", 
+        "display_name": "Chenoweth-Hage, Helen", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Government Reform", 
+            "Resources", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "VI", 
+        "display_name": "Christensen, Donna M.", 
+        "committee_assignments": [
+            "Resources", 
+            "Small Business"
+        ], 
+        "congressional_district": "Delegate"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Clay, William (Bill)", 
+        "committee_assignments": [
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Clayton, Eva M.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Clement, Bob", 
+        "committee_assignments": [
+            "Budget", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "SC", 
+        "display_name": "Clyburn, James E.", 
+        "committee_assignments": [
+            "Currently there are no committees for $firstname $lastname"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Coble, Howard", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "OK", 
+        "display_name": "Coburn, Tom A.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Collins, Mac", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Combest, Larry", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Small Business"
+        ], 
+        "congressional_district": "19"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Condit, Gary A.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Intelligence"
+        ], 
+        "congressional_district": "18"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Conyers, John Jr.", 
+        "committee_assignments": [
+            "Judiciary"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "UT", 
+        "display_name": "Cook, Merrill", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "LA", 
+        "display_name": "Cooksey, John", 
+        "committee_assignments": [
+            "Agriculture", 
+            "International Relations", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Costello, Jerry F.", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Cox, Christopher", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "47"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Coyne, William J.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "AL", 
+        "display_name": "Cramer, Robert E. (Bud) Jr.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Crane, Philip M.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Crowley, Joseph", 
+        "committee_assignments": [
+            "International Relations", 
+            "Resources"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "WY", 
+        "display_name": "Cubin, Barbara", 
+        "committee_assignments": [
+            "Commerce", 
+            "Resources"
+        ], 
+        "congressional_district": "At Large"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Cummings, Elijah E.", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Cunningham, Randy ``Duke''", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "51"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Danner, Pat", 
+        "committee_assignments": [
+            "International Relations", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Davis, Danny K.", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Small Business"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Davis, Jim", 
+        "committee_assignments": [
+            "Budget", 
+            "House Administration", 
+            "International Relations"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Davis, Thomas M.", 
+        "committee_assignments": [
+            "Government Reform"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Deal, Nathan", 
+        "committee_assignments": [
+            "Commerce", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "OR", 
+        "display_name": "DeFazio, Peter A.", 
+        "committee_assignments": [
+            "Resources", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "CO", 
+        "display_name": "DeGette, Diana", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Delahunt, William D.", 
+        "committee_assignments": [
+            "International Relations", 
+            "Judiciary"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "CT", 
+        "display_name": "DeLauro, Rosa L.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Assistant to the Minority Leader"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "DeLay, Tom", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Majority Whip"
+        ], 
+        "congressional_district": "22"
+    }, 
+    {
+        "state": "SC", 
+        "display_name": "DeMint, Jim", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Deutsch, Peter", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "20"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Diaz-Balart, Lincoln", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "21"
+    }, 
+    {
+        "state": "AR", 
+        "display_name": "Dickey, Jay", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Dicks, Norman D.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Dingell, John D.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Doggett, Lloyd", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Dooley, Calvin M.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Resources"
+        ], 
+        "congressional_district": "20"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Doolittle, John T.", 
+        "committee_assignments": [
+            "Resources", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Doyle, Michael F.", 
+        "committee_assignments": [
+            "Science", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "18"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Dreier, David", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "28"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Duncan, John J. Jr.", 
+        "committee_assignments": [
+            "Resources", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Dunn, Jennifer", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Edwards, Chet", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Chief Deputy Minority Whips"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Ehlers, Vernon J.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "House Administration", 
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Ehrlich, Robert L. Jr.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Emerson, Jo Ann", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Engel, Eliot L.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "17"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "English, Phil", 
+        "committee_assignments": [
+            "Small Business", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "21"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Eshoo, Anna G.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Etheridge, Bob", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Science"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Evans, Lane", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "17"
+    }, 
+    {
+        "state": "AL", 
+        "display_name": "Everett, Terry", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Ewing, Thomas W.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "AS", 
+        "display_name": "Faleomavaega, Eni F. H.", 
+        "committee_assignments": [
+            "International Relations", 
+            "Resources"
+        ], 
+        "congressional_district": "Delegate"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Farr, Sam", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "17"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Fattah, Chaka", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform", 
+            "House Administration", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Filner, Bob", 
+        "committee_assignments": [
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "50"
+    }, 
+    {
+        "state": "KY", 
+        "display_name": "Fletcher, Ernie", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Foley, Mark", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Forbes, Michael P.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Banking and Financial Services"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Ford, Harold E. Jr.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Fossella, Vito", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Fowler, Tillie K.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Frank, Barney", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Judiciary"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Franks, Bob", 
+        "committee_assignments": [
+            "Budget", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Frelinghuysen, Rodney P.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Frost, Martin", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "24"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Gallegly, Elton", 
+        "committee_assignments": [
+            "International Relations", 
+            "Judiciary", 
+            "Resources"
+        ], 
+        "congressional_district": "23"
+    }, 
+    {
+        "state": "IA", 
+        "display_name": "Ganske, Greg", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "CT", 
+        "display_name": "Gejdenson, Sam", 
+        "committee_assignments": [
+            "International Relations"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Gekas, George W.", 
+        "committee_assignments": [
+            "Judiciary"
+        ], 
+        "congressional_district": "17"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Gephardt, Richard A.", 
+        "committee_assignments": [
+            "Inaugural Ceremonies", 
+            "Minority Leader"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "NV", 
+        "display_name": "Gibbons, Jim", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Intelligence", 
+            "Resources", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Gilchrest, Wayne T.", 
+        "committee_assignments": [
+            "Resources", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Gillmor, Paul E.", 
+        "committee_assignments": [
+            "Commerce", 
+            "International Relations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Gilman, Benjamin A.", 
+        "committee_assignments": [
+            "Government Reform", 
+            "International Relations"
+        ], 
+        "congressional_district": "20"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Gonzalez, Charles A.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Small Business"
+        ], 
+        "congressional_district": "20"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Goode, Virgil H. Jr.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Goodlatte, Bob", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Judiciary"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Goodling, William F.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "International Relations"
+        ], 
+        "congressional_district": "19"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Gordon, Bart", 
+        "committee_assignments": [
+            "Commerce", 
+            "Science"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Goss, Porter J.", 
+        "committee_assignments": [
+            "Intelligence", 
+            "Rules"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "SC", 
+        "display_name": "Graham, Lindsey O.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Education and the Workforce", 
+            "Judiciary"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Granger, Kay", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Green, Gene", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "29"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Green, Mark", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Budget", 
+            "Science"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Greenwood, James C.", 
+        "committee_assignments": [
+            "Commerce", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Gutierrez, Luis V.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "MN", 
+        "display_name": "Gutknecht, Gil", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget", 
+            "Science"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Hall, Tony P.", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Hall, Ralph M.", 
+        "committee_assignments": [
+            "Commerce", 
+            "Science"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "UT", 
+        "display_name": "Hansen, James V.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Hastert, J. Dennis", 
+        "committee_assignments": [
+            "Inaugural Ceremonies", 
+            "The Speaker"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Hastings, Alcee L.", 
+        "committee_assignments": [
+            "Intelligence", 
+            "International Relations"
+        ], 
+        "congressional_district": "23"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Hastings, Doc", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Hayes, Robin", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "AZ", 
+        "display_name": "Hayworth, J. D.", 
+        "committee_assignments": [
+            "Veterans' Affairs", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "CO", 
+        "display_name": "Hefley, Joel", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources", 
+            "Small Business", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Herger, Wally", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "MT", 
+        "display_name": "Hill, Rick", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Resources", 
+            "Small Business"
+        ], 
+        "congressional_district": "At Large"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Hill, Baron P.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Hilleary, Van", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "AL", 
+        "display_name": "Hilliard, Earl F.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "International Relations"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Hinchey, Maurice D.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "26"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Hinojosa, Rub\u00e9n", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Small Business"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Hobson, David L.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Hoeffel, Joseph M.", 
+        "committee_assignments": [
+            "Budget", 
+            "International Relations", 
+            "Science"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Hoekstra, Peter", 
+        "committee_assignments": [
+            "Budget", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Holden, Tim", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Holt, Rush D.", 
+        "committee_assignments": [
+            "Budget", 
+            "Education and the Workforce", 
+            "Resources"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "OR", 
+        "display_name": "Hooley, Darlene", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Budget"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Horn, Stephen", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "38"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Hostettler, John N.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Houghton, Amo", 
+        "committee_assignments": [
+            "International Relations", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "31"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Hoyer, Steny H.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "House Administration"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Hulshof, Kenny C.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Hunter, Duncan", 
+        "committee_assignments": [
+            "Armed Services"
+        ], 
+        "congressional_district": "52"
+    }, 
+    {
+        "state": "AR", 
+        "display_name": "Hutchinson, Asa", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Judiciary", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Hyde, Henry J.", 
+        "committee_assignments": [
+            "International Relations", 
+            "Judiciary"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Inslee, Jay", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Resources"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Isakson, Johnny", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "OK", 
+        "display_name": "Istook, Ernest J. Jr.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Jackson, Jesse L. Jr.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Jackson-Lee, Sheila", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Science"
+        ], 
+        "congressional_district": "18"
+    }, 
+    {
+        "state": "LA", 
+        "display_name": "Jefferson, William J.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Jenkins, William L.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Judiciary"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "LA", 
+        "display_name": "John, Christopher", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Resources"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "CT", 
+        "display_name": "Johnson, Nancy L.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Johnson, Sam", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Johnson, Eddie Bernice", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "30"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Jones, Stephanie Tubbs", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Small Business"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Jones, Walter B.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Banking and Financial Services", 
+            "Resources"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Kanjorski, Paul E.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Kaptur, Marcy", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Kasich, John R.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Kelly, Sue W.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "19"
+    }, 
+    {
+        "state": "RI", 
+        "display_name": "Kennedy, Patrick J.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Kildee, Dale E.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Resources"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Kilpatrick, Carolyn C.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Kind, Ron", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Resources"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "King, Peter T.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Kingston, Jack", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Kleczka, Gerald D.", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Klink, Ron", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Knollenberg, Joe", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "AZ", 
+        "display_name": "Kolbe, Jim", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Kucinich, Dennis J.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Kuykendall, Steven T.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "36"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "LaFalce, John J.", 
+        "committee_assignments": [
+            "Banking and Financial Services"
+        ], 
+        "congressional_district": "29"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "LaHood, Ray", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Intelligence", 
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "18"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Lampson, Nick", 
+        "committee_assignments": [
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Lantos, Tom", 
+        "committee_assignments": [
+            "Government Reform", 
+            "International Relations"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "OK", 
+        "display_name": "Largent, Steve", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "CT", 
+        "display_name": "Larson, John B.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Science"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "IA", 
+        "display_name": "Latham, Tom", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "LaTourette, Steven C.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "19"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Lazio, Rick", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Commerce"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "IA", 
+        "display_name": "Leach, James A.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Lee, Barbara", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Levin, Sander M.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "KY", 
+        "display_name": "Lewis, Ron", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Lewis, Jerry", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Intelligence"
+        ], 
+        "congressional_district": "40"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Lewis, John", 
+        "committee_assignments": [
+            "Chief Deputy Minority Whips", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Linder, John", 
+        "committee_assignments": [
+            "House Administration", 
+            "Rules"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Lipinski, William O.", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "LoBiondo, Frank A.", 
+        "committee_assignments": [
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Lofgren, Zoe", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Science", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Lowey, Nita M.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "18"
+    }, 
+    {
+        "state": "OK", 
+        "display_name": "Lucas, Frank D.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Banking and Financial Services", 
+            "Science"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "KY", 
+        "display_name": "Lucas, Ken", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "MN", 
+        "display_name": "Luther, Bill", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "CT", 
+        "display_name": "Maloney, James H.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Banking and Financial Services"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Maloney, Carolyn B.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Manzullo, Donald A.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations", 
+            "Small Business"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Markey, Edward J.", 
+        "committee_assignments": [
+            "Budget", 
+            "Commerce"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Martinez, Matthew G.", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "31"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Mascara, Frank", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "20"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Matsui, Robert T.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "McCarthy, Karen", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "McCarthy, Carolyn", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Small Business"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "McCollum, Bill", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Intelligence", 
+            "Judiciary"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "LA", 
+        "display_name": "McCrery, Jim", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "McDermott, Jim", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "McGovern, James P.", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "McHugh, John M.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Government Reform", 
+            "International Relations"
+        ], 
+        "congressional_district": "24"
+    }, 
+    {
+        "state": "CO", 
+        "display_name": "McInnis, Scott", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "McIntosh, David M.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform", 
+            "Small Business"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "McIntyre, Mike", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "McKeon, Howard P. ``Buck''", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Education and the Workforce", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "25"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "McKinney, Cynthia A.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "McNulty, Michael R.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "21"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Meehan, Martin T.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Judiciary"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Meek, Carrie P.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "17"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Meeks, Gregory W.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Menendez, Robert", 
+        "committee_assignments": [
+            "International Relations", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Metcalf, Jack", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Mica, John L.", 
+        "committee_assignments": [
+            "Government Reform", 
+            "House Administration", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Millender-McDonald, Juanita", 
+        "committee_assignments": [
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "37"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Miller, Gary G.", 
+        "committee_assignments": [
+            "Budget", 
+            "Science", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "41"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Miller, George", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Resources"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Miller, Dan", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Government Reform"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "MN", 
+        "display_name": "Minge, David", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "HI", 
+        "display_name": "Mink, Patsy T.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Moakley, John Joseph", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "WV", 
+        "display_name": "Mollohan, Alan B.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "KS", 
+        "display_name": "Moore, Dennis", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Science", 
+            "Small Business"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "KS", 
+        "display_name": "Moran, Jerry", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Moran, James P.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Morella, Constance A.", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Science"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Murtha, John P.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Myrick, Sue Wilkins", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Nadler, Jerrold", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Napolitano, Grace F.", 
+        "committee_assignments": [
+            "Resources", 
+            "Small Business"
+        ], 
+        "congressional_district": "34"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Neal, Richard E.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Nethercutt, George R. Jr.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Science"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Ney, Robert W.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "House Administration", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "18"
+    }, 
+    {
+        "state": "KY", 
+        "display_name": "Northup, Anne M.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "DC", 
+        "display_name": "Norton, Eleanor Holmes", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "Delegate"
+    }, 
+    {
+        "state": "GA", 
+        "display_name": "Norwood, Charlie", 
+        "committee_assignments": [
+            "Commerce", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "IA", 
+        "display_name": "Nussle, Jim", 
+        "committee_assignments": [
+            "Budget", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "MN", 
+        "display_name": "Oberstar, James L.", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Obey, David R.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Olver, John W.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Ortiz, Solomon P.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "27"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Ose, Doug", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Banking and Financial Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Owens, Major R.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Oxley, Michael G.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Packard, Ron", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "48"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Pallone, Frank Jr.", 
+        "committee_assignments": [
+            "Commerce", 
+            "Resources"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Pascrell, Bill Jr.", 
+        "committee_assignments": [
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "AZ", 
+        "display_name": "Pastor, Ed", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Chief Deputy Minority Whips", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Paul, Ron", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Payne, Donald M.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "International Relations"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Pease, Edward A.", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Pelosi, Nancy", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Intelligence"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "MN", 
+        "display_name": "Peterson, Collin C.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Peterson, John E.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Resources"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Petri, Thomas E.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Phelps, David D.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Small Business"
+        ], 
+        "congressional_district": "19"
+    }, 
+    {
+        "state": "MS", 
+        "display_name": "Pickering, Charles W. ``Chip''", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Pickett, Owen B.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Pitts, Joseph R.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Small Business"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Pombo, Richard W.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Resources"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "ND", 
+        "display_name": "Pomeroy, Earl", 
+        "committee_assignments": [
+            "Agriculture", 
+            "International Relations"
+        ], 
+        "congressional_district": "At Large"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Porter, John Edward", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Portman, Rob", 
+        "committee_assignments": [
+            "Standards of Official Conduct", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Price, David E.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Pryce, Deborah", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Quinn, Jack", 
+        "committee_assignments": [
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "30"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Radanovich, George", 
+        "committee_assignments": [
+            "Budget", 
+            "International Relations", 
+            "Resources"
+        ], 
+        "congressional_district": "19"
+    }, 
+    {
+        "state": "WV", 
+        "display_name": "Rahall, Nick J. II", 
+        "committee_assignments": [
+            "Resources", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "MN", 
+        "display_name": "Ramstad, Jim", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Rangel, Charles B.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Regula, Ralph", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Reyes, Silvestre", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Reynolds, Thomas M.", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "27"
+    }, 
+    {
+        "state": "AL", 
+        "display_name": "Riley, Bob", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services", 
+            "Banking and Financial Services"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Rivers, Lynn N.", 
+        "committee_assignments": [
+            "Budget", 
+            "Science"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Rodriguez, Ciro D.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "28"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Roemer, Tim", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Intelligence"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Rogan, James E.", 
+        "committee_assignments": [
+            "Commerce", 
+            "Judiciary"
+        ], 
+        "congressional_district": "27"
+    }, 
+    {
+        "state": "KY", 
+        "display_name": "Rogers, Harold", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Rohrabacher, Dana", 
+        "committee_assignments": [
+            "International Relations", 
+            "Science"
+        ], 
+        "congressional_district": "45"
+    }, 
+    {
+        "state": "PR", 
+        "display_name": "Romero-Barcel\u00f3, Carlos A.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Resources"
+        ], 
+        "congressional_district": "Resident Commissioner"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Ros-Lehtinen, Ileana", 
+        "committee_assignments": [
+            "Government Reform", 
+            "International Relations"
+        ], 
+        "congressional_district": "18"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Rothman, Steven R.", 
+        "committee_assignments": [
+            "International Relations", 
+            "Judiciary"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Roukema, Marge", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Roybal-Allard, Lucille", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "33"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Royce, Edward R.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "39"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Rush, Bobby L.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Ryan, Paul", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Budget", 
+            "Government Reform"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "KS", 
+        "display_name": "Ryun, Jim", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Banking and Financial Services", 
+            "Budget"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "MN", 
+        "display_name": "Sabo, Martin Olav", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "AZ", 
+        "display_name": "Salmon, Matt", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "International Relations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Sanchez, Loretta", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "46"
+    }, 
+    {
+        "state": "VT", 
+        "display_name": "Sanders, Bernard", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "At Large"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Sandlin, Max", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "SC", 
+        "display_name": "Sanford, Marshall ``Mark''", 
+        "committee_assignments": [
+            "Government Reform", 
+            "International Relations", 
+            "Science"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Sawyer, Tom", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "14"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Saxton, Jim", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Scarborough, Joe", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Government Reform", 
+            "Judiciary"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "CO", 
+        "display_name": "Schaffer, Bob", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Education and the Workforce", 
+            "Resources"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Schakowsky, Janice D.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Scott, Robert C.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Judiciary"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "WI", 
+        "display_name": "Sensenbrenner, F. James Jr.", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Science"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Serrano, Jos\u00e9 E.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "16"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Sessions, Pete", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "AZ", 
+        "display_name": "Shadegg, John B.", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Shaw, E. Clay Jr.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "22"
+    }, 
+    {
+        "state": "CT", 
+        "display_name": "Shays, Christopher", 
+        "committee_assignments": [
+            "Budget", 
+            "Government Reform"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Sherman, Brad", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "International Relations"
+        ], 
+        "congressional_district": "24"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Sherwood, Don", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Shimkus, John", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "20"
+    }, 
+    {
+        "state": "MS", 
+        "display_name": "Shows, Ronnie", 
+        "committee_assignments": [
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Shuster, Bud", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "ID", 
+        "display_name": "Simpson, Michael K.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Resources", 
+            "Transportation and Infrastructure", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Sisisky, Norman", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Intelligence"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "NM", 
+        "display_name": "Skeen, Joe", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Skelton, Ike", 
+        "committee_assignments": [
+            "Armed Services"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Slaughter, Louise McIntosh", 
+        "committee_assignments": [
+            "Rules"
+        ], 
+        "congressional_district": "28"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Smith, Lamar S.", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Science", 
+            "Standards of Official Conduct"
+        ], 
+        "congressional_district": "21"
+    }, 
+    {
+        "state": "WA", 
+        "display_name": "Smith, Adam", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "NJ", 
+        "display_name": "Smith, Christopher H.", 
+        "committee_assignments": [
+            "International Relations", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Smith, Nick", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget", 
+            "Science"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "AR", 
+        "display_name": "Snyder, Vic", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Souder, Mark E.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform", 
+            "Resources"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "SC", 
+        "display_name": "Spence, Floyd", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "SC", 
+        "display_name": "Spratt, John M. Jr.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Stabenow, Debbie", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Science"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Stark, Fortney Pete", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Stearns, Cliff", 
+        "committee_assignments": [
+            "Commerce", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Stenholm, Charles W.", 
+        "committee_assignments": [
+            "Agriculture"
+        ], 
+        "congressional_district": "17"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Strickland, Ted", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "AZ", 
+        "display_name": "Stump, Bob", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Stupak, Bart", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "NH", 
+        "display_name": "Sununu, John E.", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Sweeney, John E.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "22"
+    }, 
+    {
+        "state": "MO", 
+        "display_name": "Talent, James M.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Education and the Workforce", 
+            "Small Business"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "CO", 
+        "display_name": "Tancredo, Thomas G.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "International Relations", 
+            "Resources"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Tanner, John S.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "8"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Tauscher, Ellen O.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "LA", 
+        "display_name": "Tauzin, W. J. (Billy)", 
+        "committee_assignments": [
+            "Commerce", 
+            "Resources"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "MS", 
+        "display_name": "Taylor, Gene", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Taylor, Charles H.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "NE", 
+        "display_name": "Terry, Lee", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Government Reform", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Thomas, William M.", 
+        "committee_assignments": [
+            "House Administration", 
+            "Ways and Means"
+        ], 
+        "congressional_district": "21"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Thompson, Mike", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Armed Services"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "MS", 
+        "display_name": "Thompson, Bennie G.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Budget"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Thornberry, Mac", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Resources"
+        ], 
+        "congressional_district": "13"
+    }, 
+    {
+        "state": "SD", 
+        "display_name": "Thune, John R.", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Small Business", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "At Large"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Thurman, Karen L.", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "5"
+    }, 
+    {
+        "state": "KS", 
+        "display_name": "Tiahrt, Todd", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "MA", 
+        "display_name": "Tierney, John F.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Government Reform"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Toomey, Patrick J.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Budget", 
+            "Small Business"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Towns, Edolphus", 
+        "committee_assignments": [
+            "Commerce", 
+            "Government Reform"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "OH", 
+        "display_name": "Traficant, James A. Jr.", 
+        "committee_assignments": [
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "17"
+    }, 
+    {
+        "state": "TX", 
+        "display_name": "Turner, Jim", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Government Reform"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "NM", 
+        "display_name": "Udall, Tom", 
+        "committee_assignments": [
+            "Resources", 
+            "Small Business", 
+            "Veterans' Affairs"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "CO", 
+        "display_name": "Udall, Mark", 
+        "committee_assignments": [
+            "Resources", 
+            "Science", 
+            "Small Business"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "GU", 
+        "display_name": "Underwood, Robert A.", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Resources"
+        ], 
+        "congressional_district": "Delegate"
+    }, 
+    {
+        "state": "MI", 
+        "display_name": "Upton, Fred", 
+        "committee_assignments": [
+            "Commerce", 
+            "Education and the Workforce"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Vel\u00e1zquez, Nydia M.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Small Business"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "IN", 
+        "display_name": "Visclosky, Peter J.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "LA", 
+        "display_name": "Vitter, David", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Judiciary", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "OR", 
+        "display_name": "Walden, Greg", 
+        "committee_assignments": [
+            "Agriculture", 
+            "Government Reform", 
+            "Resources"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Walsh, James T.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "25"
+    }, 
+    {
+        "state": "TN", 
+        "display_name": "Wamp, Zach", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Waters, Maxine", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Chief Deputy Minority Whips", 
+            "Judiciary"
+        ], 
+        "congressional_district": "35"
+    }, 
+    {
+        "state": "OK", 
+        "display_name": "Watkins, Wes", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "3"
+    }, 
+    {
+        "state": "NC", 
+        "display_name": "Watt, Melvin L.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Judiciary"
+        ], 
+        "congressional_district": "12"
+    }, 
+    {
+        "state": "OK", 
+        "display_name": "Watts, J. C. Jr.", 
+        "committee_assignments": [
+            "Armed Services"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Waxman, Henry A.", 
+        "committee_assignments": [
+            "Commerce", 
+            "Government Reform"
+        ], 
+        "congressional_district": "29"
+    }, 
+    {
+        "state": "NY", 
+        "display_name": "Weiner, Anthony D.", 
+        "committee_assignments": [
+            "Judiciary", 
+            "Science"
+        ], 
+        "congressional_district": "9"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Weldon, Dave", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Science"
+        ], 
+        "congressional_district": "15"
+    }, 
+    {
+        "state": "PA", 
+        "display_name": "Weldon, Curt", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Science"
+        ], 
+        "congressional_district": "7"
+    }, 
+    {
+        "state": "IL", 
+        "display_name": "Weller, Jerry", 
+        "committee_assignments": [
+            "Ways and Means"
+        ], 
+        "congressional_district": "11"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Wexler, Robert", 
+        "committee_assignments": [
+            "International Relations", 
+            "Judiciary"
+        ], 
+        "congressional_district": "19"
+    }, 
+    {
+        "state": "RI", 
+        "display_name": "Weygand, Robert A.", 
+        "committee_assignments": [
+            "Banking and Financial Services", 
+            "Budget"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "KY", 
+        "display_name": "Whitfield, Ed", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "MS", 
+        "display_name": "Wicker, Roger F.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "NM", 
+        "display_name": "Wilson, Heather", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Commerce", 
+            "Intelligence"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "WV", 
+        "display_name": "Wise, Robert E. Jr.", 
+        "committee_assignments": [
+            "Government Reform", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "2"
+    }, 
+    {
+        "state": "VA", 
+        "display_name": "Wolf, Frank R.", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "10"
+    }, 
+    {
+        "state": "CA", 
+        "display_name": "Woolsey, Lynn C.", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Science"
+        ], 
+        "congressional_district": "6"
+    }, 
+    {
+        "state": "OR", 
+        "display_name": "Wu, David", 
+        "committee_assignments": [
+            "Education and the Workforce", 
+            "Science"
+        ], 
+        "congressional_district": "1"
+    }, 
+    {
+        "state": "MD", 
+        "display_name": "Wynn, Albert Russell", 
+        "committee_assignments": [
+            "Commerce"
+        ], 
+        "congressional_district": "4"
+    }, 
+    {
+        "state": "AK", 
+        "display_name": "Young, Don", 
+        "committee_assignments": [
+            "Resources", 
+            "Transportation and Infrastructure"
+        ], 
+        "congressional_district": "At Large"
+    }, 
+    {
+        "state": "FL", 
+        "display_name": "Young, C. W. Bill", 
+        "committee_assignments": [
+            "Appropriations"
+        ], 
+        "congressional_district": "10"
+    }
+]
