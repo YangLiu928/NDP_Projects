@@ -1,0 +1,829 @@
+{
+    "Mark Begich": {
+        "state": "Alaska", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Commerce, Science, and Transportation", 
+            "Homeland Security and Governmental Affairs", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Kelly Ayotte": {
+        "state": "New Hampshire", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Commerce, Science, and Transportation", 
+            "Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Joe Donnelly": {
+        "state": "Indiana", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Armed Services"
+        ]
+    }, 
+    "Deb Fischer": {
+        "state": "Nebraska", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Commerce, Science, and Transportation", 
+            "Environment and Public Works", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Mark R. Warner": {
+        "state": "Virginia", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Budget", 
+            "Finance", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Kirsten E. Gillibrand": {
+        "state": "New York", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Armed Services", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "Tim Johnson": {
+        "state": "South Dakota", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Banking, Housing, and Urban Affairs, Chairman", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Christopher Murphy": {
+        "state": "Connecticut", 
+        "committee_assignments": [
+            "Foreign Relations", 
+            "Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Tammy Baldwin": {
+        "state": "Wisconsin", 
+        "committee_assignments": [
+            "Budget", 
+            "Energy and Natural Resources", 
+            "Health, Education, Labor, and Pensions", 
+            "Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Chuck Grassley": {
+        "state": "Iowa", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Budget", 
+            "Finance", 
+            "Judiciary"
+        ]
+    }, 
+    "Jon Tester": {
+        "state": "Montana", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Banking, Housing, and Urban Affairs", 
+            "Homeland Security and Governmental Affairs", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Robert Menendez": {
+        "state": "New Jersey", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Finance", 
+            "Foreign Relations, Chairman"
+        ]
+    }, 
+    "Jeanne Shaheen": {
+        "state": "New Hampshire", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Armed Services", 
+            "Foreign Relations", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Michael F. Bennet": {
+        "state": "Colorado", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Finance", 
+            "Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Tom Harkin": {
+        "state": "Iowa", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Appropriations", 
+            "Health, Education, Labor, and Pensions, Chairman"
+        ]
+    }, 
+    "Elizabeth Warren": {
+        "state": "Massachusetts", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "David Vitter": {
+        "state": "Louisiana", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Banking, Housing, and Urban Affairs", 
+            "Environment and Public Works", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "John McCain": {
+        "state": "Arizona", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Foreign Relations", 
+            "Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Thad Cochran": {
+        "state": "Mississippi", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Appropriations", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Pat Roberts": {
+        "state": "Kansas", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Finance", 
+            "Health, Education, Labor, and Pensions", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Bernard Sanders": {
+        "state": "Vermont", 
+        "committee_assignments": [
+            "Budget", 
+            "Energy and Natural Resources", 
+            "Environment and Public Works", 
+            "Health, Education, Labor, and Pensions", 
+            "Veterans' Affairs, Chairman"
+        ]
+    }, 
+    "Lindsey Graham": {
+        "state": "South Carolina", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Armed Services", 
+            "Budget", 
+            "Judiciary"
+        ]
+    }, 
+    "Ron Johnson": {
+        "state": "Wisconsin", 
+        "committee_assignments": [
+            "Budget", 
+            "Commerce, Science, and Transportation", 
+            "Foreign Relations", 
+            "Homeland Security and Governmental Affairs", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Joe Manchin III": {
+        "state": "West Virginia", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Banking, Housing, and Urban Affairs", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Ron Wyden": {
+        "state": "Oregon", 
+        "committee_assignments": [
+            "Budget", 
+            "Energy and Natural Resources", 
+            "Finance, Chairman"
+        ]
+    }, 
+    "Claire McCaskill": {
+        "state": "Missouri", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Commerce, Science, and Transportation", 
+            "Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Jerry Moran": {
+        "state": "Kansas", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Banking, Housing, and Urban Affairs", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Barbara A. Mikulski": {
+        "state": "Maryland", 
+        "committee_assignments": [
+            "Appropriations, Chairman", 
+            "Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "John D. Rockefeller IV": {
+        "state": "West Virginia", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation, Chairman", 
+            "Finance", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Mary L. Landrieu": {
+        "state": "Louisiana", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Energy and Natural Resources, Chairman", 
+            "Homeland Security and Governmental Affairs", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Tom Coburn": {
+        "state": "Oklahoma", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Ted Cruz": {
+        "state": "Texas", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Commerce, Science, and Transportation", 
+            "Judiciary", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Michael B. Enzi": {
+        "state": "Wyoming", 
+        "committee_assignments": [
+            "Budget", 
+            "Finance", 
+            "Health, Education, Labor, and Pensions", 
+            "Homeland Security and Governmental Affairs", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Bob Corker": {
+        "state": "Tennessee", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Carl Levin": {
+        "state": "Michigan", 
+        "committee_assignments": [
+            "Armed Services, Chairman", 
+            "Homeland Security and Governmental Affairs", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Edward J. Markey": {
+        "state": "Massachusetts", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation", 
+            "Environment and Public Works", 
+            "Foreign Relations", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Bill Nelson": {
+        "state": "Florida", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Commerce, Science, and Transportation", 
+            "Finance"
+        ]
+    }, 
+    "Dianne Feinstein": {
+        "state": "California", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Judiciary", 
+            "Rules and Administration"
+        ]
+    }, 
+    "John Cornyn": {
+        "state": "Texas", 
+        "committee_assignments": [
+            "Finance", 
+            "Judiciary"
+        ]
+    }, 
+    "Charles E. Schumer": {
+        "state": "New York", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Finance", 
+            "Judiciary", 
+            "Rules and Administration, Chairman"
+        ]
+    }, 
+    "Rand Paul": {
+        "state": "Kentucky", 
+        "committee_assignments": [
+            "Foreign Relations", 
+            "Health, Education, Labor, and Pensions", 
+            "Homeland Security and Governmental Affairs", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Tim Scott": {
+        "state": "South Carolina", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation", 
+            "Energy and Natural Resources", 
+            "Health, Education, Labor, and Pensions", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "John Thune": {
+        "state": "South Dakota", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Commerce, Science, and Transportation", 
+            "Finance"
+        ]
+    }, 
+    "Mike Lee": {
+        "state": "Utah", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Energy and Natural Resources", 
+            "Judiciary"
+        ]
+    }, 
+    "Patrick J. Leahy": {
+        "state": "Vermont", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Appropriations", 
+            "Judiciary, Chairman", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Benjamin L. Cardin": {
+        "state": "Maryland", 
+        "committee_assignments": [
+            "Environment and Public Works", 
+            "Finance", 
+            "Foreign Relations", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Marco Rubio": {
+        "state": "Florida", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation", 
+            "Foreign Relations", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Martin Heinrich": {
+        "state": "New Mexico", 
+        "committee_assignments": [
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Barbara Boxer": {
+        "state": "California", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation", 
+            "Environment and Public Works, Chairman", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Heidi Heitkamp": {
+        "state": "North Dakota", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Banking, Housing, and Urban Affairs", 
+            "Homeland Security and Governmental Affairs", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Robert P. Casey, Jr.": {
+        "state": "Pennsylvania", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Finance", 
+            "Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Jeff Merkley": {
+        "state": "Oregon", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Banking, Housing, and Urban Affairs", 
+            "Budget", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "Lisa Murkowski": {
+        "state": "Alaska", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Energy and Natural Resources", 
+            "Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Sheldon Whitehouse": {
+        "state": "Rhode Island", 
+        "committee_assignments": [
+            "Budget", 
+            "Environment and Public Works", 
+            "Health, Education, Labor, and Pensions", 
+            "Judiciary"
+        ]
+    }, 
+    "Amy Klobuchar": {
+        "state": "Minnesota", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Commerce, Science, and Transportation", 
+            "Judiciary", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Dean Heller": {
+        "state": "Nevada", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Commerce, Science, and Transportation", 
+            "Energy and Natural Resources", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "James E. Risch": {
+        "state": "Idaho", 
+        "committee_assignments": [
+            "Energy and Natural Resources", 
+            "Foreign Relations", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Mazie K. Hirono": {
+        "state": "Hawaii", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Judiciary", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Debbie Stabenow": {
+        "state": "Michigan", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry, Chairman", 
+            "Budget", 
+            "Energy and Natural Resources", 
+            "Finance"
+        ]
+    }, 
+    "Angus S. King, Jr.": {
+        "state": "Maine", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Richard Burr": {
+        "state": "North Carolina", 
+        "committee_assignments": [
+            "Finance", 
+            "Health, Education, Labor, and Pensions", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Thomas R. Carper": {
+        "state": "Delaware", 
+        "committee_assignments": [
+            "Environment and Public Works", 
+            "Finance", 
+            "Homeland Security and Governmental Affairs, Chairman"
+        ]
+    }, 
+    "John Hoeven": {
+        "state": "North Dakota", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Appropriations", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Jeff Flake": {
+        "state": "Arizona", 
+        "committee_assignments": [
+            "Energy and Natural Resources", 
+            "Foreign Relations", 
+            "Judiciary"
+        ]
+    }, 
+    "Lamar Alexander": {
+        "state": "Tennessee", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Energy and Natural Resources", 
+            "Health, Education, Labor, and Pensions", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Mike Johanns": {
+        "state": "Nebraska", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Appropriations", 
+            "Banking, Housing, and Urban Affairs", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Saxby Chambliss": {
+        "state": "Georgia", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Armed Services", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Tim Kaine": {
+        "state": "Virginia", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Rob Portman": {
+        "state": "Ohio", 
+        "committee_assignments": [
+            "Budget", 
+            "Energy and Natural Resources", 
+            "Finance", 
+            "Homeland Security and Governmental Affairs"
+        ]
+    }, 
+    "Mike Crapo": {
+        "state": "Idaho", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Budget", 
+            "Environment and Public Works", 
+            "Finance"
+        ]
+    }, 
+    "Sherrod Brown": {
+        "state": "Ohio", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Banking, Housing, and Urban Affairs", 
+            "Finance", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Patty Murray": {
+        "state": "Washington", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget, Chairman", 
+            "Health, Education, Labor, and Pensions", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Brian Schatz": {
+        "state": "Hawaii", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Richard C. Shelby": {
+        "state": "Alabama", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Banking, Housing, and Urban Affairs", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Maria Cantwell": {
+        "state": "Washington", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation", 
+            "Energy and Natural Resources", 
+            "Finance", 
+            "Small Business and Entrepreneurship, Chairman"
+        ]
+    }, 
+    "John Barrasso": {
+        "state": "Wyoming", 
+        "committee_assignments": [
+            "Energy and Natural Resources", 
+            "Environment and Public Works", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Mark L. Pryor": {
+        "state": "Arkansas", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Commerce, Science, and Transportation", 
+            "Homeland Security and Governmental Affairs", 
+            "Rules and Administration", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Daniel Coats": {
+        "state": "Indiana", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Commerce, Science, and Transportation"
+        ]
+    }, 
+    "Cory A. Booker": {
+        "state": "New Jersey", 
+        "committee_assignments": [
+            "Commerce, Science, and Transportation", 
+            "Environment and Public Works", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Johnny Isakson": {
+        "state": "Georgia", 
+        "committee_assignments": [
+            "Finance", 
+            "Health, Education, Labor, and Pensions", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Patrick J. Toomey": {
+        "state": "Pennsylvania", 
+        "committee_assignments": [
+            "Banking, Housing, and Urban Affairs", 
+            "Budget", 
+            "Finance"
+        ]
+    }, 
+    "Roy Blunt": {
+        "state": "Missouri", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Armed Services", 
+            "Commerce, Science, and Transportation", 
+            "Rules and Administration"
+        ]
+    }, 
+    "John Boozman": {
+        "state": "Arkansas", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Appropriations", 
+            "Environment and Public Works", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Mark Kirk": {
+        "state": "Illinois", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Banking, Housing, and Urban Affairs", 
+            "Health, Education, Labor, and Pensions"
+        ]
+    }, 
+    "Orrin G. Hatch": {
+        "state": "Utah", 
+        "committee_assignments": [
+            "Finance", 
+            "Health, Education, Labor, and Pensions", 
+            "Judiciary"
+        ]
+    }, 
+    "Tom Udall": {
+        "state": "New Mexico", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Environment and Public Works", 
+            "Foreign Relations", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Jack Reed": {
+        "state": "Rhode Island", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Armed Services", 
+            "Banking, Housing, and Urban Affairs"
+        ]
+    }, 
+    "Mitch McConnell": {
+        "state": "Kentucky", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Appropriations", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Mark Udall": {
+        "state": "Colorado", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Roger F. Wicker": {
+        "state": "Mississippi", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Commerce, Science, and Transportation", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "Al Franken": {
+        "state": "Minnesota", 
+        "committee_assignments": [
+            "Energy and Natural Resources", 
+            "Health, Education, Labor, and Pensions", 
+            "Judiciary"
+        ]
+    }, 
+    "John E. Walsh": {
+        "state": "Montana", 
+        "committee_assignments": [
+            "Agriculture, Nutrition, and Forestry", 
+            "Commerce, Science, and Transportation", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Kay R. Hagan": {
+        "state": "North Carolina", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Banking, Housing, and Urban Affairs", 
+            "Health, Education, Labor, and Pensions", 
+            "Small Business and Entrepreneurship"
+        ]
+    }, 
+    "Christopher A. Coons": {
+        "state": "Delaware", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Budget", 
+            "Foreign Relations", 
+            "Judiciary"
+        ]
+    }, 
+    "James M. Inhofe": {
+        "state": "Oklahoma", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "Jeff Sessions": {
+        "state": "Alabama", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Environment and Public Works", 
+            "Judiciary"
+        ]
+    }, 
+    "Richard J. Durbin": {
+        "state": "Illinois", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Foreign Relations", 
+            "Judiciary", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Susan M. Collins": {
+        "state": "Maine", 
+        "committee_assignments": [
+            "Appropriations"
+        ]
+    }, 
+    "Richard Blumenthal": {
+        "state": "Connecticut", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Commerce, Science, and Transportation", 
+            "Judiciary", 
+            "Veterans' Affairs"
+        ]
+    }
+}
