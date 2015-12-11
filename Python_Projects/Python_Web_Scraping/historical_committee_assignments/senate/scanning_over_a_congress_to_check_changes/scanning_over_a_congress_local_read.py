@@ -47,77 +47,37 @@ def _get_date_from_url(url):
 
 
 def scan_on_a_congress_number(congress_number):
-	years = _get_years(congress_number)
-	months = range(1,13)
-	days = range(1,31)
-	
-	urls = []
+	with open ('scan_on_112_congress_local_data.JSON') as data:
+		all_committee_assignment_data = json.load(data)
 
-	for year in years:
-		for month in months:
-			for day in days:
-				url = _get_url(year, month, day)
-				urls.append(url)
-
-	print '****** Finished creating all urls'
-
-	soups = []
-	valid_dates = []
-	for url in urls:
-		try:
-			soup = _get_soup(url)
-			soups.append(soup)
-			date = _get_date_from_url(url)
-			valid_dates.append(date)
-		except urllib2.HTTPError:
-			print 'HTTPError occurred at ' + url
-		except:
-			print '**** An unexpect error occurred at ' + url
-			raise
-
-	print '****** Finshied downloading all htmls'
-
-	all_committee_assignment_data = []
-	for soup in soups:
-		committee_assignment_data = _get_committee_assignments(soup)
-		all_committee_assignment_data.append(committee_assignment_data)
-
-	print '****** Finished fetching all committee assignment data'
-
+	with open ('valid_dates.JSON') as data:
+		valid_dates = json.load(data)
 
 	result = {}
 	for index in range (0, len(all_committee_assignment_data)):
 		members = all_committee_assignment_data[index]
+		# keys are basically all the display_name of the members in the members json data
 		keys = members.keys()
 		for key in keys:
 			if result.has_key(key):
-				for committee_assignment_name in member[key]['committee_assignments']:
-					result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = valid_dates[index]
+				for committee_assignment_name in members[key]['committee_assignments']:
+					if result[key]['committee_assignments'].has_key(committee_assignment_name):
+						result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = valid_dates[index]
+					else:
+						result[key]['committee_assignments'][committee_assignment_name] = {}
+						result[key]['committee_assignments'][committee_assignment_name]['start_date'] = valid_dates[index]
+						result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = valid_dates[index]
 			else:
+				# if a member has not been added to the result yet, we create an element for him/her
 				result[key]={}
-				result[key]['state'] = member[key]['state']
+				result[key]['state'] = members[key]['state']
 				result[key]['committee_assignments'] = {}
-				for committee_assignment_name in member[key]['committee_assignments']:
+				for committee_assignment_name in members[key]['committee_assignments']:
 					result[key]['committee_assignments'][committee_assignment_name] = {}
 					result[key]['committee_assignments'][committee_assignment_name]['start_date'] = valid_dates[index]
-
+					result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = valid_dates[index]
 	print 'finished parsing all data'
 	return result
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 def _get_committee_assignments(soup):
@@ -164,7 +124,7 @@ def _get_committee_assignments(soup):
 
 def _is_meaningful_line(line):
 	line = line.replace('_','').strip()
-	black_list = ['COMMITTEE ASSIGNMENTS','STANDING COMMITTEES']
+	black_list = ['COMMITTEE ASSIGNMENTS','STANDING COMMITTEES',',']
 	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list) or (re.search('Room',line)!=None):
 		# lines that include brackets are usually only for
 		# page number, date of document and source of data
@@ -202,7 +162,6 @@ def _get_state(member_line):
 
 def _get_role(member_line):
 	# Barbara A. Mikulski, of Maryland, Chairman
-	# Barbara A. Mikulski, of Maryland
 	if len(member_line.split(', of ')[1].split(', ')) == 2:
 		return member_line.split(', of ')[1].split(', ')[1]
 	elif len(member_line.split(', of ')[1].split(', ')) == 1:
@@ -215,6 +174,6 @@ def _get_role(member_line):
 
 
 if __name__ == '__main__':
-	date = scan_on_a_congress_number(112)
+	data = scan_on_a_congress_number(112)
 	with open('scan_on_112_congress.JSON','w') as outfile:
 		json.dump(data, outfile, indent=4)
