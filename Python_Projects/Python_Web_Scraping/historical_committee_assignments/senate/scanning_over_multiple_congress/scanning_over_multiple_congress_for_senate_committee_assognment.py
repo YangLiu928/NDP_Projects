@@ -12,6 +12,9 @@ def _get_soup(url):
     return BeautifulSoup(response.read(), 'lxml')
 
 def _get_url(year, month, day):
+	# The web pages for each of the senate commitee assignment follows
+	# a certain pattern, where the paramters include congress, year, month and day
+	# the congress can be reversely calculated from the year
 	congress_number = str(_get_congress_number(year))
 	year = str(year)
 	month = str(month).zfill(2)
@@ -21,10 +24,14 @@ def _get_url(year, month, day):
 	return url
 
 def _get_years(congress_number):
-	# linear algebra
+	# linear algebra that maps a congress_number into the two years it covers
 	return [2*congress_number + 1787,2*congress_number + 1788]
 
 def _get_congress_number(year):
+	# this function is intended to calculate the congress_number
+	# from a year that it represents. This is bascially the reverse
+	# function of _get_years, where the only minor attention needed 
+	# is to determine whether the year is an even or odd number
 	if year%2==1:
 		return (year-1787)/2
 	else:
@@ -32,15 +39,20 @@ def _get_congress_number(year):
 
 def _is_valid_page(soup):
 	# this function is intended to check whether the url from which the soup
-	# was generated was a valid url that displays senate committee assignments
+	# was generated was a valid url that displays senate committee assignments.
+	# if an invalid url was used, either the _get_soup function raise an HTTPError
+	# or we reach a page where "Error Detected - The page you requested cannot be found."
+	# is displayed. This function here is therefore not mandatorily required but instead 
+	# recommended just in case we miss anything
 	text = soup.text
-	# 
 	if re.search('Error Detected - The page you requested cannot be found.',text):
 		return False
 	else:
 		return True
 
 def _get_date_from_url(url):
+	# this function is needed in order to extract the date when the committee assignment
+	# web page was published. the date can be directly inferred from the url
 	base_index = url.find('scal-')
 	# year = url[base_index+5:base_index+9]
 	# month = url[base_index+10:base_index+12]
@@ -48,14 +60,20 @@ def _get_date_from_url(url):
 	return url[base_index+5:base_index+15]
 
 def _get_committee_assignments(soup):
+	# this function is intenede to parse the HTML of a webpage that displays the senate
+	# committee assignment, and return it as a dictionary where the display_name of a 
+	# member is used as the key. The contents included in each member include state (full state name),
+	# and a list of committee assignments, where within the committee assignments regular and chairman
+	# memberships are treated separately
 	text = soup.find('pre').text
 	lines = text.split('\n')
+
 	results = {}
 	member = ''
 	current_committee_assignment = ''
 	for line in lines:
+		# we only look at lines that displays either a committee assignment or a member
 		if _is_meaningful_line(line):
-			# print line + ' is meaningful'
 			line_type = _get_line_type(line)
 			if line_type == 'member':
 				display_name = _get_display_name(line)
@@ -85,22 +103,44 @@ def _get_committee_assignments(soup):
 	return results
 
 def _is_meaningful_line(line):
+	# we want to do the replace because lines line the following is usually seen
+	# __________ , ________________
+	# _____________________________
+	# where there is essentially no information within the line
 	line = line.replace('_','').strip()
+
+	# this black list is basically the lines we already know that are not effective information
+	# but at the same time difficult to distinguish from a committee name which is also usually
+	# displayed as a string in all caps. the comma is basically the line of "_____ , ____" with 
+	# underscore replaced with an empty string
 	black_list = ['COMMITTEE ASSIGNMENTS','STANDING COMMITTEES',',']
-	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list) or (re.search('Room',line)!=None):
-		# lines that include brackets are usually only for
-		# page number, date of document and source of data
+
+	# total five conditions where the line contains no effective information:
+	# (1) lines that contains brackets [], because they are typically strings representing page numbers (e.g. "[[Page (6)]]")
+	# (2) lines that are basically an empty string after the strip() function, meaning the line was just a bunch of white space
+	# (3) lines that are in the black list we pre-defined
+	# (4) lines where the word "Room" appears. This is to exclude the titles under each committe assignments that states where and
+	# when a certain meeting will be held. This actually not needed because the function _get_line_type should return this as a None
+	# type line, but, again, this is just for completeness and ruling out anything that we already know we do not need
+	# (5) lines where, after replacing underscore with empty string and stripping, only one or multiple '\n' were left
+	# This is added because we still see some empty lines printed out from the _get_line_type function
+	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list) or (re.search('Room',line)!=None) or (line.find('\n')!=None):
 		return False
 	else:
 		# print line + ' is meaningful'
 		return True
 
 def _get_line_type(line):
+	# this function is intended to return whether the current line we are working with is a line
+	# that contains committee assignment information or a specific member's identify
 	line = line.strip()
+
+	# .upper() changes everything within a string to its upper-case counterpart
+	# if line.upper() == line, the entire line must originally be all in caps, which
+	# indicates this is a line that represents the committee assignment name of a new block
 	if line.upper() == line:
+		# this is just for degugging.....
 		print line + ' is an assignment' 
-		# the specific committee assignment name is displayed
-		# as a string all in capital words
 		return 'assignment'
 	elif re.search(', of ',line):
 		# name, of state_full_name(, Chairman) <== optional
