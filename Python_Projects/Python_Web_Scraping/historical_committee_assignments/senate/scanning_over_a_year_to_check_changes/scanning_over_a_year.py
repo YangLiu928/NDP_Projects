@@ -59,6 +59,8 @@ def scan_on_a_congress_number(congress_number):
 				url = _get_url(year, month, day)
 				urls.append(url)
 
+	print '****** Finished creating all urls'
+
 	soups = []
 	valid_dates = []
 	for url in urls:
@@ -73,11 +75,15 @@ def scan_on_a_congress_number(congress_number):
 			print '**** An unexpect error occurred at ' + url
 			raise
 
+	print '****** Finshied downloading all htmls'
 
 	all_committee_assignment_data = []
 	for soup in soups:
 		committee_assignment_data = _get_committee_assignments(soup)
 		all_committee_assignment_data.append(committee_assignment_data)
+
+	print '****** Finished fetching all committee assignment data'
+
 
 	result = {}
 	for index in range (0, len(all_committee_assignment_data)):
@@ -95,6 +101,7 @@ def scan_on_a_congress_number(congress_number):
 					result[key]['committee_assignments'][committee_assignment_name] = {}
 					result[key]['committee_assignments'][committee_assignment_name]['start_date'] = valid_dates[index]
 
+	print 'finished parsing all data'
 	return result
 
 
