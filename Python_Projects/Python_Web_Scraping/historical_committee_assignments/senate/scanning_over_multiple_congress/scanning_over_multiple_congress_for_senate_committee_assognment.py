@@ -140,12 +140,14 @@ def _get_line_type(line):
 	# indicates this is a line that represents the committee assignment name of a new block
 	if line.upper() == line:
 		# this is just for degugging.....
-		print line + ' is an assignment' 
+		# print line + ' is an assignment' 
 		return 'assignment'
 	elif re.search(', of ',line):
 		# name, of state_full_name(, Chairman) <== optional
 		return 'member'
 	else:
+		# The following lines prints out the lines that are not recognized as either a name or an assignment
+		# this is mainly for debugging purpose to make sure no important information was overlooked
 		print 'the following line was not recognized as either assignment or member'
 		print line
 		print '\n'
@@ -167,6 +169,9 @@ def _get_role(member_line):
 	elif len(member_line.split(', of ')[1].split(', ')) == 1:
 		return 'member'
 	else:
+		# this prints out the lines where members' role in the committee was not recognized
+		# This is mainly for making sure we do not overlook any line that contains important
+		# information
 		print 'cannot extract role from the follow line'
 		print member_line
 		print '\n'
@@ -178,14 +183,13 @@ def scan_on_a_congress_number(congress_number):
 	days = range(1,31)
 	
 	urls = []
-
 	for year in years:
 		for month in months:
 			for day in days:
 				url = _get_url(year, month, day)
 				urls.append(url)
 
-	print '****** Finished creating all urls'
+	print '****** Finished creating all urls for congress ' + str(congress_number)
 
 	soups = []
 	valid_dates = []
@@ -206,15 +210,14 @@ def scan_on_a_congress_number(congress_number):
 			raise
 			continue
 
-
-	print '****** Finshied downloading all htmls'
+	print '****** Finshied downloading all htmls for congress' + str(congress_number)
 
 	all_committee_assignment_data = []
 	for soup in soups:
 		committee_assignment_data = _get_committee_assignments(soup)
 		all_committee_assignment_data.append(committee_assignment_data)
 
-	print '****** Finished fetching all committee assignment data'
+	print '****** Finished fetching all committee assignment data for congress ' + str(congress_number)
 
 	# with open('scan_on_112_congress_local_data.JSON','w') as outfile:
 	# 	json.dump(all_committee_assignment_data, outfile, indent=4)
@@ -228,8 +231,16 @@ def scan_on_a_congress_number(congress_number):
 		# keys are basically all the display_name of the members in the members json data
 		keys = members.keys()
 		for key in keys:
+			# we need to scan over all keys within an element from the all_committee_assignment_data dictionary
 			if result.has_key(key):
+				# if a key is already in the result dictionary, it means that this member appearred in previous 
+				# all_committee_assignment_data element, what we need to do here is to update the 'last_seen_date'
+				# which is within the committee_assignments field
 				for committee_assignment_name in members[key]['committee_assignments']:
+					# when updating the 'last_seen_date', we need to the consider two situations
+					# (1) when the member is continuing servicing the same committee assignment
+					# (2) when the member has received a new committee assignment, where we need to create an entry for this 
+					# new committee assignment before we update the 'last_seen_date' (like an initialization)
 					if result[key]['committee_assignments'].has_key(committee_assignment_name):
 						result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = valid_dates[index]
 					else:
@@ -238,6 +249,7 @@ def scan_on_a_congress_number(congress_number):
 						result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = valid_dates[index]
 			else:
 				# if a member has not been added to the result yet, we create an element for him/her
+				# this is basically an initialization
 				result[key]={}
 				result[key]['state'] = members[key]['state']
 				result[key]['committee_assignments'] = {}
@@ -245,11 +257,38 @@ def scan_on_a_congress_number(congress_number):
 					result[key]['committee_assignments'][committee_assignment_name] = {}
 					result[key]['committee_assignments'][committee_assignment_name]['start_date'] = valid_dates[index]
 					result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = valid_dates[index]
-	print 'finished parsing all data'
+	# print 'finished parsing all data'
+	return result
+
+def scan_on_multiple_congress_number(starting_congress, ending_congress):
+	# this function is intended to fetch and parse senate committee assignment data
+	# over certain congresses, and keep track of the service time frame of the committee assignment
+	# of each senate member. This approach is not perfect in that it only keeps track of the first 
+	# and last seen date of a commitee assignment for a member, and therefore if a member leaves a
+	# committee for a period of time and then returned, what we saw would be 'he was in the committee'
+	# for the whole time', which is not exactly true
+	result = {}
+	for congress_number in range (starting_congress,ending_congress+1):
+		data = scan_on_a_congress_number(congress_number)
+		for key in data.keys():
+			if result.has_key(key):
+				for committee_assignment_name in data[key]['committee_assignments']:
+					if result[key]['committee_assignments'].has_key(committee_assignment_name):
+						result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = \
+						data[key]['committee_assignments'][committee_assignment_name]['last_seen_date']
+					else:
+						# this one liner basically does what it does with the three lines that were commented out
+						result[key]['committee_assignments'][committee_assignment_name] = data[key]['committee_assignments'][committee_assignment_name]
+						# result[key]['committee_assignments'][committee_assignment_name] = {}
+						# result[key]['committee_assignments'][committee_assignment_name]['start_date'] = data[key]['committee_assignments'][committee_assignment_name]['start_date']
+						# result[key]['committee_assignments'][committee_assignment_name]['last_seen_date'] = data[key]['committee_assignments'][committee_assignment_name]['last_seen_date']
+			else:
+				result[key] = data[key]
 	return result
 
 
+
 if __name__ == '__main__':
-	date = scan_on_a_congress_number(112)
-	with open('scan_on_112_congress.JSON','w') as outfile:
+	data = scan_on_multiple_congress_number(112,114)	
+	with open('scan_on_112_to_114_congress.JSON','w') as outfile:
 		json.dump(data, outfile, indent=4)
