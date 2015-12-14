@@ -2,7 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db3bda75-c727-4efd-82da-437e6c78cd81" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping_to_JSON.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping_to_JSON.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_a_congress_to_check_changes/scan_on_112_congress.JSON" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_a_congress_to_check_changes/scan_on_112_congress_local_data.JSON" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_a_congress_to_check_changes/scanning_over_a_congress_local_read.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_a_congress_to_check_changes/scanning_over_a_congress_local_save.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_a_congress_to_check_changes/valid_dates.JSON" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_multiple_congress/scanning_over_multiple_congress_for_senate_committee_assognment.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/extract_from_pdf_106.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/extract_from_pdf_106.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/extract_from_pdf_107.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/extract_from_pdf_107.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/extract_from_pdf_108.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/extract_from_pdf_108.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/extract_from_pdf_109.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/extract_from_pdf_109.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/extract_from_pdf_110.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/extract_from_pdf_110.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/extract_from_pdf_111.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/extract_from_pdf_111.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/input/106.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/input/106.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/input/107.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/input/107.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/input/108.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/108.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/input/109.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/input/109.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/input/110.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/input/110.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/input/111.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/input/111.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/106_raw.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/106_raw.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/106_raw_but_looks_fine.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/106_raw_but_looks_fine.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/107_raw.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/107_raw.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/107_raw_but_looks_fine.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/107_raw_but_looks_fine.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/108_raw.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/108_raw.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/109_adjusted.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/109_adjusted.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/109_raw.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/109_raw.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/110_adjusted.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/110_adjusted.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/110_raw.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/110_raw.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/111_adjusted.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/111_adjusted.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/106-111/output/111_raw.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/output/111_raw.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/extract_from_txt.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/extract_from_txt.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/extract_from_txt_108.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/extract_from_txt_108.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/108.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/106-111/input/108.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/108.txt" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/108.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/108_hard_code.txt" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/108_hard_code.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/112.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/112.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/112.txt" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/112.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/113.pdf" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/113.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/113.txt" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/113.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/input/parse_108.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/input/parse_108.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/output/108.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/output/108.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/output/108_combined.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/output/108_combined.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/output/108_extras.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/output/108_extras.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/output/112.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/112.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/output/113(manually adjusted).JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/output/113(manually adjusted).JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/112-113/output/113.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/113.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/106.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/106.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/107.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/107.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/108.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/108.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/109.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/109.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/110.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/110.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/111.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/111.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/112.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/output/112.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/113.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/112-113/output/113.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/combine.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/combine.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/extract_text_from_PDF_prototype/historical_committee_assignments/committee_assignments_data/combined.JSON" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/house/committee_assignments_data/combined.JSON" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_a_year_to_check_changes/scanning_over_a_year.py" afterPath="$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/historical_committee_assignments/senate/scanning_over_a_congress_to_check_changes/scanning_over_a_congress.py" />
     </list>
     <ignored path="NDP_Projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +81,7 @@
       <file leaf-file-name="current_and_previous_committee_member_scraping.JSON" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.892858">
+            <state vertical-scroll-proportion="0.0">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <marker date="1448293596874" expanded="true" signature="6:259" placeholder="{&quot;id&quot;: &quot;A000009&quot;...}" />
@@ -39,7 +94,7 @@
       <file leaf-file-name="states.JSON" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/states.JSON">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87737477">
+            <state vertical-scroll-proportion="0.0">
               <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
               <folding />
             </state>
@@ -385,7 +440,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-194" y="282" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21218796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -425,6 +480,17 @@
     <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <marker date="1448293596874" expanded="true" signature="6:259" placeholder="{&quot;id&quot;: &quot;A000009&quot;...}" />
+            <marker date="1448293596874" expanded="true" signature="1284744:1284754" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1448293596874" expanded="true" signature="6:259" placeholder="{&quot;id&quot;: &quot;A000009&quot;...}" />
@@ -435,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/current_and_previous_committee_member_scraping.JSON">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.892858">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <marker date="1448293596874" expanded="true" signature="6:259" placeholder="{&quot;id&quot;: &quot;A000009&quot;...}" />
@@ -464,7 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Projects/Python_Web_Scraping/current_and_previous_committee_member_scraping/states.JSON">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87737477">
+        <state vertical-scroll-proportion="0.0">
           <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
           <folding />
         </state>

@@ -3,6 +3,8 @@ import lxml
 from bs4 import BeautifulSoup
 import re
 import urllib2
+import time
+import socket
 
 def _get_soup(url):
     # returns a beautiful soup object for further operations
@@ -194,6 +196,7 @@ def scan_on_a_congress_number(congress_number):
 	soups = []
 	valid_dates = []
 	for url in urls:
+		time.sleep(5)
 		try:
 			soup = _get_soup(url)
 			soups.append(soup)
@@ -289,6 +292,10 @@ def scan_on_multiple_congress_number(starting_congress, ending_congress):
 
 
 if __name__ == '__main__':
-	data = scan_on_multiple_congress_number(112,114)	
-	with open('scan_on_112_to_114_congress.JSON','w') as outfile:
+	# data = scan_on_multiple_congress_number(112,114)	
+	# with open('scan_on_112_to_114_congress.JSON','w') as outfile:
+		# json.dump(data, outfile, indent=4)
+
+	data = scan_on_a_congress_number(112)
+	with open('scan_on_112_congress.JSON','w') as outfile:
 		json.dump(data, outfile, indent=4)

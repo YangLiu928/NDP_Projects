@@ -1,0 +1,812 @@
+{
+    "Judd Gregg": {
+        "state": "New Hampshire", 
+        "committee_assignments": [
+            "Budget", 
+            "Appropriations", 
+            "Governmental Affairs", 
+            "Pensions"
+        ]
+    }, 
+    "Harry Reid": {
+        "state": "Nevada", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "William H. Frist": {
+        "state": "Tennessee", 
+        "committee_assignments": [
+            "Budget", 
+            "Transportation", 
+            "Foreign Relations", 
+            "Pensions"
+        ]
+    }, 
+    "Daniel Patrick Moynihan": {
+        "state": "New York", 
+        "committee_assignments": [
+            "Finance", 
+            "Environment and Public Works", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Fred Thompson": {
+        "state": "Tennessee", 
+        "committee_assignments": [
+            "Finance", 
+            "Governmental Affairs, Chairman"
+        ]
+    }, 
+    "Tim Johnson": {
+        "state": "South Dakota", 
+        "committee_assignments": [
+            "Forestry", 
+            "Budget", 
+            "Affairs", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Joseph R. Biden": {
+        "state": "Delaware", 
+        "committee_assignments": [
+            "Foreign Relations", 
+            "Judiciary"
+        ]
+    }, 
+    "Richard Durbin": {
+        "state": "Illinois", 
+        "committee_assignments": [
+            "Budget", 
+            "Appropriations", 
+            "Governmental Affairs"
+        ]
+    }, 
+    "Chuck Grassley": {
+        "state": "Iowa", 
+        "committee_assignments": [
+            "Forestry", 
+            "Budget", 
+            "Finance", 
+            "Judiciary"
+        ]
+    }, 
+    "Olympia J. Snowe": {
+        "state": "Maine", 
+        "committee_assignments": [
+            "Small Business"
+        ]
+    }, 
+    "Christopher S. Bond": {
+        "state": "Missouri", 
+        "committee_assignments": [
+            "Budget", 
+            "Appropriations", 
+            "Environment and Public Works", 
+            "Small Business, Chairman"
+        ]
+    }, 
+    "Don Nickles": {
+        "state": "Oklahoma", 
+        "committee_assignments": [
+            "Budget", 
+            "Affairs", 
+            "Energy and Natural Resources", 
+            "Finance", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Pete V. Domenici": {
+        "state": "New Mexico", 
+        "committee_assignments": [
+            "Budget, Chairman", 
+            "Appropriations", 
+            "Energy and Natural Resources", 
+            "Governmental Affairs"
+        ]
+    }, 
+    "Max Cleland": {
+        "state": "Georgia", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Transportation", 
+            "Governmental Affairs", 
+            "Small Business"
+        ]
+    }, 
+    "Robert Torricelli": {
+        "state": "New Jersey", 
+        "committee_assignments": [
+            "Governmental Affairs", 
+            "Foreign Relations", 
+            "Judiciary", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Edward M. Kennedy": {
+        "state": "Massachusetts", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Pensions", 
+            "Judiciary"
+        ]
+    }, 
+    "James M. Jeffords": {
+        "state": "Vermont", 
+        "committee_assignments": [
+            "Finance", 
+            "Pensions, Chairman", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Spencer Abraham": {
+        "state": "Michigan", 
+        "committee_assignments": [
+            "Budget", 
+            "Transportation", 
+            "Judiciary", 
+            "Small Business"
+        ]
+    }, 
+    "Thad Cochran": {
+        "state": "Mississippi", 
+        "committee_assignments": [
+            "Forestry", 
+            "Appropriations", 
+            "Governmental Affairs", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Pat Roberts": {
+        "state": "Kansas", 
+        "committee_assignments": [
+            "Forestry", 
+            "Armed Services"
+        ]
+    }, 
+    "Rick Santorum": {
+        "state": "Pennsylvania", 
+        "committee_assignments": [
+            "Forestry", 
+            "Armed Services", 
+            "Affairs", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Thomas A. Daschle": {
+        "state": "South Dakota", 
+        "committee_assignments": [
+            "Forestry"
+        ]
+    }, 
+    "Ron Wyden": {
+        "state": "Oregon", 
+        "committee_assignments": [
+            "Budget", 
+            "Transportation", 
+            "Energy and Natural Resources", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "Lincoln Chafee": {
+        "state": "Rhode Island", 
+        "committee_assignments": [
+            "Environment and Public Works", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Barbara A. Mikulski": {
+        "state": "Maryland", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Pensions"
+        ]
+    }, 
+    "Jim Bunning": {
+        "state": "Kentucky", 
+        "committee_assignments": [
+            "Affairs", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Charles S. Robb": {
+        "state": "Virginia", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Finance"
+        ]
+    }, 
+    "John D. Rockefeller IV": {
+        "state": "West Virginia", 
+        "committee_assignments": [
+            "Transportation", 
+            "Finance", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Mary L. Landrieu": {
+        "state": "Louisiana", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Energy and Natural Resources", 
+            "Small Business"
+        ]
+    }, 
+    "Joseph I. Lieberman": {
+        "state": "Connecticut", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Governmental Affairs", 
+            "Environment and Public Works", 
+            "Small Business"
+        ]
+    }, 
+    "John Edwards": {
+        "state": "North Carolina", 
+        "committee_assignments": [
+            "Affairs", 
+            "Governmental Affairs", 
+            "Small Business"
+        ]
+    }, 
+    "Kent Conrad": {
+        "state": "North Dakota", 
+        "committee_assignments": [
+            "Forestry", 
+            "Budget", 
+            "Finance"
+        ]
+    }, 
+    "Peter G. Fitzgerald": {
+        "state": "Illinois", 
+        "committee_assignments": [
+            "Forestry", 
+            "Energy and Natural Resources", 
+            "Small Business"
+        ]
+    }, 
+    "William V. Roth, Jr.": {
+        "state": "Delaware", 
+        "committee_assignments": [
+            "Finance, Chairman", 
+            "Governmental Affairs"
+        ]
+    }, 
+    "Carl Levin": {
+        "state": "Michigan", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Governmental Affairs", 
+            "Small Business"
+        ]
+    }, 
+    "Robert F. Bennett": {
+        "state": "Utah", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Affairs", 
+            "Environment and Public Works", 
+            "Small Business"
+        ]
+    }, 
+    "Dianne Feinstein": {
+        "state": "California", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Judiciary", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Charles E. Schumer": {
+        "state": "New York", 
+        "committee_assignments": [
+            "Affairs", 
+            "Judiciary", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Chuck Hagel": {
+        "state": "Nebraska", 
+        "committee_assignments": [
+            "Affairs", 
+            "Foreign Relations", 
+            "Pensions"
+        ]
+    }, 
+    "Jeff Bingaman": {
+        "state": "New Mexico", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Energy and Natural Resources", 
+            "Pensions"
+        ]
+    }, 
+    "Patrick J. Leahy": {
+        "state": "Vermont", 
+        "committee_assignments": [
+            "Forestry", 
+            "Appropriations", 
+            "Judiciary"
+        ]
+    }, 
+    "J. Robert Kerrey": {
+        "state": "Nebraska", 
+        "committee_assignments": [
+            "Forestry", 
+            "Finance"
+        ]
+    }, 
+    "John Warner": {
+        "state": "Virginia", 
+        "committee_assignments": [
+            "Armed Services, Chairman", 
+            "Environment and Public Works", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Barbara Boxer": {
+        "state": "California", 
+        "committee_assignments": [
+            "Budget", 
+            "Environment and Public Works", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Paul D. Wellstone": {
+        "state": "Minnesota", 
+        "committee_assignments": [
+            "Foreign Relations", 
+            "Pensions", 
+            "Small Business", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Rod Grams": {
+        "state": "Minnesota", 
+        "committee_assignments": [
+            "Budget", 
+            "Affairs", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Connie Mack": {
+        "state": "Florida", 
+        "committee_assignments": [
+            "Affairs", 
+            "Finance"
+        ]
+    }, 
+    "John F. Kerry": {
+        "state": "Massachusetts", 
+        "committee_assignments": [
+            "Affairs", 
+            "Transportation", 
+            "Foreign Relations", 
+            "Small Business"
+        ]
+    }, 
+    "Blanche L. Lincoln": {
+        "state": "Arkansas", 
+        "committee_assignments": [
+            "Forestry", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Frank R. Lautenberg": {
+        "state": "New Jersey", 
+        "committee_assignments": [
+            "Budget", 
+            "Appropriations", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "John McCain": {
+        "state": "Arizona", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Transportation, Chairman"
+        ]
+    }, 
+    "Evan Bayh": {
+        "state": "Indiana", 
+        "committee_assignments": [
+            "Affairs", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "John B. Breaux": {
+        "state": "Louisiana", 
+        "committee_assignments": [
+            "Transportation", 
+            "Finance"
+        ]
+    }, 
+    "Strom Thurmond": {
+        "state": "South Carolina", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Judiciary", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Richard H. Bryan": {
+        "state": "Nevada", 
+        "committee_assignments": [
+            "Affairs", 
+            "Transportation", 
+            "Finance"
+        ]
+    }, 
+    "Mike DeWine": {
+        "state": "Ohio", 
+        "committee_assignments": [
+            "Pensions", 
+            "Judiciary"
+        ]
+    }, 
+    "Trent Lott": {
+        "state": "Mississippi", 
+        "committee_assignments": [
+            "Transportation", 
+            "Finance", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Ted Stevens": {
+        "state": "Alaska", 
+        "committee_assignments": [
+            "Appropriations, Chairman", 
+            "Transportation", 
+            "Governmental Affairs", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Arlen Specter": {
+        "state": "Pennsylvania", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Governmental Affairs", 
+            "Judiciary", 
+            "Veterans' Affairs, Chairman"
+        ]
+    }, 
+    "Tim Hutchinson": {
+        "state": "Arkansas", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Pensions", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Jesse Helms": {
+        "state": "North Carolina", 
+        "committee_assignments": [
+            "Forestry", 
+            "Foreign Relations, Chairman", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Russell D. Feingold": {
+        "state": "Wisconsin", 
+        "committee_assignments": [
+            "Budget", 
+            "Foreign Relations", 
+            "Judiciary"
+        ]
+    }, 
+    "Ernest F. Hollings": {
+        "state": "South Carolina", 
+        "committee_assignments": [
+            "Budget", 
+            "Appropriations", 
+            "Transportation"
+        ]
+    }, 
+    "Paul S. Sarbanes": {
+        "state": "Maryland", 
+        "committee_assignments": [
+            "Budget", 
+            "Affairs", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Tom Harkin": {
+        "state": "Iowa", 
+        "committee_assignments": [
+            "Forestry", 
+            "Appropriations", 
+            "Pensions", 
+            "Small Business"
+        ]
+    }, 
+    "Olympia Snowe": {
+        "state": "Maine", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Budget", 
+            "Transportation"
+        ]
+    }, 
+    "Conrad R. Burns": {
+        "state": "Montana", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Transportation", 
+            "Energy and Natural Resources", 
+            "Small Business"
+        ]
+    }, 
+    "Patty Murray": {
+        "state": "Washington", 
+        "committee_assignments": [
+            "Budget", 
+            "Appropriations", 
+            "Pensions", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "John Ashcroft": {
+        "state": "Missouri", 
+        "committee_assignments": [
+            "Transportation", 
+            "Foreign Relations", 
+            "Judiciary"
+        ]
+    }, 
+    "Larry E. Craig": {
+        "state": "Idaho", 
+        "committee_assignments": [
+            "Forestry", 
+            "Appropriations", 
+            "Energy and Natural Resources", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Craig Thomas": {
+        "state": "Wyoming", 
+        "committee_assignments": [
+            "Energy and Natural Resources", 
+            "Environment and Public Works", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Richard C. Shelby": {
+        "state": "Alabama", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Affairs"
+        ]
+    }, 
+    "Richard G. Lugar": {
+        "state": "Indiana", 
+        "committee_assignments": [
+            "Forestry, Chairman", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Wayne Allard": {
+        "state": "Colorado", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Affairs"
+        ]
+    }, 
+    "Bob Graham": {
+        "state": "Florida", 
+        "committee_assignments": [
+            "Energy and Natural Resources", 
+            "Finance", 
+            "Environment and Public Works", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Slade Gorton": {
+        "state": "Washington", 
+        "committee_assignments": [
+            "Budget", 
+            "Appropriations", 
+            "Transportation", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Michael D. Crapo": {
+        "state": "Idaho", 
+        "committee_assignments": [
+            "Affairs", 
+            "Environment and Public Works", 
+            "Small Business"
+        ]
+    }, 
+    "Phil Gramm": {
+        "state": "Texas", 
+        "committee_assignments": [
+            "Budget", 
+            "Affairs, Chairman", 
+            "Finance"
+        ]
+    }, 
+    "Herb Kohl": {
+        "state": "Wisconsin", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Judiciary"
+        ]
+    }, 
+    "Gordon H. Smith": {
+        "state": "Oregon", 
+        "committee_assignments": [
+            "Forestry", 
+            "Budget", 
+            "Energy and Natural Resources", 
+            "Foreign Relations"
+        ]
+    }, 
+    "Daniel K. Akaka": {
+        "state": "Hawaii", 
+        "committee_assignments": [
+            "Energy and Natural Resources", 
+            "Governmental Affairs", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Robert C. Byrd": {
+        "state": "West Virginia", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Appropriations", 
+            "Rules and Administration"
+        ]
+    }, 
+    "George V. Voinovich": {
+        "state": "Ohio", 
+        "committee_assignments": [
+            "Forestry", 
+            "Governmental Affairs", 
+            "Environment and Public Works", 
+            "Small Business"
+        ]
+    }, 
+    "Frank H. Murkowski": {
+        "state": "Alaska", 
+        "committee_assignments": [
+            "Energy and Natural Resources, Chairman", 
+            "Finance", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Max Baucus": {
+        "state": "Montana", 
+        "committee_assignments": [
+            "Forestry", 
+            "Finance", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "Bob Smith": {
+        "state": "New Hampshire", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Environment and Public Works, Chairman", 
+            "Judiciary"
+        ]
+    }, 
+    "Sam Brownback": {
+        "state": "Kansas", 
+        "committee_assignments": [
+            "Transportation", 
+            "Foreign Relations", 
+            "Pensions"
+        ]
+    }, 
+    "Kay Bailey Hutchison": {
+        "state": "Texas", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Transportation", 
+            "Environment and Public Works", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Orrin G. Hatch": {
+        "state": "Utah", 
+        "committee_assignments": [
+            "Finance", 
+            "Judiciary, Chairman"
+        ]
+    }, 
+    "Daniel K. Inouye": {
+        "state": "Hawaii", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Transportation", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Ben Nighthorse Campbell": {
+        "state": "Colorado", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Energy and Natural Resources", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Jon Kyl": {
+        "state": "Arizona", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Judiciary"
+        ]
+    }, 
+    "Jack Reed": {
+        "state": "Rhode Island", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Affairs", 
+            "Pensions"
+        ]
+    }, 
+    "Mitch McConnell": {
+        "state": "Kentucky", 
+        "committee_assignments": [
+            "Forestry", 
+            "Appropriations", 
+            "Rules and Administration, Chairman"
+        ]
+    }, 
+    "Christopher J. Dodd": {
+        "state": "Connecticut", 
+        "committee_assignments": [
+            "Affairs", 
+            "Foreign Relations", 
+            "Pensions", 
+            "Rules and Administration"
+        ]
+    }, 
+    "Zell Miller": {
+        "state": "Georgia", 
+        "committee_assignments": [
+            "Forestry", 
+            "Affairs", 
+            "Veterans' Affairs"
+        ]
+    }, 
+    "Michael B. Enzi": {
+        "state": "Wyoming", 
+        "committee_assignments": [
+            "Affairs", 
+            "Pensions", 
+            "Small Business"
+        ]
+    }, 
+    "James M. Inhofe": {
+        "state": "Oklahoma", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Environment and Public Works"
+        ]
+    }, 
+    "Byron L. Dorgan": {
+        "state": "North Dakota", 
+        "committee_assignments": [
+            "Appropriations", 
+            "Transportation", 
+            "Energy and Natural Resources"
+        ]
+    }, 
+    "Jeff Sessions": {
+        "state": "Alabama", 
+        "committee_assignments": [
+            "Armed Services", 
+            "Pensions", 
+            "Judiciary"
+        ]
+    }, 
+    "Susan M. Collins": {
+        "state": "Maine", 
+        "committee_assignments": [
+            "Governmental Affairs", 
+            "Pensions"
+        ]
+    }
+}
