@@ -196,7 +196,7 @@ def scan_on_a_congress_number(congress_number):
 	soups = []
 	valid_dates = []
 	for url in urls:
-		time.sleep(5)
+		print 'trying to fetch html from ' + url
 		try:
 			soup = _get_soup(url)
 			soups.append(soup)
@@ -208,6 +208,20 @@ def scan_on_a_congress_number(congress_number):
 		except urllib2.URLError:
 			continue
 			# print 'URLError occurred at ' + url
+		except socket.error:
+			while True:
+				try:
+					print '****** trying to access again ' + url
+					time.sleep(5) 
+					soup = _get_soup(url)
+					soups.append(soup)
+					date = _get_date_from_url(url)
+					valid_dates.append(date)
+					print '****** re-accessing succeeded'
+					break
+				except:
+					print '***** re-accessing failed, will try again'
+					continue
 		except:
 			print '**** An unexpect error occurred at ' + url
 			raise
