@@ -10,7 +10,7 @@ def _get_soup(url):
     # returns a beautiful soup object for further operations
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-    response = opener.open(url)
+    response = opener.open(url,timeout = 6)
     return BeautifulSoup(response.read(), 'lxml')
 
 def _get_url(year, month, day):
@@ -197,35 +197,48 @@ def scan_on_a_congress_number(congress_number):
 	valid_dates = []
 	for url in urls:
 		print 'trying to fetch html from ' + url
-		try:
-			soup = _get_soup(url)
-			soups.append(soup)
-			date = _get_date_from_url(url)
-			valid_dates.append(date)
-		except urllib2.HTTPError:
-			continue
-			# print 'HTTPError occurred at ' + url
-		except urllib2.URLError:
-			continue
-			# print 'URLError occurred at ' + url
-		except socket.error:
-			while True:
-				try:
-					print '****** trying to access again ' + url
-					time.sleep(5) 
-					soup = _get_soup(url)
-					soups.append(soup)
-					date = _get_date_from_url(url)
-					valid_dates.append(date)
-					print '****** re-accessing succeeded'
-					break
-				except:
-					print '***** re-accessing failed, will try again'
-					continue
-		except:
-			print '**** An unexpect error occurred at ' + url
-			raise
-			continue
+		while True:
+			try:
+				soup = _get_soup(url)
+				soups.append(soup)
+				date = _get_date_from_url(url)
+				valid_dates.append(date)
+				break
+			except:
+				print 'failed to fetch html from ' + url
+				continue
+
+
+
+		# try:
+		# 	soup = _get_soup(url)
+		# 	soups.append(soup)
+		# 	date = _get_date_from_url(url)
+		# 	valid_dates.append(date)
+		# except urllib2.HTTPError:
+		# 	continue
+		# 	# print 'HTTPError occurred at ' + url
+		# except urllib2.URLError:
+		# 	continue
+		# 	# print 'URLError occurred at ' + url
+		# except socket.error:
+		# 	while True:
+		# 		try:
+		# 			print '****** trying to access again ' + url
+		# 			time.sleep(5) 
+		# 			soup = _get_soup(url)
+		# 			soups.append(soup)
+		# 			date = _get_date_from_url(url)
+		# 			valid_dates.append(date)
+		# 			print '****** re-accessing succeeded'
+		# 			break
+		# 		except:
+		# 			print '***** re-accessing failed, will try again'
+		# 			continue
+		# except:
+		# 	print '**** An unexpect error occurred at ' + url
+		# 	raise
+		# 	continue
 
 	print '****** Finshied downloading all htmls for congress' + str(congress_number)
 
@@ -303,13 +316,11 @@ def scan_on_multiple_congress_number(starting_congress, ending_congress):
 				result[key] = data[key]
 	return result
 
-
-
 if __name__ == '__main__':
-	# data = scan_on_multiple_congress_number(112,114)	
-	# with open('scan_on_112_to_114_congress.JSON','w') as outfile:
-		# json.dump(data, outfile, indent=4)
-
-	data = scan_on_a_congress_number(112)
-	with open('scan_on_112_congress.JSON','w') as outfile:
+	data = scan_on_multiple_congress_number(112,114)	
+	with open('scan_on_112_to_114_congress.JSON','w') as outfile:
 		json.dump(data, outfile, indent=4)
+
+	# data = scan_on_a_congress_number(112)
+	# with open('scan_on_112_congress.JSON','w') as outfile:
+	# 	json.dump(data, outfile, indent=4)
