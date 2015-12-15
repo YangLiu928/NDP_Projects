@@ -30,3 +30,15 @@ CREATE TABLE `lr_v1`.`lrt_legislator_served` (
 `update_by` varchar(30) DEFAULT NULL,
 KEY `idx_legislator_id` (`legislator_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `lr_v1`.`lrt_legislator_committee` (
+`legislator_id` varchar(20) DEFAULT NULL,
+`committee_cd` varchar(20) DEFAULT NULL,
+`position_cd` varchar(20) DEFAULT NULL,
+`valid_from_dt` datetime DEFAULT NULL,
+`valid_to_dt` datetime DEFAULT NULL,
+`insert_dt` datetime DEFAULT NULL,
+`update_dt` datetime DEFAULT NULL,
+`update_by` varchar(30) DEFAULT NULL,
+KEY `idx_legislator_id` (`legislator_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8

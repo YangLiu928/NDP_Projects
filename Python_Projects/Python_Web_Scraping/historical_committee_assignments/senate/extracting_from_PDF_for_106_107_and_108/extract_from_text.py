@@ -71,7 +71,7 @@ def _is_meaningful_line(line):
 	# type line, but, again, this is just for completeness and ruling out anything that we already know we do not need
 	# (5) lines where, after replacing underscore with empty string and stripping, only one or multiple '\n' were left
 	# This is added because we still see some empty lines printed out from the _get_line_type function
-	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list) or (re.search('Room',line)!=None):
+	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list):
 		return False
 	else:
 		# print line + ' is meaningful'
@@ -123,6 +123,7 @@ def _get_role(member_line):
 		print '\n'
 
 if __name__ == '__main__':
-	data = extract_from_text(107)
-	with open('output_107.json','w') as outfile:
+	congress_number = 108
+	data = extract_from_text(congress_number)
+	with open('output_{0}.json'.format(str(congress_number)),'w') as outfile:
 		json.dump(data,outfile,indent = 4)

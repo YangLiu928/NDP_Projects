@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import re
 import urllib2
 import time
-import socket
 
 def _get_soup(url):
     # returns a beautiful soup object for further operations
@@ -102,6 +101,8 @@ def _get_committee_assignments(soup):
 				print 'this line is neither a committe nor a member'
 				print line
 				print '\n'
+	# print 'results = '
+	# print results
 	return results
 
 def _is_meaningful_line(line):
@@ -126,7 +127,7 @@ def _is_meaningful_line(line):
 	# type line, but, again, this is just for completeness and ruling out anything that we already know we do not need
 	# (5) lines where, after replacing underscore with empty string and stripping, only one or multiple '\n' were left
 	# This is added because we still see some empty lines printed out from the _get_line_type function
-	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list) or (re.search('Room',line)!=None) or (line.find('\n')!=None):
+	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list):
 		return False
 	else:
 		# print line + ' is meaningful'
@@ -182,7 +183,7 @@ def _get_role(member_line):
 def scan_on_a_congress_number(congress_number):
 	years = _get_years(congress_number)
 	months = range(1,13)
-	days = range(1,31)
+	days = range(1,32)
 	
 	urls = []
 	for year in years:
@@ -203,9 +204,14 @@ def scan_on_a_congress_number(congress_number):
 				soups.append(soup)
 				date = _get_date_from_url(url)
 				valid_dates.append(date)
+				print 'successfully fetched html from ' + url
+				break
+			except urllib2.HTTPError:
+				print '404 occurred at ' + url
 				break
 			except:
 				print 'failed to fetch html from ' + url
+				# time.sleep(10)
 				continue
 
 
@@ -248,7 +254,6 @@ def scan_on_a_congress_number(congress_number):
 		all_committee_assignment_data.append(committee_assignment_data)
 
 	print '****** Finished fetching all committee assignment data for congress ' + str(congress_number)
-
 	# with open('scan_on_112_congress_local_data.JSON','w') as outfile:
 	# 	json.dump(all_committee_assignment_data, outfile, indent=4)
 
@@ -317,8 +322,8 @@ def scan_on_multiple_congress_number(starting_congress, ending_congress):
 	return result
 
 if __name__ == '__main__':
-	data = scan_on_multiple_congress_number(112,114)	
-	with open('scan_on_112_to_114_congress.JSON','w') as outfile:
+	data = scan_on_multiple_congress_number(109,114)	
+	with open('scan_on_109_to_114_congress.JSON','w') as outfile:
 		json.dump(data, outfile, indent=4)
 
 	# data = scan_on_a_congress_number(112)

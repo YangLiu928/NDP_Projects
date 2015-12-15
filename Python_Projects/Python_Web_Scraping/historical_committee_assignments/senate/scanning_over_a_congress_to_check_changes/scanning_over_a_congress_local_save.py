@@ -90,7 +90,7 @@ def _get_committee_assignments(soup):
 def _is_meaningful_line(line):
 	line = line.replace('_','').strip()
 	black_list = ['COMMITTEE ASSIGNMENTS','STANDING COMMITTEES',',']
-	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list) or (re.search('Room',line)!=None):
+	if (re.search('[\[\]]',line)!=None) or (line=='') or (line in black_list):
 		# lines that include brackets are usually only for
 		# page number, date of document and source of data
 		
@@ -140,7 +140,7 @@ def _get_role(member_line):
 def scan_on_a_congress_number(congress_number):
 	years = _get_years(congress_number)
 	months = range(1,13)
-	days = range(1,31)
+	days = range(1,32)
 	
 	urls = []
 
