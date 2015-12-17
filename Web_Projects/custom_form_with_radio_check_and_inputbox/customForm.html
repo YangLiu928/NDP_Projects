@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>custom form modal demo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="http://getbootstrap.com/dist/css/bootstrap.css" rel="stylesheet" type="text/css" />  
+<link href="http://eternicode.github.io/bootstrap-datepicker/bootstrap-datepicker/css/datepicker3.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h2>custom form modal</h2>
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open pop-up form</button>
+  <h3 id = "result"> You haven't entered any search criteria yet</h3>
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title text-center">Trade Vote Search</h4>
+          <p class = "text-center">Display votes matching the following criteria</p>
+        </div>
+        <div class="modal-body">
+          <div class="contaier row">
+            <!-- The following div is the left part of the pop-up -->
+            <div class= "col-xs-6" id="left-div">
+              <form role="form">
+                <label> Include votes from a specific period:</label>
+                <div class="radio">
+                  <label><input type="radio" name="period" checked="checked" value="allAvailable" >all available</label>
+                </div>
+                <div class="radio">
+                  <label>
+                    <input type="radio" name="period" value="dateRange">
+                    <div class = "row container">
+                      <span>date range from</span>
+                      <input type="text" placeholder = "start date" id ="start">
+                      <span>to</span>
+                      <input type="text" placeholder = "end date" id="end">
+                    </div>
+                  </label>
+                </div>
+                <div class="radio">
+                  <label class="dropdown" disabled>
+                    <input type="radio" name="period" value="congress">Congress
+                    <select id="congress">
+                      <option>114</option>
+                      <option>113</option>
+                      <option>112</option>
+                      <option>111</option>
+                    </select>
+                  </label>
+                </div>
+              </form>
+              <form role= "form">
+                <label> Include votes from:</label>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "from" value="Senate">Senate</label>
+                </div>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "from" value="House">House</label>
+                </div>
+              </form>
+              <form role = "form">
+                <label for="keywords">Include votes with the following in the title: </label>
+                <input type="text" class="form-control" id ="keywords">
+              </form>
+            </div>
+            <div class= "col-xs-6">
+              <form role= "form" name = "selectors">
+                <label> Include votes about:</label>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="Trade_Barrier">Trade Barrier</label>
+                </div>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="Trade_Subsidy">Trade Subsidy</label>
+                </div>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="Trade_Agreement">Trade Agreement</label>
+                </div>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="More">More</label>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button href = "#" type="button" class="btn btn-default" data-dismiss="modal" id = "search_button">Search</button>
+          <button href = "#" type="button" class="btn btn-default" data-dismiss="modal" id = "cancel_button">Cancel</button>
+        </div>
+      </div>      
+    </div>
+  </div>  
+</div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="http://eternicode.github.io/bootstrap-datepicker/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+  <script src="customForm.js">
+
+</script>
+
+</body>
+</html>
