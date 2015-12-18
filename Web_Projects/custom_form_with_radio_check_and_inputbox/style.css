@@ -1,3 +1,7 @@
+html * {
+	font-family: Verdana, Arial, sans-serif;
+}
+
 #myModal {
 top:20%;
 right:0%;
@@ -13,4 +17,8 @@ outline: none;
 		width:60%;
 	}
 
+}
+
+#left-div{
+	padding-left: 40px;
 }

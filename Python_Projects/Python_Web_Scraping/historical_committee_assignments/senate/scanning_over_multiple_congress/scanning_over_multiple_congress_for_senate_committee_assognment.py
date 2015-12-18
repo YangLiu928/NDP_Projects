@@ -383,7 +383,7 @@ def scan_on_a_congress_number(congress_number):
                 # this is basically an initialization
                 result[key] = {}
                 result[key]['state'] = members[key]['state']
-                result[key]['display_name'] = display_name
+                result[key]['display_name'] = members[key]['display_name']
                 result[key]['committee_assignments'] = {}
                 for committee_assignment_name in members[key]['committee_assignments']:
                     result[key]['committee_assignments'][committee_assignment_name] = {}
@@ -423,7 +423,7 @@ def scan_on_multiple_congress_number(starting_congress, ending_congress):
 
 if __name__ == '__main__':
     data = scan_on_multiple_congress_number(109, 114)
-    with open('scan_on_109_to_114_congress.JSON', 'w') as outfile:
+    with open('scan_on_109_to_114_congress_new.JSON', 'w') as outfile:
         json.dump(data, outfile, indent=4)
 
     # data = scan_on_a_congress_number(112)

@@ -52,9 +52,6 @@ $(document).ready(function(){
         } else {
             period = $("#congress").find(":selected").text();
         }
-        $("#start").val("");
-        $("#end").val("");
-        $("#congress").val("114");
 
 
         $("#result").html(
@@ -67,15 +64,31 @@ $(document).ready(function(){
 
 
     });
-	$("#cancel_button").click(function(){
-    	console.log("cancel button clicked");
-  	});
+	// $("#cancel_button").click(function(){
+ //        $("#start").val("");
+ //        $("#end").val("");
+ //        $("#congress").val("114");
+ //        $.each($("input[name='selectors']:checked"), function() {
+ //          $(this).removeAttr('checked');
+ //        });
+ //        $.each($("input[name='from']:checked"), function() {
+ //          $(this).removeAttr('checked');
+ //        });
+ //        $("#allAvailable").attr('checked') == 'checked';
+ //        console.log("cancel button clicked, all fields have been reset");        
+ //  	});
 	$("#myModal").on('hidden.bs.modal', function (e) {
-    //     console.log("modal closed. all fields have been rest");
-  		// $("#name").val("");
-    // 	$("#ID").val("");
-    // 	$("#congress").prop("checked",false);
-    //     $("#keywords").val("");
+        $("#start").val("");
+        $("#end").val("");
+        $("#congress").val("114");
+        $.each($("input[name='selectors']:checked"), function() {
+          $(this).removeAttr('checked');
+        });
+        $.each($("input[name='from']:checked"), function() {
+          $(this).removeAttr('checked');
+        });
+        $("#allAvailable").attr('checked') = 'checked';           
+        console.log("modal closed, all fields have been reset");        
 	})
     $("#myModal").keypress(function(e){
         if (e.which == '14'){

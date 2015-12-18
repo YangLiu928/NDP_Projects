@@ -1,0 +1,4416 @@
+{
+    "Mazie K. Hirono, HI": {
+        "state": "HI", 
+        "display_name": "Mazie K. Hirono", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2013-06-21", 
+                "last_seen_date": "2013-10-31"
+            }
+        }
+    }, 
+    "Judd Gregg, NH": {
+        "state": "NH", 
+        "display_name": "Judd Gregg", 
+        "committee_assignments": {
+            "Budget, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-09-23", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Budget": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Jerry Moran, KS": {
+        "state": "KS", 
+        "display_name": "Jerry Moran", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2011-05-12", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mitch McConnell, KY": {
+        "state": "KY", 
+        "display_name": "Mitch McConnell", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Herb Kohl, WI": {
+        "state": "WI", 
+        "display_name": "Herb Kohl", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Jeff Bingaman, NM": {
+        "state": "NM", 
+        "display_name": "Jeff Bingaman", 
+        "committee_assignments": {
+            "Energy and Natural Resources, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-03-10", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "Roy Blunt, MO": {
+        "state": "MO", 
+        "display_name": "Roy Blunt", 
+        "committee_assignments": {
+            "Rules and Administration, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Appropriations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "William M. Cowen, MA": {
+        "state": "MA", 
+        "display_name": "William M. Cowen", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2013-02-13", 
+                "last_seen_date": "2013-02-13"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-02-13", 
+                "last_seen_date": "2013-02-13"
+            }
+        }
+    }, 
+    "Pat Roberts, KS": {
+        "state": "KS", 
+        "display_name": "Pat Roberts", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Agriculture, Nutrition, and Forestry, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-08"
+            }
+        }
+    }, 
+    "Steve Daines, MT": {
+        "state": "MT", 
+        "display_name": "Steve Daines", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Ben Sasse, NB": {
+        "state": "NB", 
+        "display_name": "Ben Sasse", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Orrin G. Hatch, UT": {
+        "state": "UT", 
+        "display_name": "Orrin G. Hatch", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Finance, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Barack Obama, IL": {
+        "state": "IL", 
+        "display_name": "Barack Obama", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-11-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-11-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-11-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-11-17"
+            }
+        }
+    }, 
+    "Jon Tester, MT": {
+        "state": "MT", 
+        "display_name": "Jon Tester", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Richard G. Lugar, IN": {
+        "state": "IN", 
+        "display_name": "Richard G. Lugar", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Foreign Relations, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Chuck Hagel, NB": {
+        "state": "NB", 
+        "display_name": "Chuck Hagel", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Carte P. Goodwin, WV": {
+        "state": "WV", 
+        "display_name": "Carte P. Goodwin", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2010-07-26", 
+                "last_seen_date": "2010-11-15"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2010-07-26", 
+                "last_seen_date": "2010-11-15"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-07-26", 
+                "last_seen_date": "2010-11-15"
+            }, 
+            "Budget": {
+                "start_date": "2010-07-26", 
+                "last_seen_date": "2010-11-15"
+            }
+        }
+    }, 
+    "Jack Reed, RI": {
+        "state": "RI", 
+        "display_name": "Jack Reed", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "James M. Inhofe, OK": {
+        "state": "OK", 
+        "display_name": "James M. Inhofe", 
+        "committee_assignments": {
+            "Environment and Public Works, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2009-07-22", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-01-08"
+            }
+        }
+    }, 
+    "Saxby Chambliss, GA": {
+        "state": "GA", 
+        "display_name": "Saxby Chambliss", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Agriculture, Nutrition, and Forestry, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "Arlen Specter, None": {
+        "state": null, 
+        "display_name": "Arlen Specter", 
+        "committee_assignments": {
+            "Judiciary": {
+                "start_date": "2009-05-01", 
+                "last_seen_date": "2009-05-05"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2009-05-01", 
+                "last_seen_date": "2009-05-05"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2009-05-01", 
+                "last_seen_date": "2009-05-05"
+            }, 
+            "Appropriations": {
+                "start_date": "2009-05-01", 
+                "last_seen_date": "2009-05-05"
+            }
+        }
+    }, 
+    "Carl Levin, MI": {
+        "state": "MI", 
+        "display_name": "Carl Levin", 
+        "committee_assignments": {
+            "Armed Services, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "John Ensign, NV": {
+        "state": "NV", 
+        "display_name": "John Ensign", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2007-07-11", 
+                "last_seen_date": "2011-05-03"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2008-01-25", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-07-17"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-05-03"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-01-24"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-05-03"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-05-03"
+            }
+        }
+    }, 
+    "Jeff Merkley, OR": {
+        "state": "OR", 
+        "display_name": "Jeff Merkley", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Budget": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mike Crapo, ID": {
+        "state": "ID", 
+        "display_name": "Mike Crapo", 
+        "committee_assignments": {
+            "Environment and Public Works": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Richard C. Shelby, AL": {
+        "state": "AL", 
+        "display_name": "Richard C. Shelby", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Banking, Housing, and Urban Affairs, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "John E. Sununu, NH": {
+        "state": "NH", 
+        "display_name": "John E. Sununu", 
+        "committee_assignments": {
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-01-24"
+            }, 
+            "Finance": {
+                "start_date": "2008-01-25", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-02-12"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Tom Harkin, IA": {
+        "state": "IA", 
+        "display_name": "Tom Harkin", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-10-31"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-09-29"
+            }, 
+            "Agriculture, Nutrition, and Forestry, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-09-09"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Health, Education, Labor, and Pensions, Chairman": {
+                "start_date": "2009-09-10", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "Jeff Sessions, AL": {
+        "state": "AL", 
+        "display_name": "Jeff Sessions", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Thomas R. Carper, DE": {
+        "state": "DE", 
+        "display_name": "Thomas R. Carper", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Finance": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs, Chairman": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "John D. Rockefeller IV, WV": {
+        "state": "WV", 
+        "display_name": "John D. Rockefeller IV", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation, Chairman": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Mark Kirk, IL": {
+        "state": "IL", 
+        "display_name": "Mark Kirk", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-12-08", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2010-12-08", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2010-12-08", 
+                "last_seen_date": "2011-02-03"
+            }
+        }
+    }, 
+    "John F. Kerry, MA": {
+        "state": "MA", 
+        "display_name": "John F. Kerry", 
+        "committee_assignments": {
+            "Foreign Relations, Chairman": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2013-01-31"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-01-31"
+            }, 
+            "Small Business and Entrepreneurship, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-01-31"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-01-31"
+            }
+        }
+    }, 
+    "John Barrasso, WY": {
+        "state": "WY", 
+        "display_name": "John Barrasso", 
+        "committee_assignments": {
+            "Environment and Public Works": {
+                "start_date": "2007-07-11", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2008-02-13", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2007-07-11", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Ben Nelson, NB": {
+        "state": "NB", 
+        "display_name": "Ben Nelson", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Armed Services": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Appropriations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Mark R. Warner, VA": {
+        "state": "VA", 
+        "display_name": "Mark R. Warner", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-02-12"
+            }
+        }
+    }, 
+    "Claire McCaskill, MO": {
+        "state": "MO", 
+        "display_name": "Claire McCaskill", 
+        "committee_assignments": {
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Ted Cruz, TX": {
+        "state": "TX", 
+        "display_name": "Ted Cruz", 
+        "committee_assignments": {
+            "Judiciary": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Bill Nelson, FL": {
+        "state": "FL", 
+        "display_name": "Bill Nelson", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-07"
+            }
+        }
+    }, 
+    "Sheldon Whitehouse, RI": {
+        "state": "RI", 
+        "display_name": "Sheldon Whitehouse", 
+        "committee_assignments": {
+            "Judiciary": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2009-05-07", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "David Vitter, LA": {
+        "state": "LA", 
+        "display_name": "David Vitter", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Armed Services": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Judiciary": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Mike Lee, UT": {
+        "state": "UT", 
+        "display_name": "Mike Lee", 
+        "committee_assignments": {
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mary L. Landrieu, LA": {
+        "state": "LA", 
+        "display_name": "Mary L. Landrieu", 
+        "committee_assignments": {
+            "Energy and Natural Resources, Chairman": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-02-12"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Small Business and Entrepreneurship, Chairman": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-02-12"
+            }
+        }
+    }, 
+    "Patrick J. Leahy, VT": {
+        "state": "VT", 
+        "display_name": "Patrick J. Leahy", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Edward E. Kaufman, DE": {
+        "state": "DE", 
+        "display_name": "Edward E. Kaufman", 
+        "committee_assignments": {
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2010-03-10", 
+                "last_seen_date": "2010-11-15"
+            }, 
+            "Judiciary": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-11-15"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-11-15"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-03-10", 
+                "last_seen_date": "2010-11-15"
+            }
+        }
+    }, 
+    "Thom Tillis, NC": {
+        "state": "NC", 
+        "display_name": "Thom Tillis", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Patrick J. Toomey, PA": {
+        "state": "PA", 
+        "display_name": "Patrick J. Toomey", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }
+        }
+    }, 
+    "Tim Johnson, SD": {
+        "state": "SD", 
+        "display_name": "Tim Johnson", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs, Chairman": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "Kent Conrad, ND": {
+        "state": "ND", 
+        "display_name": "Kent Conrad", 
+        "committee_assignments": {
+            "Budget, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Amy Klobuchar, MN": {
+        "state": "MN", 
+        "display_name": "Amy Klobuchar", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mike DeWine, OH": {
+        "state": "OH", 
+        "display_name": "Mike DeWine", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "David Perdue, GA": {
+        "state": "GA", 
+        "display_name": "David Perdue", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Scott P. Brown, MA": {
+        "state": "MA", 
+        "display_name": "Scott P. Brown", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2010-03-09", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-03-09", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2010-03-09", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Rick Santorum, PA": {
+        "state": "PA", 
+        "display_name": "Rick Santorum", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Cory A. Booker, NJ": {
+        "state": "NJ", 
+        "display_name": "Cory A. Booker", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-11-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2013-11-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-11-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Edward J. Markey, MA": {
+        "state": "MA", 
+        "display_name": "Edward J. Markey", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-07-17", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2013-07-17", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-07-17", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Ron Johnson, WI": {
+        "state": "WI", 
+        "display_name": "Ron Johnson", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Budget": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Homeland Security and Governmental Affairs, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Conrad Burns, MT": {
+        "state": "MT", 
+        "display_name": "Conrad Burns", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Bernard Sanders, VT": {
+        "state": "VT", 
+        "display_name": "Bernard Sanders", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs, Chairman": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Ken Salazar, CO": {
+        "state": "CO", 
+        "display_name": "Ken Salazar", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Finance": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Joseph R. Biden, Jr., DE": {
+        "state": "DE", 
+        "display_name": "Joseph R. Biden, Jr.", 
+        "committee_assignments": {
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-15"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Foreign Relations, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-15"
+            }
+        }
+    }, 
+    "Mark Udall, CO": {
+        "state": "CO", 
+        "display_name": "Mark Udall", 
+        "committee_assignments": {
+            "Armed Services": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "Deb Fischer, NB": {
+        "state": "NB", 
+        "display_name": "Deb Fischer", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Gordon H. Smith, OR": {
+        "state": "OR", 
+        "display_name": "Gordon H. Smith", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "E. Benjamin Nelson, NB": {
+        "state": "NB", 
+        "display_name": "E. Benjamin Nelson", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Appropriations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "Al Franken, MN": {
+        "state": "MN", 
+        "display_name": "Al Franken", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2009-07-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2009-07-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mike Johanns, NB": {
+        "state": "NB", 
+        "display_name": "Mike Johanns", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Appropriations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }
+        }
+    }, 
+    "Evan Bayh, IN": {
+        "state": "IN", 
+        "display_name": "Evan Bayh", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "John Thune, SD": {
+        "state": "SD", 
+        "display_name": "John Thune", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Budget": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Commerce, Science, and Transportation, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "Byron L. Dorgan, ND": {
+        "state": "ND", 
+        "display_name": "Byron L. Dorgan", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Angus S. King, Jr., ME": {
+        "state": "ME", 
+        "display_name": "Angus S. King, Jr.", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "James E. Risch, ID": {
+        "state": "ID", 
+        "display_name": "James E. Risch", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2009-07-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Tom Udall, NM": {
+        "state": "NM", 
+        "display_name": "Tom Udall", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Ted Stevens, AK": {
+        "state": "AK", 
+        "display_name": "Ted Stevens", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Robert F. Bennett, UT": {
+        "state": "UT", 
+        "display_name": "Robert F. Bennett", 
+        "committee_assignments": {
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-03-02"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Barbara Boxer, CA": {
+        "state": "CA", 
+        "display_name": "Barbara Boxer", 
+        "committee_assignments": {
+            "Environment and Public Works, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-07"
+            }
+        }
+    }, 
+    "Sherrod Brown, OH": {
+        "state": "OH", 
+        "display_name": "Sherrod Brown", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2010-07-26", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2010-07-22"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Robert C. Byrd, WV": {
+        "state": "WV", 
+        "display_name": "Robert C. Byrd", 
+        "committee_assignments": {
+            "Appropriations, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-06-28"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-06-28"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-06-28"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-06-28"
+            }
+        }
+    }, 
+    "Michael F. Bennet, CO": {
+        "state": "CO", 
+        "display_name": "Michael F. Bennet", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2009-09-30", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-28", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2009-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2009-01-28", 
+                "last_seen_date": "2009-09-29"
+            }
+        }
+    }, 
+    "Roger F. Wicker, MS": {
+        "state": "MS", 
+        "display_name": "Roger F. Wicker", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2008-01-25", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2008-01-25", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2008-01-25", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-02-03"
+            }
+        }
+    }, 
+    "Richard Blumenthal, CT": {
+        "state": "CT", 
+        "display_name": "Richard Blumenthal", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Armed Services": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "George V. Voinovich, OH": {
+        "state": "OH", 
+        "display_name": "George V. Voinovich", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Wayne Allard, CO": {
+        "state": "CO", 
+        "display_name": "Wayne Allard", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Christopher J. Dodd, CT": {
+        "state": "CT", 
+        "display_name": "Christopher J. Dodd", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Banking, Housing, and Urban Affairs, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Sam Brownback, KS": {
+        "state": "KS", 
+        "display_name": "Sam Brownback", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-01-31"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Benjamin L. Cardin, MD": {
+        "state": "MD", 
+        "display_name": "Benjamin L. Cardin", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Budget": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Daniel Coats, IN": {
+        "state": "IN", 
+        "display_name": "Daniel Coats", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Finance": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-01-07"
+            }
+        }
+    }, 
+    "Dan Sullivan, AK": {
+        "state": "AK", 
+        "display_name": "Dan Sullivan", 
+        "committee_assignments": {
+            "Environment and Public Works": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Max Baucus, MT": {
+        "state": "MT", 
+        "display_name": "Max Baucus", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-02-06"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-02-06"
+            }, 
+            "Finance, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2014-02-06"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "Thad Cochran, MS": {
+        "state": "MS", 
+        "display_name": "Thad Cochran", 
+        "committee_assignments": {
+            "Appropriations, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-01-08"
+            }
+        }
+    }, 
+    "Rand Paul, KY": {
+        "state": "KY", 
+        "display_name": "Rand Paul", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }
+        }
+    }, 
+    "Lisa Murkowski, AK": {
+        "state": "AK", 
+        "display_name": "Lisa Murkowski", 
+        "committee_assignments": {
+            "Energy and Natural Resources, Chairman": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Daniel K. Inouye, HI": {
+        "state": "HI", 
+        "display_name": "Daniel K. Inouye", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Appropriations, Chairman": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2012-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "William H. Frist, TN": {
+        "state": "TN", 
+        "display_name": "William H. Frist", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Patty Murray, WA": {
+        "state": "WA", 
+        "display_name": "Patty Murray", 
+        "committee_assignments": {
+            "Budget, Chairman": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2014-02-27"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs, Chairman": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }
+        }
+    }, 
+    "Tom Cotton, AR": {
+        "state": "AR", 
+        "display_name": "Tom Cotton", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Joe Donnelly, IN": {
+        "state": "IN", 
+        "display_name": "Joe Donnelly", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Richard Burr, NC": {
+        "state": "NC", 
+        "display_name": "Richard Burr", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Finance": {
+                "start_date": "2011-05-12", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-05-11"
+            }
+        }
+    }, 
+    "Martin Heinrich, NM": {
+        "state": "NM", 
+        "display_name": "Martin Heinrich", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-06-21", 
+                "last_seen_date": "2013-10-31"
+            }, 
+            "Armed Services": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "James Lankford, OK": {
+        "state": "OK", 
+        "display_name": "James Lankford", 
+        "committee_assignments": {
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Lamar Alexander, TN": {
+        "state": "TN", 
+        "display_name": "Lamar Alexander", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Health, Education, Labor, and Pensions, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "Paul S. Sarbanes, MD": {
+        "state": "MD", 
+        "display_name": "Paul S. Sarbanes", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Russell D. Feingold, WI": {
+        "state": "WI", 
+        "display_name": "Russell D. Feingold", 
+        "committee_assignments": {
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Robert P. Casey, Jr., PA": {
+        "state": "PA", 
+        "display_name": "Robert P. Casey, Jr.", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2013-02-13", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2013-07-16"
+            }
+        }
+    }, 
+    "Lindsey Graham, SC": {
+        "state": "SC", 
+        "display_name": "Lindsey Graham", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "George S. LeMieux, FL": {
+        "state": "FL", 
+        "display_name": "George S. LeMieux", 
+        "committee_assignments": {
+            "Armed Services": {
+                "start_date": "2009-09-23", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-09-23", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Kay Bailey Hutchison, TX": {
+        "state": "TX", 
+        "display_name": "Kay Bailey Hutchison", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Hillary Rodham Clinton, NY": {
+        "state": "NY", 
+        "display_name": "Hillary Rodham Clinton", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Bill Cassidy, LA": {
+        "state": "LA", 
+        "display_name": "Bill Cassidy", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Tom Coburn, OK": {
+        "state": "OK", 
+        "display_name": "Tom Coburn", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "Trent Lott, MS": {
+        "state": "MS", 
+        "display_name": "Trent Lott", 
+        "committee_assignments": {
+            "Rules and Administration, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2007-12-18"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-12-18"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-12-18"
+            }
+        }
+    }, 
+    "George Allen, VA": {
+        "state": "VA", 
+        "display_name": "George Allen", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Ron Wyden, OR": {
+        "state": "OR", 
+        "display_name": "Ron Wyden", 
+        "committee_assignments": {
+            "Energy and Natural Resources, Chairman": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2014-02-12"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2009-07-07"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance, Chairman": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2015-01-07"
+            }
+        }
+    }, 
+    "Larry E. Craig, ID": {
+        "state": "ID", 
+        "display_name": "Larry E. Craig", 
+        "committee_assignments": {
+            "Veterans' Affairs, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Debbie Stabenow, MI": {
+        "state": "MI", 
+        "display_name": "Debbie Stabenow", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Finance": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry, Chairman": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Edward M. Kennedy, MA": {
+        "state": "MA", 
+        "display_name": "Edward M. Kennedy", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-09-08"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-09-08"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Christopher S. Bond, MO": {
+        "state": "MO", 
+        "display_name": "Christopher S. Bond", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Elizabeth Dole, NC": {
+        "state": "NC", 
+        "display_name": "Elizabeth Dole", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Joseph I. Lieberman, CT": {
+        "state": "CT", 
+        "display_name": "Joseph I. Lieberman", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Homeland Security and Governmental Affairs, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Shelley Moore Capito, WV": {
+        "state": "WV", 
+        "display_name": "Shelley Moore Capito", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Jim Bunning, KY": {
+        "state": "KY", 
+        "display_name": "Jim Bunning", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "John Boozman, AR": {
+        "state": "AR", 
+        "display_name": "John Boozman", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Jim DeMint, SC": {
+        "state": "SC", 
+        "display_name": "Jim DeMint", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Dianne Feinstein, CA": {
+        "state": "CA", 
+        "display_name": "Dianne Feinstein", 
+        "committee_assignments": {
+            "Rules and Administration, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Brian Schatz, HI": {
+        "state": "HI", 
+        "display_name": "Brian Schatz", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Heidi Heitkamp, ND": {
+        "state": "ND", 
+        "display_name": "Heidi Heitkamp", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Susan M. Collins, ME": {
+        "state": "ME", 
+        "display_name": "Susan M. Collins", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2013-01-24"
+            }
+        }
+    }, 
+    "Blanche L. Lincoln, AR": {
+        "state": "AR", 
+        "display_name": "Blanche L. Lincoln", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry, Chairman": {
+                "start_date": "2009-09-10", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-09-09"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Mike Rounds, SD": {
+        "state": "SD", 
+        "display_name": "Mike Rounds", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "William M. Cowan, MA": {
+        "state": "MA", 
+        "display_name": "William M. Cowan", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-02-13", 
+                "last_seen_date": "2013-07-16"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2013-02-14", 
+                "last_seen_date": "2013-07-16"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-02-14", 
+                "last_seen_date": "2013-07-16"
+            }
+        }
+    }, 
+    "Olympia J. Snowe, ME": {
+        "state": "ME", 
+        "display_name": "Olympia J. Snowe", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Jeff Flake, AZ": {
+        "state": "AZ", 
+        "display_name": "Jeff Flake", 
+        "committee_assignments": {
+            "Judiciary": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Maria Cantwell, WA": {
+        "state": "WA", 
+        "display_name": "Maria Cantwell", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship, Chairman": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Barbara A. Mikulski, MD": {
+        "state": "MD", 
+        "display_name": "Barbara A. Mikulski", 
+        "committee_assignments": {
+            "Appropriations, Chairman": {
+                "start_date": "2012-12-21", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Marco Rubio, FL": {
+        "state": "FL", 
+        "display_name": "Marco Rubio", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Dean Heller, NV": {
+        "state": "NV", 
+        "display_name": "Dean Heller", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2011-05-12", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2011-05-12", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Tim Kaine, VA": {
+        "state": "VA", 
+        "display_name": "Tim Kaine", 
+        "committee_assignments": {
+            "Armed Services": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mark Begich, AK": {
+        "state": "AK", 
+        "display_name": "Mark Begich", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2013-01-29", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Budget": {
+                "start_date": "2010-03-10", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Armed Services": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2013-01-24"
+            }
+        }
+    }, 
+    "Tammy Baldwin, WI": {
+        "state": "WI", 
+        "display_name": "Tammy Baldwin", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2013-06-21", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Christopher Murphy, CT": {
+        "state": "CT", 
+        "display_name": "Christopher Murphy", 
+        "committee_assignments": {
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Gary C. Peters, MI": {
+        "state": "MI", 
+        "display_name": "Gary C. Peters", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "John Hoeven, ND": {
+        "state": "ND", 
+        "display_name": "John Hoeven", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Craig Thomas, WY": {
+        "state": "WY", 
+        "display_name": "Craig Thomas", 
+        "committee_assignments": {
+            "Environment and Public Works": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2007-06-05"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-06-05"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-06-05"
+            }
+        }
+    }, 
+    "Kay R. Hagan, NC": {
+        "state": "NC", 
+        "display_name": "Kay R. Hagan", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Armed Services": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "Paul G. Kirk, Jr., MA": {
+        "state": "MA", 
+        "display_name": "Paul G. Kirk, Jr.", 
+        "committee_assignments": {
+            "Armed Services": {
+                "start_date": "2009-09-30", 
+                "last_seen_date": "2010-02-04"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2009-09-30", 
+                "last_seen_date": "2010-02-04"
+            }
+        }
+    }, 
+    "James M. Jeffords, VT": {
+        "state": "VT", 
+        "display_name": "James M. Jeffords", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Lincoln Chafee, RI": {
+        "state": "RI", 
+        "display_name": "Lincoln Chafee", 
+        "committee_assignments": {
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "John McCain, AZ": {
+        "state": "AZ", 
+        "display_name": "John McCain", 
+        "committee_assignments": {
+            "Armed Services, Chairman": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }
+        }
+    }, 
+    "Frank R. Lautenberg, NJ": {
+        "state": "NJ", 
+        "display_name": "Frank R. Lautenberg", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2013-06-03"
+            }, 
+            "Budget": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-06-03"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-06-03"
+            }
+        }
+    }, 
+    "Mark Bergich, AK": {
+        "state": "AK", 
+        "display_name": "Mark Bergich", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2013-01-28"
+            }
+        }
+    }, 
+    "Rob Portman, OH": {
+        "state": "OH", 
+        "display_name": "Rob Portman", 
+        "committee_assignments": {
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Finance": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Michael B. Enzi, WY": {
+        "state": "WY", 
+        "display_name": "Michael B. Enzi", 
+        "committee_assignments": {
+            "Budget, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Finance": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "John E. Walsh, MT": {
+        "state": "MT", 
+        "display_name": "John E. Walsh", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2014-02-14", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "Jim Webb, VA": {
+        "state": "VA", 
+        "display_name": "Jim Webb", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Armed Services": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Chuck Grassley, IA": {
+        "state": "IA", 
+        "display_name": "Chuck Grassley", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "John Cornyn, TX": {
+        "state": "TX", 
+        "display_name": "John Cornyn", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2009-07-22", 
+                "last_seen_date": "2011-02-03"
+            }
+        }
+    }, 
+    "Robert Menendez, NJ": {
+        "state": "NJ", 
+        "display_name": "Robert Menendez", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations, Chairman": {
+                "start_date": "2013-02-04", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-03-09"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mark Dayton, MN": {
+        "state": "MN", 
+        "display_name": "Mark Dayton", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Joe Manchin III, WV": {
+        "state": "WV", 
+        "display_name": "Joe Manchin III", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Kelly Ayotte, NH": {
+        "state": "NH", 
+        "display_name": "Kelly Ayotte", 
+        "committee_assignments": {
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2011-05-12", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Charles E. Schumer, NY": {
+        "state": "NY", 
+        "display_name": "Charles E. Schumer", 
+        "committee_assignments": {
+            "Rules and Administration, Chairman": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Mark L. Pryor, AR": {
+        "state": "AR", 
+        "display_name": "Mark L. Pryor", 
+        "committee_assignments": {
+            "Appropriations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Rules and Administration": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Armed Services": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2014-12-16"
+            }
+        }
+    }, 
+    "Pete V. Domenici, NM": {
+        "state": "NM", 
+        "display_name": "Pete V. Domenici", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Energy and Natural Resources, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Budget": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Richard Durbin, IL": {
+        "state": "IL", 
+        "display_name": "Richard Durbin", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-02-10"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-02-10"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-02-10"
+            }
+        }
+    }, 
+    "John Warner, VA": {
+        "state": "VA", 
+        "display_name": "John Warner", 
+        "committee_assignments": {
+            "Armed Services, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Armed Services": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Jon Kyl, AZ": {
+        "state": "AZ", 
+        "display_name": "Jon Kyl", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Judiciary": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }
+        }
+    }, 
+    "Mel Martinez, FL": {
+        "state": "FL", 
+        "display_name": "Mel Martinez", 
+        "committee_assignments": {
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2009-09-09"
+            }, 
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-09-09"
+            }, 
+            "Armed Services": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-09-09"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }
+        }
+    }, 
+    "Joni Ernst, IA": {
+        "state": "IA", 
+        "display_name": "Joni Ernst", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Norm Coleman, MN": {
+        "state": "MN", 
+        "display_name": "Norm Coleman", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2008-12-30"
+            }
+        }
+    }, 
+    "Roland W. Burris, IL": {
+        "state": "IL", 
+        "display_name": "Roland W. Burris", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-11-29"
+            }, 
+            "Armed Services": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-11-29"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-11-29"
+            }
+        }
+    }, 
+    "James M. Talent, MO": {
+        "state": "MO", 
+        "display_name": "James M. Talent", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2006-12-08"
+            }
+        }
+    }, 
+    "Daniel K. Akaka, HI": {
+        "state": "HI", 
+        "display_name": "Daniel K. Akaka", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Armed Services": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2012-12-31"
+            }, 
+            "Veterans' Affairs, Chairman": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2011-02-03"
+            }
+        }
+    }, 
+    "Tim Scott, SC": {
+        "state": "SC", 
+        "display_name": "Tim Scott", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Finance": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-01-07"
+            }
+        }
+    }, 
+    "Scott Brown, MA": {
+        "state": "MA", 
+        "display_name": "Scott Brown", 
+        "committee_assignments": {
+            "Veterans' Affairs": {
+                "start_date": "2010-03-03", 
+                "last_seen_date": "2010-03-08"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-03-03", 
+                "last_seen_date": "2010-03-08"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2010-03-03", 
+                "last_seen_date": "2010-03-08"
+            }
+        }
+    }, 
+    "Bob Corker, TN": {
+        "state": "TN", 
+        "display_name": "Bob Corker", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2008-01-25", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Budget": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2007-07-19", 
+                "last_seen_date": "2008-01-24"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-01-08"
+            }
+        }
+    }, 
+    "Kirsten E. Gillibrand, NY": {
+        "state": "NY", 
+        "display_name": "Kirsten E. Gillibrand", 
+        "committee_assignments": {
+            "Agriculture, Nutrition, and Forestry": {
+                "start_date": "2009-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2009-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2009-01-28", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Armed Services": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Arlen Specter, PA": {
+        "state": "PA", 
+        "display_name": "Arlen Specter", 
+        "committee_assignments": {
+            "Environment and Public Works": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Judiciary": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2010-12-22"
+            }, 
+            "Judiciary, Chairman": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2010-12-22"
+            }
+        }
+    }, 
+    "Richard J. Durbin, IL": {
+        "state": "IL", 
+        "display_name": "Richard J. Durbin", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2009-02-11", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Judiciary": {
+                "start_date": "2009-02-11", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Appropriations": {
+                "start_date": "2009-02-11", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Elizabeth Warren, MA": {
+        "state": "MA", 
+        "display_name": "Elizabeth Warren", 
+        "committee_assignments": {
+            "Banking, Housing, and Urban Affairs": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Jeff Chiesa, NJ": {
+        "state": "NJ", 
+        "display_name": "Jeff Chiesa", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2013-06-21", 
+                "last_seen_date": "2013-10-31"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2013-06-21", 
+                "last_seen_date": "2013-10-31"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2013-06-21", 
+                "last_seen_date": "2013-10-31"
+            }
+        }
+    }, 
+    "Cory Gardner, CO": {
+        "state": "CO", 
+        "display_name": "Cory Gardner", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Jeanne Shaheen, NH": {
+        "state": "NH", 
+        "display_name": "Jeanne Shaheen", 
+        "committee_assignments": {
+            "Small Business and Entrepreneurship": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Armed Services": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Energy and Natural Resources": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2013-01-24"
+            }
+        }
+    }, 
+    "Harry Reid, NV": {
+        "state": "NV", 
+        "display_name": "Harry Reid", 
+        "committee_assignments": {
+            "Rules and Administration": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Appropriations": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2007-01-12"
+            }
+        }
+    }, 
+    "Christopher A. Coons, DE": {
+        "state": "DE", 
+        "display_name": "Christopher A. Coons", 
+        "committee_assignments": {
+            "Energy and Natural Resources": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2013-06-20"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2015-01-08", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Appropriations": {
+                "start_date": "2013-06-21", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Budget": {
+                "start_date": "2011-02-04", 
+                "last_seen_date": "2015-01-07"
+            }, 
+            "Judiciary": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Homeland Security and Governmental Affairs": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Armed Services": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2010-11-17", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }, 
+    "Johnny Isakson, GA": {
+        "state": "GA", 
+        "display_name": "Johnny Isakson", 
+        "committee_assignments": {
+            "Finance": {
+                "start_date": "2013-01-28", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Small Business and Entrepreneurship": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2011-02-03"
+            }, 
+            "Health, Education, Labor, and Pensions": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Veterans' Affairs": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2015-01-08"
+            }, 
+            "Commerce, Science, and Transportation": {
+                "start_date": "2009-01-22", 
+                "last_seen_date": "2013-01-24"
+            }, 
+            "Veterans' Affairs, Chairman": {
+                "start_date": "2015-01-09", 
+                "last_seen_date": "2015-12-17"
+            }, 
+            "Environment and Public Works": {
+                "start_date": "2006-01-31", 
+                "last_seen_date": "2009-01-21"
+            }, 
+            "Foreign Relations": {
+                "start_date": "2007-01-16", 
+                "last_seen_date": "2015-12-17"
+            }
+        }
+    }
+}
