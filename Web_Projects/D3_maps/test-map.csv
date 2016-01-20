@@ -1,0 +1,52 @@
+id,state,abbr,rate
+1,Alabama,AL,0.017
+2,Alaska,AK,0.025
+4,Arizona,AZ,0.0084
+5,Arkansas,AR,0.0075
+6,California,CA,0.003
+8,Colorado,CO,0.0032
+9,Connecticut,CT,0.018
+10,Delaware,DE,0.0097
+11,District of Columbia,DC,0.0045
+12,Florida,FL,0.035
+13,Georgia,GA,0.0151
+15,Hawaii,HI,0.0212
+16,Idaho,ID,0.0045
+17,Illinois,IL,0.0139
+18,Indiana,IN,0.0047
+19,Iowa,IA,0.0175
+20,Kansas,KS,0.003
+21,Kentucky,KY,0.005
+22,Louisiana,LA,0.0159
+23,Maine,ME,0.0124
+24,Maryland,MD,0.004
+25,Massachusetts,MA,0.007
+26,Michigan,MI,0.0051
+27,Minnesota,MN,0.0182
+28,Mississippi,MS,0.01
+29,Missouri,MO,0.0042
+30,Montana,MT,0.0106
+31,Nebraska,NE,0.0095
+32,Nevada,NV,0.007
+33,New Hampshire,NH,
+34,New Jersey,NJ,0.00875
+35,New Mexico,NM,0.017
+36,New York,NY,0.003
+37,North Carolina,NC,0.0099
+38,North Dakota,ND,0.005
+39,Ohio,OH,0.015
+40,Oklahoma,OK,0.0208
+41,Oregon,OR,0.0067
+42,Pennsylvania,PA,
+44,Rhode Island,RI,0.0075
+45,South Carolina,SC,0.009
+46,South Dakota,SD,0.0207
+47,Tennessee,TN,0.0121
+48,Texas,TX,0.0052
+49,Utah,UT,
+50,Vermont,VT,0.0055
+51,Virginia,VA,0.0151
+53,Washington,WA,0.0087
+54,West Virginia,WV,0.01
+55,Wisconsin,WI,0.0025
+56,Wyoming,WY,
