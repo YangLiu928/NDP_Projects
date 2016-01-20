@@ -1,0 +1,1 @@
+To open the demo locally, use FireFox to open the HTML file.

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>NDP Analytics</title>
+
+          <!-- Bootstrap -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+
+  </head>
+  <body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+
+
+    <div class="navbar navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">NDP Analytics</a>
+          <ul class="nav navbar-nav">
+            <li><a class="#" href="{{ url_for('mappage')}}">Maps</a></li>
+            <li><a class="#" href="{{ url_for('test')}}">Scatterplot</a></li>
+            <li><a class="#" href="{{ url_for('table')}}">Tables</a></li>
+          </ul>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+{#        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">#}
+{#          <ul class="nav navbar-nav">#}
+{#            <li><a href="#">A link</a></li>#}
+{#          </ul>#}
+{#        </div><!-- /.navbar-collapse -->#}
+      </div>
+    </div>
+
+        <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container-fluid">
+        <br/>
+        <p>LaRRI tracks legislation and regulations to calculate the economic risks on the U.S. economy by industry</p>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="col-md-12">
+          <h2>Test Map
+          </h2>
+        </div>
+      </div>
+    </div>
+
+
+    <div id="map-container" style="height: 500px; min-width: 310px; max-width: 600px; margin: 1em 1em 1em 1em;"></div>
+      <footer style="margin-bottom: 2em;">
+      </footer>
+    </div> <!-- /container -->
+        <script src="map.js"></script>
+  </body>
+
+
+</html>
