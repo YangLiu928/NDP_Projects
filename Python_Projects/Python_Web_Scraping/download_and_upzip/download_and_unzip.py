@@ -1,14 +1,38 @@
-from selenium import webdriver
+import urllib2
+import zipfile
+from os import listdir
+from os.path import isfile, join
+from os import getcwd
 
-profile = webdriver.FirefoxProfile()
-profile.set_preference('browser.download.folderList', 2)
-profile.set_preference("browser.download.manager.showWhenStarting", False)
-profile.set_preference("browser.download.dir", '/zips')
-profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/x-gzip")
+base_url = 'http://bea.gov/international/bp_web/startDownload.cfm?dlSelect=tables%2FCSVNEW%2F'
+file_name = 'IntlServ-CSV.zip'
 
-driver = webdriver.Firefox(firefox_profile=profile)
-driver.get("http://bea.gov/iTable/bp_download_modern.cfm?pid=4")
-all_tables = driver.find_element_by_xpath("//*[@id=\"promptContainer\"]/div/div[2]/a[2]")
-all_tables.click()
 
-# driver.find_element_by_xpath("//a[contains(text(), 'DEV.tgz')]").click()
+opener = urllib2.build_opener()
+opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+response = opener.open(base_url + file_name)
+zip_file = response.read()
+
+# writing the zip file to local directory
+# IMPORTANT! zip files are binary, and use 'wb+' instead of 'w'
+# otherwise you get corruptted data
+with open("all_data.zip", 'wb+') as f:
+    f.write(zip_file)
+
+
+
+zip_file = open('all_data.zip', 'rb')
+z = zipfile.ZipFile(zip_file)
+for name in z.namelist():
+    outfile = open(name, 'wb')
+    outfile.write(z.read(name))
+    outfile.close()
+zip_file.close()
+
+
+
+mypath = getcwd()
+onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+
+for file in onlyfiles:
+	print file
