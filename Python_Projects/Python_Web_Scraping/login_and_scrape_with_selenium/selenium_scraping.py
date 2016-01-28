@@ -6,13 +6,87 @@ import lxml
 import json
 import re
 import time
+from selenium.webdriver.support.ui import Select
+
+def _parse_html(html,result):
+
+	soup = BeautifulSoup(html,'lxml')
+
+	header_table = soup.find(id='headerRowTable')
+	header_table_rows = header_table.find_all('tr')
+
+	times = {}
+
+	time_cells = header_table_rows[0].find_all('th')
+	for time_cell in time_cells:
+		time_id = time_cell['id']
+		time_value = time_cell.text
+		times[time_id] = time_value
+	# time_text = header_table_rows[0].text
+	# times[time_id] = time_text
+
+	measures = {}
+	for th in header_table_rows[1].find_all('th'):
+		id = th['id']
+		value = th.text
+		measures[id] = value
+		print 'a new measure ' + value
+
+	commodities = {}
+	for th in header_table_rows[2].find_all('th'):
+		id = th['id']
+		value = th.text
+		commodities[id]= value
+		print 'a new commodity ' + value
+
+	countries = {}
+	trs = soup.find(id='headerColumnTable')
+	trs = trs.find_all('tr')
+	for tr in trs:
+		id = tr.find('th')['id']
+		value = tr.text
+		countries[id] = value
+		print 'a new country ' + value
+
+	for time_key in times:
+		time = times[time_key]
+		if time not in result:
+			result[time] = {}
+		for measure_key in measures:
+			measure = measures[measure_key]
+			if measure not in result[time]:
+				result[time][measure] = {}
+			for commodity_key in commodities:
+				commodity = commodities[commodity_key]
+				if commodity not in result[time][measure]:
+					result[time][measure][commodity] = {}
+
+	table = soup.find(id='bodyTD')
+	rows = table.find_all('tr')
+	for row in rows:
+		cells = row.find_all('td')
+		for cell in cells:
+			features = cell['headers']
+			time = times[features[0]]
+			measure = measures[features[1]]
+			commodity = commodities[features[2]]
+			country = countries[features[3]]
+			number = cell.text
+			result[time][measure][commodity][country]= number
+			# print time + '\t' + measure + '\t' + commodity + '\t' + country + '\t' + number
+
+	# return result
+
+
+
+
+
 
 # It is important to setup the waiting mechanism properly
 # if there is only one URL or link you want to click on a webpage, it is probably OK to simply use the implicit wait
 # if there are more than one element or an array of elements you want to retrieve, using an explicity wait is probably the best
 # refer waiting mechanisms here: http://selenium-python.readthedocs.org/waits.html
 # open up the browser and navigate to the hompage of census.gov
-
 
 url = 'https://usatrade.census.gov/index.php?do=login'
 # set up the webdriver. We use Firefox for tetsing purpose due to its visiability
@@ -80,15 +154,24 @@ find_elements_by_tag_name('label')[0].find_elements_by_tag_name('input')[1].clic
 report_link = browser.find_element_by_link_text('Report')
 report_link.click()
 
-unparsed_result = []
+browser.find_element_by_id('anch_368').click()
+browser.find_element_by_link_text('Table display settings...').click()
+
+select = Select(browser.find_element_by_id('TableRowPageSizeLB'))
+select.select_by_visible_text('200')
+
+# wrapping = browser.find_element_by_id('WrappingOn').click()
+
+browser.find_element_by_name('TableOptionsGo').click()
+
+time.sleep(5)
+result = {}
 count = 0
 while (True):
 	table = browser.find_element_by_id('ContentsTable').get_attribute('innerHTML')
-	print table
-	# unparsed_result.append(table)
-	# with open('data.json', 'w') as outfile:
-		# json.dump(unparsed_result[-1], outfile, indent=4)
-	break;
+	_parse_html(table,result)
+	# print result
+	# break 
 	try:
 		print browser.find_element_by_id('TablePagination').find_elements_by_tag_name('td')[2].text
 		while(True):			
@@ -98,12 +181,12 @@ while (True):
 				browser.find_element_by_id('TablePagination')\
 				.find_elements_by_tag_name('td')[arrow_position]\
 				.find_element_by_tag_name('a').click()
-				table = browser.find_element_by_id('ContentsTable').text
-				unparsed_result.append(table)
+				table = browser.find_element_by_id('ContentsTable').get_attribute('innerHTML')
+				_parse_html(table,result)
 			except:
 				count = count + 1
 				print 'count = ' + str(count)
-				break;
+				break
 		browser.find_element_by_id('TablePagination')\
 		.find_elements_by_tag_name('td')[1]\
 		.find_element_by_tag_name('a').click()
@@ -111,7 +194,7 @@ while (True):
 		# print 'times down arrow button hit = ' + str(time_hit)
 	except:
 		print 'finished'
-		break;
+		break
 
 
 
@@ -119,6 +202,10 @@ while (True):
 # browser.close()
 
 
-# with open('data.json', 'w') as outfile:
-#     json.dump(unparsed_result, outfile, indent=4)
+with open('data.json', 'w') as outfile:
+    json.dump(result, outfile, indent=4)
+
+
+
+
 
