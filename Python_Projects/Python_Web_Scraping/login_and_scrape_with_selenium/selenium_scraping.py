@@ -19,6 +19,8 @@ url = 'https://usatrade.census.gov/index.php?do=login'
 # during production we may want to use PhantomJS headless webdriver to save system 
 # resources and speed up the program
 browser = webdriver.Firefox()
+# phantomjs_path = './phantomjs-2.0.0-windows/bin/phantomjs.exe'
+# browser = webdriver.PhantomJS(executable_path=phantomjs_path, service_log_path=os.path.devnull)
 
 # setting up implicit wait mechanism, here, the webdriver will try to fetch the elements
 # for up to 10 seconds until  
@@ -81,10 +83,12 @@ report_link.click()
 unparsed_result = []
 count = 0
 while (True):
-	table = browser.find_element_by_id('ContentsTable').text
-	unparsed_result.append(table)
-	with open('data.json', 'w') as outfile:
-		json.dump(unparsed_result[-1], outfile, indent=4)
+	table = browser.find_element_by_id('ContentsTable').get_attribute('innerHTML')
+	print table
+	# unparsed_result.append(table)
+	# with open('data.json', 'w') as outfile:
+		# json.dump(unparsed_result[-1], outfile, indent=4)
+	break;
 	try:
 		print browser.find_element_by_id('TablePagination').find_elements_by_tag_name('td')[2].text
 		while(True):			
@@ -115,6 +119,6 @@ while (True):
 # browser.close()
 
 
-with open('data.json', 'w') as outfile:
-    json.dump(unparsed_result, outfile, indent=4)
+# with open('data.json', 'w') as outfile:
+#     json.dump(unparsed_result, outfile, indent=4)
 
