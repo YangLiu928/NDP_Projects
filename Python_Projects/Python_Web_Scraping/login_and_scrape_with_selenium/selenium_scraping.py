@@ -1,6 +1,5 @@
 from selenium import webdriver
 import os
-import time
 from bs4 import BeautifulSoup
 import lxml
 import json
@@ -30,14 +29,14 @@ def _parse_html(html,result):
 		id = th['id']
 		value = th.text
 		measures[id] = value
-		print 'a new measure ' + value
+		# print 'a new measure ' + value
 
 	commodities = {}
 	for th in header_table_rows[2].find_all('th'):
 		id = th['id']
 		value = th.text
 		commodities[id]= value
-		print 'a new commodity ' + value
+		# print 'a new commodity ' + value
 
 	countries = {}
 	trs = soup.find(id='headerColumnTable')
@@ -46,7 +45,7 @@ def _parse_html(html,result):
 		id = tr.find('th')['id']
 		value = tr.text
 		countries[id] = value
-		print 'a new country ' + value
+		# print 'a new country ' + value
 
 	for time_key in times:
 		time = times[time_key]
@@ -88,6 +87,7 @@ def _parse_html(html,result):
 # refer waiting mechanisms here: http://selenium-python.readthedocs.org/waits.html
 # open up the browser and navigate to the hompage of census.gov
 
+start_time = time.time()
 url = 'https://usatrade.census.gov/index.php?do=login'
 # set up the webdriver. We use Firefox for tetsing purpose due to its visiability
 # during production we may want to use PhantomJS headless webdriver to save system 
@@ -164,7 +164,7 @@ select.select_by_visible_text('200')
 
 browser.find_element_by_name('TableOptionsGo').click()
 
-time.sleep(5)
+# time.sleep(5)
 result = {}
 count = 0
 while (True):
@@ -173,10 +173,10 @@ while (True):
 	# print result
 	# break 
 	try:
-		print browser.find_element_by_id('TablePagination').find_elements_by_tag_name('td')[2].text
+		# print browser.find_element_by_id('TablePagination').find_elements_by_tag_name('td')[2].text
 		while(True):			
 			try:
-				print '\t' + browser.find_element_by_id('TablePagination').find_elements_by_tag_name('td')[5].text
+				# print '\t' + browser.find_element_by_id('TablePagination').find_elements_by_tag_name('td')[5].text
 				arrow_position = 4 - (count%2)
 				browser.find_element_by_id('TablePagination')\
 				.find_elements_by_tag_name('td')[arrow_position]\
@@ -185,7 +185,7 @@ while (True):
 				_parse_html(table,result)
 			except:
 				count = count + 1
-				print 'count = ' + str(count)
+				# print 'count = ' + str(count)
 				break
 		browser.find_element_by_id('TablePagination')\
 		.find_elements_by_tag_name('td')[1]\
@@ -193,7 +193,7 @@ while (True):
 		# time_hit+=1
 		# print 'times down arrow button hit = ' + str(time_hit)
 	except:
-		print 'finished'
+		print 'total run time = ' + str(time.time()-start_time)
 		break
 
 
@@ -202,7 +202,7 @@ while (True):
 # browser.close()
 
 
-with open('data.json', 'w') as outfile:
+with open('data2.json', 'w') as outfile:
     json.dump(result, outfile, indent=4)
 
 
