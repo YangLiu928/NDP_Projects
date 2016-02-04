@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>custom form modal demo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="http://getbootstrap.com/dist/css/bootstrap.css" rel="stylesheet" type="text/css" />  
+<link href="http://eternicode.github.io/bootstrap-datepicker/bootstrap-datepicker/css/datepicker3.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h2>custom form modal</h2>
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open pop-up form</button>
+  <h3 id = "result"> You haven't entered any search criteria yet</h3>
+  <div class="modal fade" id="myModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title text-center">Trade Vote Search</h4>
+          <p class = "text-center">Display votes matching the following criteria</p>
+        </div>
+        <div class="modal-body">
+          <div class="well">
+              <a href="#" id="btnAdd"><i class="icon-plus-sign-alt"></i>Add New Search</a>
+                  <ul id="searches" class="in-line" style="list-style: none;">
+                    <li>
+                      <a href="#" class="new-search" id = "s1">Search#1</a><span secondary-id="s1" class="glyphicon glyphicon-remove close-button" aria-hidden="true"></span>
+                    </li>
+                    <li>
+                        <a href="#" class = "new-search" id= "s2">Search#2</a><span secondary-id="s2" class="glyphicon glyphicon-remove close-button" aria-hidden="true"></span>
+                    </li>
+                  </ul>
+          </div>
+            <div class= "well">
+              <form role= "form" name = "selectors">
+                <label> Include votes about:</label>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="Trade_Barrier">Trade Barrier</label>
+                </div>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="Trade_Subsidy">Trade Subsidy</label>
+                </div>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="Trade_Agreement">Trade Agreement</label>
+                </div>
+                <div class="checkbox">
+                  <label><input type="checkbox" name = "selectors" value="More">More</label>
+                </div>
+                <a value="Update" href = "#" class = "btn" id="update_button">Update</a>
+              </form>
+            </div>
+          </div>
+          <div class="modal-footer well">
+            <button href = "#" type="button" class="btn btn-default"  id = "search_button">Search</button>
+            <button href = "#" type="button" class="btn btn-default" id = "cancel_button">Cancel</button>
+          </div>
+        </div>
+      </div>      
+    </div>
+  </div>  
+</div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="http://eternicode.github.io/bootstrap-datepicker/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+  <script src="customForm.js">
+
+</script>
+
+</body>
+</html>

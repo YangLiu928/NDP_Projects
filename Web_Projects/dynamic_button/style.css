@@ -1,0 +1,28 @@
+html * {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+#myModal {
+top:20%;
+right:0%;
+outline: none;
+}
+#start, #end{
+	width:8%;
+}
+ 
+@media screen and (min-width: 768px) {
+	
+	#myModal .modal-dialog  {
+		width:60%;
+	}
+
+}
+
+#left-div{
+	padding-left: 40px;
+}
+
+.close-button{
+	cursor: pointer;
+}
