@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Selection List Example</title>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="container">
+      <select multiple class="form" id="sel1" style="width: 100px">
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+      </select>
+      <select multiple class="form" id="sel2" style="width: 100px"	>
+        <!-- <option>A1</option> -->
+      </select>
+	</div>
+
+</body>
+	<script type="text/javascript">
+		hiearchy = {};
+		hiearchy["A"] = ["A1","A2","A3"];
+		hiearchy["B"] = ["B1","B2"];
+		hiearchy["C"] = ["C1"];
+
+		$("#sel1").change(function(){
+			$("#sel2 option").each(function(){
+				$(this).remove();
+			});
+			$("#sel1 option:selected").each(function(){
+				var list = hiearchy[$(this).text()];
+				for (var i = 0; i < list.length; i++){
+					$('<option>' + list[i] + '</option>').appendTo('#sel2');
+					$(this).tab('show');
+				}
+
+				// .each(function(){
+				// $('<option>' + $(this) + '</option>').appendTo('#sel2');
+				// })
+
+			})
+		})
+	</script>
+</html>
