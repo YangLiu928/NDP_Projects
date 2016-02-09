@@ -7,6 +7,7 @@ import numpy as np
 from sklearn.linear_model import SGDClassifier
 from nltk import word_tokenize          
 from nltk.stem import WordNetLemmatizer 
+from sklearn import cross_validation
 
 # class LemmaTokenizer(object):
 #     def __init__(self):
@@ -39,27 +40,44 @@ tfidf_transformer = TfidfTransformer()
 texts_tfidf = tfidf_transformer.fit_transform(tokenized_texts)
 
 # storing processed data locally with pickle
-pickle.dump(texts_tfidf,open('feature_vectors.p','wb'))
-pickle.dump(labels,open('labels.p','wb'))
+# pickle.dump(texts_tfidf,open('feature_vectors.p','wb'))
+# pickle.dump(labels,open('labels.p','wb'))
 
 
-length = len(labels)
-border = int(length*0.9)
-training_data = texts_tfidf[:border]
-training_labels = labels[:border]
-testing_data = texts_tfidf[border:]
-testing_label = labels[border:]
-
-NB_classifier = MultinomialNB().fit(training_data, training_labels)
-
-pickle.dump(NB_classifier,open('NB_classifier.p','wb'))
+# length = len(labels)
+# border = int(length*0.9)
+# training_data = texts_tfidf[:border]
+# training_labels = labels[:border]
+# testing_data = texts_tfidf[border:]
+# testing_label = labels[border:]
 
 
-SVM = SGDClassifier(loss='hinge', penalty='l2',alpha=1e-3, n_iter=5, random_state=42).fit(training_data, training_labels)
-pickle.dump(SVM,open('SVM.p','wb'))
 
-predicted = NB_classifier.predict(testing_data)
-print "accuracy = " + str(np.mean(predicted == testing_label)) 
 
-predicted = SVM.predict(testing_data)
-print "accuracy = " + str(np.mean(predicted == testing_label)) 
+
+NB = MultinomialNB()
+NB_scores = cross_validation.cross_val_score(NB, texts_tfidf, labels, cv=5)
+print NB_scores
+
+
+# pickle.dump(NB_classifier,open('NB_classifier.p','wb'))
+
+
+SVM = SGDClassifier(loss='hinge', penalty='l2',alpha=1e-3, n_iter=5, random_state=42)
+
+SVM_scores = cross_validation.cross_val_score(SVM, texts_tfidf, labels, cv=5)
+print SVM_scores
+
+
+
+# pickle.dump(SVM,open('SVM.p','wb'))
+
+
+
+
+
+# predicted = NB_classifier.predict(testing_data)
+# print "accuracy = " + str(np.mean(predicted == testing_label)) 
+
+# predicted = SVM.predict(testing_data)
+# print "accuracy = " + str(np.mean(predicted == testing_label)) 
