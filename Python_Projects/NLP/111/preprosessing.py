@@ -8,6 +8,9 @@ from sklearn.linear_model import SGDClassifier
 from nltk import word_tokenize          
 from nltk.stem import WordNetLemmatizer 
 from sklearn import cross_validation
+from sklearn.naive_bayes import GaussianNB
+from sklearn import svm
+
 
 # class LemmaTokenizer(object):
 #     def __init__(self):
@@ -60,6 +63,10 @@ NB_scores = cross_validation.cross_val_score(NB, texts_tfidf, labels, cv=5)
 print NB_scores
 
 
+
+
+
+
 # pickle.dump(NB_classifier,open('NB_classifier.p','wb'))
 
 
@@ -68,6 +75,14 @@ SVM = SGDClassifier(loss='hinge', penalty='l2',alpha=1e-3, n_iter=5, random_stat
 SVM_scores = cross_validation.cross_val_score(SVM, texts_tfidf, labels, cv=5)
 print SVM_scores
 
+
+# GNB = GaussianNB()
+# GNB_scores = cross_validation.cross_val_score(GNB, texts_tfidf.toarray(), labels, cv=5)
+# print GNB_scores
+
+SVM_Linear = svm.LinearSVC()
+SVM_Linear_scores = cross_validation.cross_val_score(SVM_Linear, texts_tfidf.toarray(), labels, cv=5)
+print SVM_Linear_scores
 
 
 # pickle.dump(SVM,open('SVM.p','wb'))
