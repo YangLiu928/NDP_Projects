@@ -26,10 +26,10 @@ def _download_zip_file(year):
 		os.mkdir('./downloads')
 	except OSError as e1:
 		print 'cannot create \"downloads\" folder because: {0}'.format(e1.message)
-		try:
-			os.mkdir('./downloads/' + str(year))
-		except OSError as e2:
-			print 'cannot create \"{0}\" folder because: {1}'.format(year,e2.message)
+	try:
+		os.mkdir('./downloads/' + str(year))
+	except OSError as e2:
+		print 'cannot create \"{0}\" folder because: {1}'.format(year,e2.message)
 	print 'downloading file \"{0}_qtrly_by_area.zip\" ...'.format(year)
 	with open('./downloads/{0}/{0}.zip'.format(year), 'wb+') as f:
 		f.write(zip_file)
@@ -87,13 +87,13 @@ def _generate_SQL_statements(year):
 				industry_code = _convert_to_sql_string(str(data.loc[index, 'industry_code']))
 				agglvl_code = _convert_to_sql_string(str(data.loc[index, 'agglvl_code']))
 				size_code = _convert_to_sql_string(str(data.loc[index,'size_code']))
-				emp_year = data.loc[index,'year']
-				emp_quarter = data.loc[index,'qtr']
+				emp_year = _convert_to_sql_string(data.loc[index,'year'])
+				emp_quarter = _convert_to_sql_string(data.loc[index,'qtr'])
 				disclosure_code = _convert_to_sql_string(str(data.loc[index,'disclosure_code']))
 				for month in range(1,4):
-					emp_month = month
-					empl_level = data.loc[index,'month{0}_emplvl'.format(month)]
-					sql = """call cat_itf.cap_bls_employment_data ({0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9});\r\n""".format(
+					emp_month = _convert_to_sql_string(str(month))
+					empl_level = _convert_to_sql_string(data.loc[index,'month{0}_emplvl'.format(month)])
+					sql = """call cap_employment_data_update_bls({0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9});\r\n""".format(
 						area_fips,own_code,industry_code,agglvl_code,size_code,emp_year,emp_quarter,disclosure_code,emp_month,empl_level)
 					file.write(sql)
 
@@ -113,7 +113,7 @@ def get_SQLs(year):
 
 
 if __name__ == '__main__':
-	for year in range(2010, 2013):
+	for year in range(2015, 2016):
 		get_SQLs(year)
 
 

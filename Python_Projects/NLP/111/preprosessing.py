@@ -10,7 +10,7 @@ from nltk.stem import WordNetLemmatizer
 from sklearn import cross_validation
 from sklearn.naive_bayes import GaussianNB
 from sklearn import svm
-
+from sklearn.neighbors import NearestNeighbors
 
 # class LemmaTokenizer(object):
 #     def __init__(self):
@@ -80,12 +80,19 @@ print SVM_scores
 # GNB_scores = cross_validation.cross_val_score(GNB, texts_tfidf.toarray(), labels, cv=5)
 # print GNB_scores
 
-SVM_Linear = svm.LinearSVC()
-SVM_Linear_scores = cross_validation.cross_val_score(SVM_Linear, texts_tfidf.toarray(), labels, cv=5)
-print SVM_Linear_scores
+# SVM_Linear = svm.LinearSVC()
+# SVM_Linear_scores = cross_validation.cross_val_score(SVM_Linear, texts_tfidf.toarray(), labels, cv=5)
+# print SVM_Linear_scores
 
 
 # pickle.dump(SVM,open('SVM.p','wb'))
+
+
+SVM_rbf = svm.SVC(decision_function_shape='ovr', kernel = 'rbf')
+SVM_rbf_scores = cross_validation.cross_val_score(SVM_rbf, texts_tfidf, labels, cv=5)
+print SVM_rbf_scores
+# 10% accuracy
+
 
 
 

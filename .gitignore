@@ -1,3 +1,5 @@
 *.zip
 Python_Projects/Python_MySQL/Foreign_Trade_Data_Pipe_Delimination/data/
 Python_Projects/Python_MySQL/Foreign_Trade_Data_Pipe_Delimination/output/
+
+*.DS_Store

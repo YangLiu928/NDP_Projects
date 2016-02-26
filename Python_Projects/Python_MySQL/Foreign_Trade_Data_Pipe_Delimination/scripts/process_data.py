@@ -1,21 +1,48 @@
+# import re
+
 def _read_and_write(raw_file_route, pipe_file_route, pairs):
     raw_file = open(raw_file_route, 'r')
-    pipe_file = open(pipe_file_route, 'w')
+    sql_file = open(pipe_file_route, 'w')
+    file_name = _extract_file_name(raw_file_route)
     for line in raw_file:
         line = line.strip()
         length = len(pairs)
+        sql = 'call cat_itf.cap_merch_data_' + file_name + '('
         for index in range(0, length - 1):
             pair = pairs[index]
-            word = line[pair[0] - 1:pair[1]].strip() + '|'
-            pipe_file.write(word)
-        pipe_file.write(line[pairs[-1][0] - 1:pairs[-1][1]].strip() + '\n')
+            word = line[pair[0] - 1:pair[1]].strip()
+            sql = sql + '\'' + word.replace('\'','\'\'').replace('\"','\"\"').strip() + '\', '
+        last_word = line[pairs[-1][0] - 1:pairs[-1][1]].strip()
+        sql = sql + '\'' + last_word.replace('\'','\'\'').replace('\"','\"\"').strip() + '\');\r\n'        
+        sql_file.write(sql)
     raw_file.close()
-    pipe_file.close()
+    sql_file.close()
+
+
+
+
+
+def _extract_file_name(raw_file_route):
+    return raw_file_route.split('/')[-1][:-4]
+
+def _is_number(string):
+    number_pattern = re.compile('[0-9]+')
+    if number_pattern.match(string.strip()):
+        return True
+    else:
+        return False
+
+
+
+
+
+
+
 
 
 def process_concord(data_folder, output_folder):
     concord_raw_route = data_folder + 'CONCORD.TXT'
-    concord_pipe_route = output_folder + 'CONCORD_PIPE.TXT'
+    concord_pipe_route = output_folder + 'CONCORD.SQL'
     pairs = [
         [1, 10],
         [11, 160],
@@ -33,7 +60,7 @@ def process_concord(data_folder, output_folder):
 
 def process_country(data_folder, output_folder):
     country_raw_route = data_folder + 'COUNTRY.TXT'
-    country_pipe_route = output_folder + 'COUNTRY_PIPE.TXT'
+    country_pipe_route = output_folder + 'COUNTRY.SQL'
     pairs = [
         [1, 4],
         [5, 11],
@@ -44,7 +71,7 @@ def process_country(data_folder, output_folder):
 
 def process_district(data_folder, output_folder):
     district_raw_route = data_folder + 'DISTRICT.TXT'
-    district_pipe_route = output_folder + 'DISTRICT_PIPE.TXT'
+    district_pipe_route = output_folder + 'DISTRICT.SQL'
     pairs = [
         [1, 2],
         [3, 9],
@@ -55,7 +82,7 @@ def process_district(data_folder, output_folder):
 
 def process_enduse(data_folder, output_folder):
     enduse_raw_route = data_folder + 'ENDUSE.TXT'
-    enduse_pipe_route = output_folder + 'ENDUSE_PIPE.TXT'
+    enduse_pipe_route = output_folder + 'ENDUSE.SQL'
     pairs = [
         [1, 5],
         [6, 105]
@@ -65,7 +92,7 @@ def process_enduse(data_folder, output_folder):
 
 def process_exp_comm(data_folder, output_folder):
     exp_comm_raw_route = data_folder + 'EXP_COMM.TXT'
-    exp_comm_pipe_route = output_folder + 'EXP_COMM_PIPE.TXT'
+    exp_comm_pipe_route = output_folder + 'EXP_COMM.SQL'
     pairs = [
         [1, 1],
         [2, 11],
@@ -77,7 +104,7 @@ def process_exp_comm(data_folder, output_folder):
         [74, 88],
         [89, 103],
         [104, 118],
-        [117, 133],
+        [119, 133],
         [134, 148],
         [149, 163],
         [164, 178],
@@ -100,7 +127,7 @@ def process_exp_comm(data_folder, output_folder):
 
 def process_exp_cty(data_folder, output_folder):
     exp_cty_raw_route = data_folder + 'EXP_CTY.TXT'
-    exp_cty_pipe_route = output_folder + 'EXP_CTY_PIPE.TXT'
+    exp_cty_pipe_route = output_folder + 'EXP_CTY.SQL'
     pairs = [
         [1, 4],
         [5, 34],
@@ -128,7 +155,7 @@ def process_exp_cty(data_folder, output_folder):
 
 def process_exp_detl(data_folder, output_folder):
     exp_detl_raw_route = data_folder + 'EXP_DETL.TXT'
-    exp_detl_pipe_route = output_folder + 'EXP_DETL_PIPE.TXT'
+    exp_detl_pipe_route = output_folder + 'EXP_DETL.SQL'
     pairs = [
         [1, 1],
         [2, 11],
@@ -162,7 +189,7 @@ def process_exp_detl(data_folder, output_folder):
 
 def process_exp_dist(data_folder, output_folder):
     exp_dist_raw_route = data_folder + 'EXP_DIST.TXT'
-    exp_dist_pipe_route = output_folder + 'EXP_DIST_PIPE.TXT'
+    exp_dist_pipe_route = output_folder + 'EXP_DIST.SQL'
     pairs = [
         [1, 2],
         [3, 32],
@@ -190,7 +217,7 @@ def process_exp_dist(data_folder, output_folder):
 
 def process_hitech(data_folder, output_folder):
     hitech_raw_route = data_folder + 'HITECH.TXT'
-    hitech_pipe_route = output_folder + 'HITECH_PIPE.TXT'
+    hitech_pipe_route = output_folder + 'HITECH.SQL'
     pairs = [
         [1, 2],
         [3, 32]
@@ -200,7 +227,7 @@ def process_hitech(data_folder, output_folder):
 
 def process_hsdesc(data_folder, output_folder):
     hsdesc_raw_route = data_folder + 'HSDESC.TXT'
-    hsdesc_pipe_route = output_folder + 'HSDESC_PIPE.TXT'
+    hsdesc_pipe_route = output_folder + 'HSDESC.SQL'
     pairs = [
         [1, 6],
         [7, 156],
@@ -211,7 +238,7 @@ def process_hsdesc(data_folder, output_folder):
 
 def process_naics(data_folder, output_folder):
     naics_raw_route = data_folder + 'NAICS.TXT'
-    naics_pipe_route = output_folder + 'NAICS_PIPE.TXT'
+    naics_pipe_route = output_folder + 'NAICS.SQL'
     pairs = [
         [1, 6],
         [7, 56]
@@ -221,7 +248,7 @@ def process_naics(data_folder, output_folder):
 
 def process_sitc(data_folder, output_folder):
     sitc_raw_route = data_folder + 'SITC.TXT'
-    sitc_pipe_route = output_folder + 'SITC_PIPE.TXT'
+    sitc_pipe_route = output_folder + 'SITC.SQL'
     pairs = [
         [1, 5],
         [6, 155],
@@ -232,7 +259,7 @@ def process_sitc(data_folder, output_folder):
 
 def process_imp_comm(data_folder, output_folder):
     imp_comm_raw_route = data_folder + 'IMP_COMM.TXT'
-    imp_comm_pipe_route = output_folder + 'IMP_COMM_PIPE.TXT'
+    imp_comm_pipe_route = output_folder + 'IMP_COMM.SQL'
     pairs = [
         [1, 10],
         [11, 60],
@@ -290,7 +317,7 @@ def process_imp_comm(data_folder, output_folder):
 
 def process_imp_cty(data_folder, output_folder):
     imp_cty_raw_route = data_folder + 'IMP_CTY.TXT'
-    imp_cty_pipe_route = output_folder + 'IMP_CTY_PIPE.TXT'
+    imp_cty_pipe_route = output_folder + 'IMP_CTY.SQL'
     pairs = [
         [1, 4],
         [5, 34],
@@ -337,7 +364,7 @@ def process_imp_cty(data_folder, output_folder):
 
 def process_imp_de(data_folder, output_folder):
     imp_de_raw_route = data_folder + 'IMP_DE.TXT'
-    imp_de_pipe_route = output_folder + 'IMP_DE_PIPE.TXT'
+    imp_de_pipe_route = output_folder + 'IMP_DE.SQL'
     pairs = [
         [1, 2],
         [3, 32],
@@ -385,7 +412,7 @@ def process_imp_de(data_folder, output_folder):
 
 def process_imp_du(data_folder, output_folder):
     imp_du_raw_route = data_folder + 'IMP_DU.TXT'
-    imp_du_pipe_route = output_folder + 'IMP_DU_PIPE.TXT'
+    imp_du_pipe_route = output_folder + 'IMP_DU.SQL'
     pairs = [
         [1, 2],
         [3, 32],
@@ -433,7 +460,7 @@ def process_imp_du(data_folder, output_folder):
 
 def process_imp_detl(data_folder, output_folder):
     imp_detl_raw_route = data_folder + 'IMP_DETL.TXT'
-    imp_detl_pipe_route = output_folder + 'IMP_DETL_PIPE.TXT'
+    imp_detl_pipe_route = output_folder + 'IMP_DETL.SQL'
     pairs = [
         [1, 10],
         [11, 14],
@@ -493,7 +520,7 @@ def process_imp_detl(data_folder, output_folder):
 
 def process_STHS6(data_folder, output_folder, date):
     STHS6_raw_route = data_folder + 'STHS6' + 'M' + date + '.TXT'
-    STHS6_pipe_route = output_folder + 'STHS6' + 'M' + date + '_PIPE.TXT'
+    STHS6_pipe_route = output_folder + 'STHS6' + 'M' + date + '.SQL'
     pairs = [
         [1, 6],
         [7, 10],
@@ -520,7 +547,7 @@ def process_STHS6(data_folder, output_folder, date):
 
 def process_STNAICS(data_folder, output_folder, date):
     STNAICS_raw_route = data_folder + 'STNAICS' + date + '.txt'
-    STNAICS_pipe_route = output_folder + 'STNAICS_PIPE' + date + '.txt'
+    STNAICS_pipe_route = output_folder + 'STNAICS' + date + '.SQL'
     pairs = [
         [1, 4],
         [5, 8],
@@ -546,7 +573,7 @@ def process_STNAICS(data_folder, output_folder, date):
 
 def process_ISTHS6(data_folder, output_folder, date):
     ISTHS6_raw_route = data_folder + 'ISTHS' + 'M' + date + '.txt'
-    ISTHS6_pipe_route = output_folder + 'ISTHS' + 'M' + date + '_PIPE.TXT'
+    ISTHS6_pipe_route = output_folder + 'ISTHS' + 'M' + date + '.SQL'
     pairs = [
         [1, 6],
         [7, 10],
@@ -574,7 +601,7 @@ def process_ISTHS6(data_folder, output_folder, date):
 
 def process_ISTNAICS(data_folder, output_folder, date):
     ISTNAICS_raw_route = data_folder + 'ISNAICS' + date + '.TXT'
-    ISTNAICS_pipe_route = output_folder + 'ISNAICS' + date + '_PIPE.TXT'
+    ISTNAICS_pipe_route = output_folder + 'ISNAICS' + date + '.SQL'
     pairs = [
         [1, 4],
         [5, 8],
@@ -603,7 +630,7 @@ def process_ISTNAICS(data_folder, output_folder, date):
 
 def process_DPORTHS6E(data_folder, output_folder, date):
     DPORTHS6E_raw_route = data_folder + 'PORTHS6XM' + date + '.TXT'
-    DPORTHS6E_pipe_route = output_folder + 'PORTHS6XM' + date + '_PIPE.TXT'
+    DPORTHS6E_pipe_route = output_folder + 'PORTHS6XM' + date + '.SQL'
     pairs = [
         [1, 6],
         [7, 10],
@@ -630,7 +657,7 @@ def process_DPORTHS6E(data_folder, output_folder, date):
 
 def process_DPORTHS6I(data_folder, output_folder, date):
     DPORTHS6I_raw_route = data_folder + 'PORTHS6MM' + date + '.TXT'
-    DPORTHS6I_pipe_route = output_folder + 'PORTHS6MM' + date + '_PIPE.TXT'
+    DPORTHS6I_pipe_route = output_folder + 'PORTHS6MM' + date + '.SQL'
     pairs = [
         [1, 6],
         [7, 10],
