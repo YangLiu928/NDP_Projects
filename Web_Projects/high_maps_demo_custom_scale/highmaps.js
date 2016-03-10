@@ -12,7 +12,7 @@ $(function () {
         },
         {
             "hc-key": "us-ca",
-            "value": 0.003
+            "value": 455
         },
         {
             "hc-key": "us-or",
@@ -32,7 +32,7 @@ $(function () {
         },
         {
             "hc-key": "us-nv",
-            "value": 0.007
+            "value": 450
         },
         {
             "hc-key": "us-nm",
@@ -192,7 +192,7 @@ $(function () {
         },
         {
             "hc-key": "us-az",
-            "value": 0.0084
+            "value": 460
         },
         {
             "hc-key": "us-ut",
@@ -239,11 +239,10 @@ $(function () {
         },
 
         colorAxis: {
-            min: 0,
-            max: 0.05,
-            startOnTick: false,
-            endOnTick: false,
-            tickInterval:0.01
+            min: 440,
+            startOnTick: true,
+            endOnTick: true,
+            tickInterval:5
         },
 
         legend:{
