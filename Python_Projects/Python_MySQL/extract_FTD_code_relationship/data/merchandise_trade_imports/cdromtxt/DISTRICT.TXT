@@ -1,0 +1,44 @@
+01MAINE  PORTLAND ME                                       
+02ST ALBNST ALBANS VT                                      
+04BOSTON BOSTON MA                                         
+05PROV RIPROVIDENCE RI                                     
+07OGDENSBOGDENSBURG NY                                     
+09BUFFALOBUFFALO NY                                        
+10NY CITYNEW YORK CITY NY                                  
+11PHILA  PHILADELPHIA PA                                   
+13BALT   BALTIMORE MD                                      
+14NORFOLKNORFOLK VA                                        
+15WILM NCWILMINGTON NC                                     
+16CHRLSTNCHARLESTON SC                                     
+17SAVANNHSAVANNAH GA                                       
+18TAMPA  TAMPA FL                                          
+19MOBILE MOBILE AL                                         
+20NEW ORLNEW ORLEANS LA                                    
+21PORT ARPORT ARTHUR TX                                    
+23LAREDO LAREDO TX                                         
+24EL PASOEL PASO TX                                        
+25SAN DGOSAN DIEGO CA                                      
+26NOGALESNOGALES AZ                                        
+27LOS ANGLOS ANGELES CA                                    
+28SAN FRNSAN FRANCISCO CA                                  
+29COL-SNKCOLUMBIA-SNAKE                                    
+30SEATTLESEATTLE WA                                        
+31ALASKA ANCHORAGE AK                                      
+32HAWAII HONOLULU HI                                       
+33GTFALLSGREAT FALLS MT                                    
+34PEMBINAPEMBINA ND                                        
+35MINNPLSMINNEAPOLIS MN                                    
+36DULUTH DULUTH MN                                         
+37MILWAUKMILWAUKEE WI                                      
+38DETROITDETROIT MI                                        
+39CHICAGOCHICAGO IL                                        
+41CLEVLNDCLEVELAND OH                                      
+45ST LOUIST LOUIS MO                                       
+49P RICO SAN JUAN PR                                       
+51VIRG ISVIRGIN ISLANDS                                    
+52MIAMI  MIAMI FL                                          
+53HOUSTONHOUSTON TX                                        
+54WASH DCWASHINGTON DC                                     
+55DALLAS DALLAS/FORT WORTH TX                              
+60VESSELSVESSELS OWN POWER                                 
+70LV EST SHIPMENTS INDIVIDUALLY                            

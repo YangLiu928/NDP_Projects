@@ -11,9 +11,9 @@ def _read_and_write(raw_file_route, pipe_file_route, pairs):
         exp_or_imp = 'imp'
 
 
-    line_count = 0
+    # line_count = 0
     for line in raw_file:
-        line_count = line_count + 1
+        # line_count = line_count + 1
         line = line.strip()
         length = len(pairs)
         sql = 'call cap_data_goods_' + exp_or_imp + '_detl_update ('
@@ -24,8 +24,8 @@ def _read_and_write(raw_file_route, pipe_file_route, pairs):
         last_word = line[pairs[-1][0] - 1:pairs[-1][1]].strip()
         sql = sql + '\'' + last_word.replace('\'','\'\'').replace('\"','\"\"').strip() + '\');\r\n'        
         sql_file.write(sql)
-        if line_count == 1000:
-            break
+        # if line_count == 1000:
+            # break
     raw_file.close()
     sql_file.close()
 
