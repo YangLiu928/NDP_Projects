@@ -1,0 +1,19 @@
+{
+  "name": "highchart_service",
+  "version": "1.0.0",
+  "description": "this application is intended to capture highchart and send image to twitter card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yang Liu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "pn": "^1.0.0",
+    "shortid": "^2.2.4",
+    "svg2png": "^3.0.0"
+  }
+}
