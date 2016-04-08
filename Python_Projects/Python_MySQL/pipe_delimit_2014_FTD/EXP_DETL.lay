@@ -1,0 +1,46 @@
+	                     
+FILENAME: EXP_DETL.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     DESCRIPTION
+
+ 1-1     	df              1-Digit Domestic or Foreign Code
+
+ 2-11    	commodity       10-Digit Schedule B Commodity Code
+
+ 12-61       	abbreviatn      50-Digit HTS Description			
+ 
+ 62-64       	unit_qy1        3-Digit Unit of Quantity 1	
+
+ 65-68     	cty_code        4-Digit Country Code
+ 
+ 69-98        	cty_name       	30-Digit Country Name
+
+ 99-100     	district        2-Digit District Code
+
+ 101-130       	dist_name      	30-Digit District Name
+
+ 131-140	years_ap	10-Digit All 2-Digit Years HS Code has data During 5 Year History
+ 
+ 141-155     	qty_1_09       	15-Digit Quantity 1, 2009
+
+ 156-170     	all_val_09      15-Digit Total Value, 2009
+
+ 171-185     	qty_1_10       	15-Digit Quantity 1, 2010
+
+ 186-200     	all_val_10      15-Digit Total Value, 2010
+
+ 201-215     	qty_1_11       	15-Digit Quantity 1, 2011
+ 
+ 216-230     	all_val_11      15-Digit Total Value, 2011
+
+ 231-245     	qty_1_12       	15-Digit Quantity 1, 2012
+
+ 246-260     	all_val_12      15-Digit Total Value, 2012
+
+ 261-275     	qty_1_13       	15-Digit Quantity 1, 2013
+
+ 276-290     	all_val_13      15-Digit Total Value, 2013
+
+ 

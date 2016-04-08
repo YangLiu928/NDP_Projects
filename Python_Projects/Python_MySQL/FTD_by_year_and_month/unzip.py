@@ -43,6 +43,7 @@ def unzip_files(year):
 			else:
 				member = 'IMP_DETL.TXT'
 
+				
 			zip_file.extract(member = member, path = outdir)
 
 	print 'total unzipping time for one year is ' + str(time() - start_time) + ' seconds'

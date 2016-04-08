@@ -1,0 +1,65 @@
+
+	                     
+FILENAME: IMP_DETL.TXT
+
+*************************************************
+
+POSITION 	FIELD NAME 	DESCRIPTION
+
+1-10 		commodity 	10-Digit Harmonized Tariff Schedule (HTS) Code
+
+11-60 		abbreviatn 	50-Digit HTS Description
+
+61-63 		unit_qy1 	3-Digit Unit of Quantity 1
+
+64-67 		cty_code 	4-Digit Country Code
+
+68-97 		cty_name 	30-Digit Country Name
+
+98-99 		cty_subco	2-Digit Country Subcode
+
+100-101 	dist_entry 	2-Digit District of Entry Code
+
+102-131 	dist_name 	30-Digit District Name
+
+132-141 	years_ap 	10-Digit All 2-Digit Years HS Code Has Data During 5 Year History
+
+142-156 	con_qy1_09 	15-Digit Imports for Consumption, Quantity 1, First Year in Series
+
+157-171 	con_val_09 	15-Digit Imports for Consumption, Total Value, First Year in Series
+
+172-186 	gen_qy1_09 	15-Digit General Imports, Quantity 1, First Year in Series
+
+187-201 	gen_val_09 	15-Digit General Imports, Total Value, Second Year in Series
+
+202-216 	con_qy1_10 	15-Digit Imports for Consumption, Quantity 1, Second Year in Series
+
+217-231 	con_val_10 	15-Digit Imports for Consumption, Total Value, Second Year in Series
+
+232-246 	gen_qy1_10 	15-Digit General Imports, Quantity 1, Second Year in Series
+
+247-261 	gen_val_10 	15-Digit General Imports, Total Value, Second Year in Series
+
+262-276 	con_qy1_11 	15-Digit Imports for Consumption, Quantity 1, Third Year in Series
+
+277-291 	con_val_11 	15-Digit Imports for Consumption, Total Value, Third Year in Series
+
+292-306 	gen_qy1_11 	15-Digit General Imports, Quantity 1, Third Year in Series
+
+307-321 	gen_val_11 	15-Digit General Imports, Total Value, Third Year in Series
+
+322-336 	con_qy1_12 	15-Digit Imports for Consumption, Quantity 1, Fourth Year in Series
+
+337-351 	con_val_12 	15-Digit Imports for Consumption, Total Value, Fourth Year in Series
+
+352-366 	gen_qy1_12 	15-Digit General Imports, Quantity 1, Fourth Year in Series
+
+367-381 	gen_val_12 	15-Digit General Imports, Total Value, Fourth Year in Series
+
+382-396 	con_qy1_13 	15-Digit Imports for Consumption, Quantity 1, Fifth Year in Series
+
+397-411 	con_val_13 	15-Digit Imports for Consumption, Total Value, Fifth Year in Series
+
+412-426 	gen_qy1_13 	15-Digit General Imports, Quantity 1, Fifth Year in Series
+
+427-441 	gen_val_13 	15-Digit General Imports, Total Value, Fifth Year in Series
