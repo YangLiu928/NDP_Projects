@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 app.use(bodyParser.json({limit: '50mb'}));
 app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
 app.set('port', (process.env.PORT || 5000));
-app.set ('views', __dirname + '/views');
+app.set ('views', __dirname + '/frontend');
 app.set ('view engine', 'ejs');
 
 ids=[];
@@ -48,16 +48,14 @@ app.post('/generatePNG',function(req, res){
 // the Twitter card then requests the server to serve the png image generated. The GET call uses the id to identify
 // which image to capture
 app.get('/share',function(req, res){
-
 	var id = req.param('id');
 	if (ids.indexOf(id)!=-1){
 		ids.splice(ids.indexOf(id),1);
-		fs.unlink(id+'.png');
 		res.render('index.ejs',{"id":id});
+		fs.unlink(id+'.png');
 	} else {
-		res.sendFile(__dirname + '/frontend/index.html');
-	}
-	
+		res.render('index.ejs',{"id":id});
+	}	
 });
 
 app.listen(app.get('port'), function() {
