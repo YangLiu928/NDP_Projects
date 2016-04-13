@@ -55,7 +55,8 @@ app.get('/share',function(req, res){
 		fs.unlink(id+'.png');
 	} else {
 		res.render('index.ejs',{"id":id});
-	}	
+	}
+		
 });
 
 app.listen(app.get('port'), function() {
