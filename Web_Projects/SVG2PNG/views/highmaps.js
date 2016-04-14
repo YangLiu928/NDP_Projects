@@ -311,7 +311,7 @@ $(function () {
                 alert(response);
                 // var encodedUrl = encodeURI(url);
                 // href = "https://twitter.com/intent/tweet?url=" + encodedUrl;
-                alert("url="+url);
+                alert("url="+href);
                 FB.ui({
                   method: 'share',
                   href: url,
@@ -322,4 +322,6 @@ $(function () {
             });
         });        
     });
+
+
 });
