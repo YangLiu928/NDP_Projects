@@ -279,7 +279,7 @@ $(function () {
             var svg = chart.getSVG({
                 exporting:{
                     sourceWidth: 1200,
-                    sourceHeight: 630
+                    sourceHeight: 400
                     }
                 });
             $.post('http://mysterious-tor-51041.herokuapp.com/generatePNG',{svg:svg,id:id},function(response){
@@ -288,7 +288,7 @@ $(function () {
                 var encodedUrl = encodeURI(url);
                 href = "https://twitter.com/intent/tweet?url=" + encodedUrl;
                 alert("url="+href);
-                window.open(href)
+                window.open(href,"","width=900,height=300,top=200, left=300",false);
                 // document.location.href= href;
             });
         });        
@@ -303,7 +303,7 @@ $(function () {
             var svg = chart.getSVG({
                 exporting:{
                     sourceWidth: 1200,
-                    sourceHeight: 630
+                    sourceHeight: 400
                     }
                 });
             $.post('http://mysterious-tor-51041.herokuapp.com/generatePNG',{svg:svg,id:id},function(response){
