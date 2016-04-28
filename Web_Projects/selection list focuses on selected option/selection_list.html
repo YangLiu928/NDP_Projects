@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Selection List Example</title>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="container">
+      <select multiple class="form" id="sel1" style="width: 100px">
+        <option value = "A">A</option>
+        <option>B</option>
+        <option>C</option>
+        <option value = 'D'>D</option>
+        <option>E</option>
+        <option>F</option>
+        <option>G</option>
+        <option>H</option>
+        <option value = 'I'>I</option>
+        <option>J</option>
+        <option>K</option>
+        <option>L</option>
+        <option value = 'M'>M</option>
+        <option value = 'N'>N</option>
+        <option>O</option>
+      </select>
+      <!-- <select multiple class="form" id="sel2" style="width: 100px"	> -->
+      <!-- </select> -->
+	</div>
+
+</body>
+	<script type="text/javascript">
+	$("option[value='M']").attr('selected','selected');
+	$("option[value='I']").attr('selected','selected');
+
+	// if ($("#sel1 option:selected").length>0){
+	// 	var selectedIndex = $("#sel1")[0].selectedIndex;
+	// 	var size = $("#sel1").children('option').length;
+	// 	console.log(size);
+	// 	// var optionList = $("#sel1 option:selected");
+	// 	// var firstOption = optionList[0];
+	// 	var pixelHeight = $("#sel1").children('option')[0];
+	// 	console.log("height of entire list = " + pixelHeight);
+	// 	var pixelToTop = ((selectedIndex + 1)/size)*pixelHeight;
+	// 	console.log(pixelToTop);
+	// 	// $("#sel1").scrollTop(pixelToTop);
+	// }
+	</script>
+</html>
